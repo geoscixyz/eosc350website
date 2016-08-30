@@ -3,6 +3,7 @@
 EOSC 350: Environmental, Geotechnical and Exploration Geophysics I
 ==================================================================
 
+
 Course Description
 ------------------
 
@@ -39,4 +40,14 @@ Contact Information
 - Seogi Kang: skang@eos.ubc.ca, Office: ESB 4037
 - Lindsey Heagy: lheagy@eos.ubc.ca, Office: ESB 4033C
 
-Contact the TA's by e-mail or in person for availibility
+Contact the TA's by e-mail or in person for availability. Please include
+'EOSC350' in the subject line.
+
+
+
+**Contents**
+
+.. toctree::
+    :maxdepth: 2
+
+    content/schedule
