@@ -1,11 +1,42 @@
-.. _index::
+.. _index:
 
-EOSC 350
-========
+EOSC 350: Environmental, Geotechnical and Exploration Geophysics I
+==================================================================
 
-Contents:
+Course Description
+------------------
 
-.. toctree::
-   :maxdepth: 2
+Principles of geophysical survey design, data acquisition, processing and
+interpretation with emphasis on near-surface problems. Magnetic, seismic
+reflection/refraction, electromagnetic and ground penetrating radar surveys.
+Case history analysis of environmental and geotechnical problems.
 
+Course Times
+------------
 
+**Lectures:**
+
+- Mon Wed Fri   2:00-3:00 in EOS Main 135
+
+**Labs:**
+
+- Section L1A: Mon   3:00-5:00 in EOS Main 203
+- Section L2A: Wed   3:00-5:00 in EOS Main 203
+
+Contact Information
+-------------------
+
+**Instructor:**
+
+- Doug Oldenburg: doug@eos.ubc.ca, Office: ESB 5194
+
+**Teaching Assistants:**
+
+- Dom Fournier: fourndo@gmail.com, Office:
+- Patrick Belliveau: patrick.t.belliveau@gmail.com, Office:
+- Thibaut Astic: thibaut.astic@gmail.com, Office: ESB 4037
+- Devin Cowan: devinccowan@gmail.com, Office:
+- Seogi Kang: skang@eos.ubc.ca, Office: ESB 4037
+- Lindsey Heagy: lheagy@eos.ubc.ca, Office: ESB 4033C
+
+Contact the TA's by e-mail or in person for availibility
