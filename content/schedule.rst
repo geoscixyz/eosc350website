@@ -177,7 +177,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Devin: devinccowan@gmail.com
 .. _Dom: fourndo@gmail.com
 .. _Thibaut: thast@eos.ubc.ca
-.. _Patrick: patrick.t.belliveau@gmail.com
+.. _Patrick: pbellive@eos.ubc.ca
 
 .. toctree::
     :hidden:
