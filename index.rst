@@ -17,7 +17,7 @@ Course Times
 
 **Lectures:**
 
-- Mon Wed Fri   2:00-3:00 in EOS Main 135
+- Mon Wed Fri   2:00-3:00 in McMillan Bldg Room 160 
 
 **Labs:**
 
