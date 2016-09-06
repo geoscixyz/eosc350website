@@ -109,7 +109,7 @@ This page will be updated regularly throughout the year, check it often.
 .. ============= Links ==========================
 
 .. ------------- General ------------------------
-.. _syllabus: https://github.com/lheagy/eosc350/raw/master/2016/Syllabus/syllabus2016.pdf
+.. _syllabus: notpostedyet.html
 
 .. ------------- GPG ----------------------------
 .. _GPG Foundations: http://gpg.geosci.xyz/en/latest/content/foundations/index.html
@@ -123,8 +123,8 @@ This page will be updated regularly throughout the year, check it often.
 .. _GPG Induced Polarization: http://gpg.geosci.xyz/en/latest/content/induced_polarization/index.html
 
 .. ------------- Lectures -----------------------
-.. _Lecture 1 Intro: https://github.com/lheagy/eosc350/raw/master/2016/0_PhysicalProperties/Lecture/a_Intro_350.pdf
-.. _Lecture 2 Intro: https://github.com/lheagy/eosc350/raw/master/2016/0_PhysicalProperties/Lecture/b_Intro_to_applied_geophysics.pdf
+.. _Lecture 1 Intro: notpostedyet.html
+.. _Lecture 2 Intro: notpostedyet.html
 .. _Lecture 3 Magnetics: notpostedyet.html
 .. _Lecture 4 Seismic: notpostedyet.html
 .. _Lecture 5 GPR: notpostedyet.html
@@ -133,7 +133,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Review Lecture: notpostedyet.html
 
 .. ------------- Labs ---------------------------
-.. _Lab 1 Physical Properties: https://github.com/lheagy/eosc350/raw/master/2016/0_PhysicalProperties/Lab1/Lab1_student.pdf
+.. _Lab 1 Physical Properties: notpostedyet.html
 .. _Lab 2 Magnetics Part 1: notpostedyet.html
 .. _Lab 3 Magnetics Part 2: notpostedyet.html
 .. _Lab 4 Seismic Refraction: notpostedyet.html
