@@ -109,7 +109,7 @@ This page will be updated regularly throughout the year, check it often.
 .. ============= Links ==========================
 
 .. ------------- General ------------------------
-.. _syllabus: notpostedyet.html
+.. _syllabus: https://github.com/ubcgif/eosc350website/raw/master/assets/syllabus2016.pdf
 
 .. ------------- GPG ----------------------------
 .. _GPG Foundations: http://gpg.geosci.xyz/en/latest/content/foundations/index.html
@@ -123,8 +123,8 @@ This page will be updated regularly throughout the year, check it often.
 .. _GPG Induced Polarization: http://gpg.geosci.xyz/en/latest/content/induced_polarization/index.html
 
 .. ------------- Lectures -----------------------
-.. _Lecture 1 Intro: notpostedyet.html
-.. _Lecture 2 Intro: notpostedyet.html
+.. _Lecture 1 Intro: https://github.com/ubcgif/eosc350website/raw/master/assets/0_PhysicalProperties/a_Intro_350.pdf
+.. _Lecture 2 Intro: https://github.com/ubcgif/eosc350website/raw/master/assets/0_PhysicalProperties/b_Intro_to_applied_geophysics.pdf
 .. _Lecture 3 Magnetics: notpostedyet.html
 .. _Lecture 4 Seismic: notpostedyet.html
 .. _Lecture 5 GPR: notpostedyet.html
@@ -153,7 +153,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _DC App: notpostedyet.html
 
 .. ------------- TBL ----------------------------
-.. _TBL 1: notpostedyet.html
+.. _TBL 1: https://github.com/ubcgif/eosc350website/raw/master/assets/0_PhysicalProperties/TBL1.pdf
 .. _TBL 2 Individual: notpostedyet.html
 .. _TBL 2 Team: notpostedyet.html
 .. _TBL 3 Individual: notpostedyet.html
