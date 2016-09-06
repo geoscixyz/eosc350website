@@ -153,7 +153,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _DC App: notpostedyet.html
 
 .. ------------- TBL ----------------------------
-.. _TBL 1: https://github.com/lheagy/eosc350/raw/master/2016/0_PhysicalProperties/TBL1/TBL1.pdf
+.. _TBL 1: notpostedyet.html
 .. _TBL 2 Individual: notpostedyet.html
 .. _TBL 2 Team: notpostedyet.html
 .. _TBL 3 Individual: notpostedyet.html
