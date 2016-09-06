@@ -1,0 +1,18 @@
+/* changed side navigation bg color */
+
+.wy-side-nav-search {
+     background-color: #1F5E42 !important;
+}
+
+.wy-nav-top {
+    background-color: #1F5E42 !important;
+}
+
+/* override navigation menu caption and link text colors */
+
+/*.wy-menu-vertical .caption-text {
+    color : #7e7e7e;
+}
+.wy-menu-vertical a {
+     color : #f0f0f0;
+}*/

@@ -5,6 +5,7 @@ Course Schedule
 
 This page will be updated regularly throughout the year, check it often.
 
+.. tabularcolumns:: |c{1cm}|c|c|c|c|c|c|c|
 
 +-----+---+--+------------------+-----------------------------+------------------------+------------------------------+------------+
 |month|day|wk|goals             |required                     |activity                |lab                           |Contact     |
