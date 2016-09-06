@@ -167,7 +167,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _TBL 7: notpostedyet.html
 
 .. ------------- Case Histories -----------------
-.. _Phys Props Case History: notpostedyet.html
+.. _Phys Props Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/0_PhysicalProperties/Hodgson_Ireland_First_Break_Aug_2009.pdf
 .. _Mag Case History: notpostedyet.html
 .. _Seismic Case History: notpostedyet.html
 .. _GPR Case History: notpostedyet.html
