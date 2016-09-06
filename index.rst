@@ -33,10 +33,10 @@ Contact Information
 
 **Teaching Assistants:**
 
-- Dom Fournier: fourndo@gmail.com, Office:
-- Patrick Belliveau: patrick.t.belliveau@gmail.com, Office:
+- Dom Fournier: fourndo@gmail.com, Office:ESG
+- Patrick Belliveau: patrick.t.belliveau@gmail.com, Office: ESB 3031
 - Thibaut Astic: thast@eos.ubc.ca, Office: ESB 4037
-- Devin Cowan: devinccowan@gmail.com, Office:
+- Devin Cowan: devinccowan@gmail.com, Office: ESB
 - Seogi Kang: skang@eos.ubc.ca, Office: ESB 4037
 - Lindsey Heagy: lheagy@eos.ubc.ca, Office: ESB 4033C
 
