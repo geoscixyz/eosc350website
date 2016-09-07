@@ -8,15 +8,15 @@
     background-color: #1F5E42 !important;
 }
 .wy-nav-side {
-    max-width: 300px;
+    max-width: 300px !important;
 }
 .wy-nav-content {
-    max-width: 1200px;
+    max-width: 1200px!important;
     overflow: auto;
 }
 
 .wy-table-responsive{
-    font-size: 80%
+    font-size: 80% !important;
 }
 /* override navigation menu caption and link text colors */
 
