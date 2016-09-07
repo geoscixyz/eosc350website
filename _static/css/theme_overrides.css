@@ -7,7 +7,17 @@
 .wy-nav-top {
     background-color: #1F5E42 !important;
 }
+.wy-nav-side {
+    max-width: 300px;
+}
+.wy-nav-content {
+    max-width: 1200px;
+    overflow: auto;
+}
 
+.wy-table-responsive{
+    font-size: 80%
+}
 /* override navigation menu caption and link text colors */
 
 /*.wy-menu-vertical .caption-text {
