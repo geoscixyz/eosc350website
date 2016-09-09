@@ -5,6 +5,10 @@ Course Schedule
 
 This page will be updated regularly throughout the year, check it often.
 
+.. note::
+
+    Please print out the labs before attending the lab period.
+
 
 +-----+---+--+------------------+-----------------------------+------------------------+------------------------------+------------+
 |month|day|wk|goals             |required                     |activity                |lab                           |Contact     |
