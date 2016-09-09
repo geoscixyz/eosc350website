@@ -133,7 +133,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Review Lecture: notpostedyet.html
 
 .. ------------- Labs ---------------------------
-.. _Lab 1 Physical Properties: notpostedyet.html
+.. _Lab 1 Physical Properties: https://www.dropbox.com/s/j00xmb7oqlfkduj/Lab1_withimages_student.pdf
 .. _Lab 2 Magnetics Part 1: notpostedyet.html
 .. _Lab 3 Magnetics Part 2: notpostedyet.html
 .. _Lab 4 Seismic Refraction: notpostedyet.html
