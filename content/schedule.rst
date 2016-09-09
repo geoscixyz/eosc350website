@@ -137,7 +137,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Review Lecture: notpostedyet.html
 
 .. ------------- Labs ---------------------------
-.. _Lab 1 Physical Properties: https://github.com/ubcgif/eosc350website/blob/master/assets/0_PhysicalProperties/Lab1_withimages_student.pdf
+.. _Lab 1 Physical Properties: https://github.com/ubcgif/eosc350website/raw/master/assets/0_PhysicalProperties/Lab1_withimages_student.pdf
 .. _Lab 2 Magnetics Part 1: notpostedyet.html
 .. _Lab 3 Magnetics Part 2: notpostedyet.html
 .. _Lab 4 Seismic Refraction: notpostedyet.html
