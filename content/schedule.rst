@@ -116,15 +116,15 @@ This page will be updated regularly throughout the year, check it often.
 .. _syllabus: https://github.com/ubcgif/eosc350website/raw/master/assets/syllabus2016.pdf
 
 .. ------------- GPG ----------------------------
-.. _GPG Foundations: http://gpg.geosci.xyz/en/latest/content/foundations/index.html
-.. _GPG Physical Properties: http://gpg.geosci.xyz/en/latest/content/foundations/index.html
-.. _GPG Magnetics: http://gpg.geosci.xyz/en/latest/content/magnetics/index.html
-.. _GPG Seismic Refraction: http://gpg.geosci.xyz/en/latest/content/seismic/refraction/index.html
-.. _GPG Seismic Reflection: http://gpg.geosci.xyz/en/latest/content/seismic/reflection/index.html
-.. _GPG GPR: http://gpg.geosci.xyz/en/latest/content/GPR/index.html
-.. _GPG EM: http://gpg.geosci.xyz/en/latest/content/electromagnetics/index.html
-.. _GPG DC Resistivity: http://gpg.geosci.xyz/en/latest/content/DC_resistivity/index.html
-.. _GPG Induced Polarization: http://gpg.geosci.xyz/en/latest/content/induced_polarization/index.html
+.. _GPG Foundations: http://gpg.geosci.xyz/content/foundations/index.html
+.. _GPG Physical Properties: http://gpg.geosci.xyz/content/foundations/index.html
+.. _GPG Magnetics: http://gpg.geosci.xyz/content/magnetics/index.html
+.. _GPG Seismic Refraction: http://gpg.geosci.xyz/content/seismic/refraction/index.html
+.. _GPG Seismic Reflection: http://gpg.geosci.xyz/content/seismic/reflection/index.html
+.. _GPG GPR: http://gpg.geosci.xyz/content/GPR/index.html
+.. _GPG EM: http://gpg.geosci.xyz/content/electromagnetics/index.html
+.. _GPG DC Resistivity: http://gpg.geosci.xyz/content/DC_resistivity/index.html
+.. _GPG Induced Polarization: http://gpg.geosci.xyz/content/induced_polarization/index.html
 
 .. ------------- Lectures -----------------------
 .. _Lecture 1 Intro: https://github.com/ubcgif/eosc350website/raw/master/assets/0_PhysicalProperties/a_Intro_350.pdf
