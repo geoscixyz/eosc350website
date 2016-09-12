@@ -24,6 +24,12 @@ Course Times
 - Section L1A: Mon   3:00-5:00 in EOS Main 203
 - Section L2A: Wed   3:00-5:00 in EOS Main 203
 
+**TBL Teams:**
+
+- EOS350_Teams_pdf_
+
+.. _EOS350_Teams_pdf: https://github.com/ubcgif/eosc350website/raw/master/assets/EOS350_Teams.pdf
+
 Contact Information
 -------------------
 
