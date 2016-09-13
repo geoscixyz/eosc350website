@@ -3,6 +3,10 @@
 EOSC 350: Environmental, Geotechnical and Exploration Geophysics I
 ==================================================================
 
+Announcement:
+-------------
+
+A box will be set up outside of ESB4037 Tuesday the 13th from 10am to 5pm to collect Lab 1 that were not handed Monday.
 
 Course Description
 ------------------
