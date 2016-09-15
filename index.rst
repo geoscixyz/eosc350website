@@ -3,10 +3,14 @@
 EOSC 350: Environmental, Geotechnical and Exploration Geophysics I
 ==================================================================
 
-Announcement:
--------------
+.. note::
 
-A box will be set up outside of ESB4037 Tuesday the 13th from 10am to 5pm to collect Lab 1 that were not handed Monday.
+    - **Please give us your email!**: `email spreadsheet`_
+
+    .. _email spreadsheet: https://docs.google.com/spreadsheets/d/14GIRirXGTM3Hc2zDJNCZ6-CLzsp3h7GsIxJ4RMZ8CS8/edit?usp=sharing
+
+
+    - A box will be set up outside of ESB4037 from 10am to 5pm to collect Lab 1 that were not handed in at the end of the lab.
 
 Course Description
 ------------------
@@ -34,10 +38,6 @@ Course Times
 
 .. _EOS350_Teams_pdf: https://github.com/ubcgif/eosc350website/raw/master/assets/EOS350_Teams.pdf
 
-**Email directory:**
-- Sign_in_ spreadsheet
-
-.. _Sign_in: https://docs.google.com/spreadsheets/d/14GIRirXGTM3Hc2zDJNCZ6-CLzsp3h7GsIxJ4RMZ8CS8/edit?usp=sharing
 
 Contact Information
 -------------------
