@@ -57,7 +57,7 @@ Lectures
         youtube_block="""
 .. raw:: html
 
-    <div style="margin-top:10px; margin-bottom:10px;" align="center">
+    <div style="margin-top:10px; margin-bottom:20px;" align="center">
     <iframe width="560" height="315" src="{url}" frameborder="0" allowfullscreen>
     </iframe>
     </div>

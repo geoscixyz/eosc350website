@@ -28,7 +28,7 @@ Introduction to EOSC 350
 
 .. raw:: html
 
-    <div style="margin-top:10px; margin-bottom:10px;" align="center">
+    <div style="margin-top:10px; margin-bottom:20px;" align="center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/C1U2okdfMbU?rel=0" frameborder="0" allowfullscreen>
     </iframe>
     </div>
@@ -51,7 +51,7 @@ Introduction to Applied Geophysics
 
 .. raw:: html
 
-    <div style="margin-top:10px; margin-bottom:10px;" align="center">
+    <div style="margin-top:10px; margin-bottom:20px;" align="center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/xw5o3TYYWUE?rel=0" frameborder="0" allowfullscreen>
     </iframe>
     </div>
@@ -74,7 +74,7 @@ Magnetics 1
 
 .. raw:: html
 
-    <div style="margin-top:10px; margin-bottom:10px;" align="center">
+    <div style="margin-top:10px; margin-bottom:20px;" align="center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/-WeOfAh6Hm8?rel=0" frameborder="0" allowfullscreen>
     </iframe>
     </div>
