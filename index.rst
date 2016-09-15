@@ -66,3 +66,4 @@ Contact the TA's by e-mail or in person for availability. Please include
     :maxdepth: 2
 
     content/schedule
+    content/lectures

@@ -1,0 +1,23 @@
+{
+    "0":{
+        "title": "Introduction to EOSC 350",
+        "date": "2016-09-07",
+        "author": "Doug Oldenburg",
+        "youtube": "C1U2okdfMbU",
+        "pdf": "https://github.com/ubcgif/eosc350website/raw/master/assets/0_PhysicalProperties/a_Intro_350.pdf"
+    },
+    "1":{
+        "title": "Introduction to Applied Geophysics",
+        "date": "2016-09-09",
+        "author": "Doug Oldenburg",
+        "youtube": "xw5o3TYYWUE",
+        "pdf": "https://github.com/ubcgif/eosc350website/raw/master/assets/0_PhysicalProperties/b_Intro_to_applied_geophysics.pdf"
+    },
+    "2":{
+        "title": "Magnetics 1",
+        "date": "2016-09-04",
+        "author": "Doug Oldenburg",
+        "youtube": "-WeOfAh6Hm8",
+        "pdf": "https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics_A.pdf"
+    }
+}

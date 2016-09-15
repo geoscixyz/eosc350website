@@ -15,6 +15,8 @@
 import sys
 import os
 
+sys.path.append(os.path.abspath('./_ext'))
+
 # If extensions (or modules to document with autodoc) are in another directory,
 # add these directories to sys.path here. If the directory is relative to the
 # documentation root, use os.path.abspath to make it absolute, like shown here.
@@ -298,3 +300,10 @@ texinfo_documents = [
 
 def setup(app):
     app.add_stylesheet("_static/theme_overrides.css")
+
+
+sys.path.append(os.getcwd())
+
+from _ext import make_lectures_page
+
+make_lectures_page()
