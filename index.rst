@@ -64,8 +64,9 @@ Contact the TA's by e-mail or in person for availability. Please include
 **Contents**
 
 .. toctree::
-    :maxdepth: 2
+    :maxdepth: 1
 
     content/schedule
     content/lectures
     content/apps
+    content/resources
