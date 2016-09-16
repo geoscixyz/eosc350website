@@ -23,7 +23,7 @@ Introduction to EOSC 350
 *September 07, 2016*
 
 - `Introduction to EOSC 350 lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/0_PhysicalProperties/a_Intro_350.pdf>`_
-
+        
 
 
 .. raw:: html
@@ -34,9 +34,9 @@ Introduction to EOSC 350
     </div>
 
 
+        
 
-
-
+        
 .. _lecture_1:
 
 Introduction to Applied Geophysics
@@ -46,7 +46,7 @@ Introduction to Applied Geophysics
 *September 09, 2016*
 
 - `Introduction to Applied Geophysics lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/0_PhysicalProperties/b_Intro_to_applied_geophysics.pdf>`_
-
+        
 
 
 .. raw:: html
@@ -57,9 +57,9 @@ Introduction to Applied Geophysics
     </div>
 
 
+        
 
-
-
+        
 .. _lecture_2:
 
 Magnetics 1
@@ -68,8 +68,8 @@ Magnetics 1
 
 *September 04, 2016*
 
-- `Magnetics 1 lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics.pdf>`_
-
+- `Magnetics 1 lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics_A.pdf>`_
+        
 
 
 .. raw:: html
@@ -80,6 +80,6 @@ Magnetics 1
     </div>
 
 
+        
 
-
-
+        
