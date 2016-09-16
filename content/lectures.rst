@@ -68,7 +68,7 @@ Magnetics 1
 
 *September 04, 2016*
 
-- `Magnetics 1 lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics_A.pdf>`_
+- `Magnetics 1 lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics.pdf>`_
         
 
 
