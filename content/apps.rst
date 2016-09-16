@@ -45,9 +45,8 @@ Unpack the zip file somewhere handy.
 To then run the notebooks, you need to open up a command window / terminal in that folder.
 Use the command :code:`cd` to change the directory the terminal is in.
 
-Once in the `gpgLabs` directory, you can start the apps by running
+Once in the `gpgLabs` directory, you can start the apps by running::
 
-.. code::
     jupyter notebook
 
 from the command line. If you then open the index notebook, this is the
