@@ -129,7 +129,7 @@ This page will be updated regularly throughout the year, check it often.
 .. ------------- Lectures -----------------------
 .. _Lecture 1 Intro: https://github.com/ubcgif/eosc350website/raw/master/assets/0_PhysicalProperties/a_Intro_350.pdf
 .. _Lecture 2 Intro: https://github.com/ubcgif/eosc350website/raw/master/assets/0_PhysicalProperties/b_Intro_to_applied_geophysics.pdf
-.. _Lecture 3 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics_A.pdf
+.. _Lecture 3 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics.pdf
 .. _Lecture 4 Seismic: notpostedyet.html
 .. _Lecture 5 GPR: notpostedyet.html
 .. _Lecture 6 EM: notpostedyet.html
@@ -158,8 +158,8 @@ This page will be updated regularly throughout the year, check it often.
 
 .. ------------- TBL ----------------------------
 .. _TBL 1: https://github.com/ubcgif/eosc350website/raw/master/assets/0_PhysicalProperties/TBL1.pdf
-.. _TBL 2 Individual: notpostedyet.html
-.. _TBL 2 Team: notpostedyet.html
+.. _TBL 2 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/tbl2_Indv_vStudent.pdf
+.. _TBL 2 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/tbl2_Team_vStudent.pdf
 .. _TBL 3 Individual: notpostedyet.html
 .. _TBL 3 Team: notpostedyet.html
 .. _TBL 4 Individual: notpostedyet.html
@@ -172,7 +172,7 @@ This page will be updated regularly throughout the year, check it often.
 
 .. ------------- Case Histories -----------------
 .. _Phys Props Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/0_PhysicalProperties/Hodgson_Ireland_First_Break_Aug_2009.pdf
-.. _Mag Case History: notpostedyet.html
+.. _Mag Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/BrineWellsCaseStudy.pdf
 .. _Seismic Case History: notpostedyet.html
 .. _GPR Case History: notpostedyet.html
 .. _EM Case History: notpostedyet.html
