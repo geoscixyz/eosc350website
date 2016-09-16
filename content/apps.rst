@@ -1,0 +1,58 @@
+.. _apps:
+
+Apps
+====
+
+Jupyter Notebooks for this course are available through the binders service
+
+.. image:: http://mybinder.org/badge.svg
+    :target: http://mybinder.org:/repo/ubcgif/gpgLabs
+    :align: center
+
+Each of the apps available for the course are linked and listed in the
+notebook. This will be updated during the course.
+
+Running the Notebooks
+---------------------
+
+Each notebook contains a number of *cells* which contain code that needs to be
+executed to run the app. You can do this cell by cell by executing `Shift + Enter`
+or by running all of the cells (see image below)
+
+.. image:: ../images/jupyter_runall.png
+
+If you run into issues, or want to start from a clean slate, you can use the
+keyboard shortcut `Esc + 00` or the Kernel --> restart (see image below) to
+restarts the kernel (clears the current variables from memory)
+
+.. image:: ../images/jupyter_restart_kernel.png
+
+Installing Locally
+------------------
+
+If you would like to download and run the notebooks on your own computer, you will need to
+first install python. You can do this with `anaconda <https://www.continuum.io/downloads>`_
+
+.. image:: ../images/download_anaconda.png
+
+The notebooks can be downloaded from `github <https://github.com/ubcgif/gpgLabs>`_. This will
+be updated during the term.
+
+.. image:: ../images/gpgLabsDownload.png
+
+Unpack the zip file somewhere handy.
+
+To then run the notebooks, you need to open up a command window / terminal in that folder.
+Use the command :code:`cd` to change the directory the terminal is in.
+
+Once in the `gpgLabs` directory, you can start the apps by running
+
+.. code::
+    jupyter notebook
+
+from the command line. If you then open the index notebook, this is the
+starting point with all other notebooks outlined.
+
+.. image:: ../images/jupyter_index.png
+
+

@@ -304,6 +304,7 @@ def setup(app):
 
 sys.path.append(os.getcwd())
 
-from _ext import make_lectures_page
+from _ext import make_lectures_page, supress_nonlocal_image_warn
 
 make_lectures_page()
+supress_nonlocal_image_warn()

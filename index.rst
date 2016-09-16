@@ -34,10 +34,11 @@ Course Times
 
 **TBL Teams:**
 
-- EOS350_Teams_pdf_
+- `EOS350 Teams pdf`_
 
-.. _EOS350_Teams_pdf: https://github.com/ubcgif/eosc350website/raw/master/assets/EOS350_Teams.pdf
+.. _EOS350 Teams pdf: https://github.com/ubcgif/eosc350website/raw/master/assets/EOS350_Teams.pdf
 
+.. _Contact_Info:
 
 Contact Information
 -------------------
@@ -67,3 +68,4 @@ Contact the TA's by e-mail or in person for availability. Please include
 
     content/schedule
     content/lectures
+    content/apps
