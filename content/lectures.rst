@@ -120,3 +120,31 @@ Magnetics 2
         
 
         
+.. _lecture_4:
+
+Magnetics 3
+-----------
+
+
+*September 19, 2016*
+
+
+- `Magnetics 3 lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics.pdf>`_
+            
+
+- `Jupyter notebook <http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/Mag/InducedMag2D.ipynb>`_
+            
+        
+
+
+.. raw:: html
+
+    <div style="margin-top:10px; margin-bottom:20px;" align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/dd7bJ9rhJUE?rel=0" frameborder="0" allowfullscreen>
+    </iframe>
+    </div>
+
+
+        
+
+        
