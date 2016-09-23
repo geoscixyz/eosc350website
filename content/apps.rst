@@ -45,6 +45,14 @@ Unpack the zip file somewhere handy.
 To then run the notebooks, you need to open up a command window / terminal in that folder.
 Use the command :code:`cd` to change the directory the terminal is in.
 
+You will need to install a few packages. This is done by running::
+
+    pip install -r requirements.txt
+
+If you are run into an error about `git`, `download and install git <https://git-scm.com/downloads>`_.
+Then re-run :code:`pip install -r requirements.txt`. This step will only need to be done
+the first time you download the zip file.
+
 Once in the `gpgLabs` directory, you can start the apps by running::
 
     jupyter notebook
@@ -54,4 +62,5 @@ starting point with all other notebooks outlined.
 
 .. image:: ../images/jupyter_index.png
 
+Email the :ref:`TAs <Contact_Info>` if you run into issues!
 
