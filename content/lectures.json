@@ -43,5 +43,13 @@
         "youtube": "IK7z_-XjN7M",
         "pdf": "2_Magnetics/3_Magnetics.pdf",
         "jupyter": "Mag/InducedMag2D.ipynb"
+    },
+    "6":{
+        "title": "Magnetics 5",
+        "date":"2016-09-23",
+        "author": "Doug Oldenburg",
+        "youtube": "CtihJA84qm4",
+        "pdf": "2_Magnetics/3_Magnetics.pdf",
+        "jupyter": "Mag/InducedMag2D.ipynb"
     }
 }
