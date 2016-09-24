@@ -12,6 +12,8 @@ Jupyter Notebooks for this course are available through the binders service
 Each of the apps available for the course are linked and listed in the
 notebook. This will be updated during the course.
 
+If you run into issues, you can check the `binder status <http://mybinder.org/status/>`_.
+
 Running the Notebooks
 ---------------------
 
