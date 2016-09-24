@@ -23,7 +23,7 @@ Introduction to EOSC 350
 *September 07, 2016*
 
 
-- `Introduction to EOSC 350 lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/0_PhysicalProperties/a_Intro_350.pdf>`_
+- `Intro 350 lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/0_PhysicalProperties/a_Intro_350.pdf>`_
             
 
         
@@ -49,7 +49,7 @@ Introduction to Applied Geophysics
 *September 09, 2016*
 
 
-- `Introduction to Applied Geophysics lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/0_PhysicalProperties/b_Intro_to_applied_geophysics.pdf>`_
+- `Intro to applied geophysics lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/0_PhysicalProperties/b_Intro_to_applied_geophysics.pdf>`_
             
 
         
@@ -75,7 +75,7 @@ Magnetics 1
 *September 14, 2016*
 
 
-- `Magnetics 1 lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics.pdf>`_
+- `Magnetics lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics.pdf>`_
             
 
         
@@ -101,7 +101,7 @@ Magnetics 2
 *September 16, 2016*
 
 
-- `Magnetics 2 lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics.pdf>`_
+- `Magnetics lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics.pdf>`_
             
 
 - `Jupyter notebook <http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/Mag/InducedMag2D.ipynb>`_
@@ -129,7 +129,7 @@ Magnetics 3
 *September 19, 2016*
 
 
-- `Magnetics 3 lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics.pdf>`_
+- `Magnetics lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics.pdf>`_
             
 
 - `Jupyter notebook <http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/Mag/InducedMag2D.ipynb>`_
@@ -157,7 +157,7 @@ Magnetics 4
 *September 21, 2016*
 
 
-- `Magnetics 4 lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics.pdf>`_
+- `Magnetics lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics.pdf>`_
             
 
 - `Jupyter notebook <http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/Mag/InducedMag2D.ipynb>`_
@@ -185,7 +185,7 @@ Magnetics 5
 *September 23, 2016*
 
 
-- `Magnetics 5 lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics.pdf>`_
+- `Magnetics lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics.pdf>`_
             
 
 - `Jupyter notebook <http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/Mag/InducedMag2D.ipynb>`_
