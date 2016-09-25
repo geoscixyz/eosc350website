@@ -32,10 +32,19 @@ restarts the kernel (clears the current variables from memory)
 Installing Locally
 ------------------
 
+Step 1: Download Anaconda
+^^^^^^^^^^^^^^^^^^^^^^^^^
+
 If you would like to download and run the notebooks on your own computer, you will need to
 first install python. You can do this with `anaconda <https://www.continuum.io/downloads>`_
 
 .. image:: ../images/download_anaconda.png
+
+Before trying to run any of the apps, be sure to quit and re-open a command
+window (this refreshes your environment, so it will look at the newly installed python)
+
+Step 2: Download GPG Labs
+^^^^^^^^^^^^^^^^^^^^^^^^^
 
 The notebooks can be downloaded from `github <https://github.com/ubcgif/gpgLabs>`_. This will
 be updated during the term.
@@ -43,6 +52,9 @@ be updated during the term.
 .. image:: ../images/gpgLabsDownload.png
 
 Unpack the zip file somewhere handy.
+
+Step 3: Install Package Dependencies
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 To then run the notebooks, you need to open up a command window / terminal in that folder.
 Use the command :code:`cd` to change the directory the terminal is in.
@@ -54,6 +66,9 @@ You will need to install a few packages. This is done by running::
 If you are run into an error about `git`, `download and install git <https://git-scm.com/downloads>`_.
 Then re-run :code:`pip install -r requirements.txt`. This step will only need to be done
 the first time you download the zip file.
+
+Step 4: Run the Apps
+^^^^^^^^^^^^^^^^^^^^
 
 Once in the `gpgLabs` directory, you can start the apps by running::
 
