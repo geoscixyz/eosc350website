@@ -14,6 +14,7 @@ Lectures
 ========
 
 
+
 .. _lecture_0:
 
 Introduction to EOSC 350
