@@ -39,13 +39,13 @@ This page will be updated regularly throughout the year, check it often.
 +     +---+  +                  +-----------------------------+------------------------+                              +            +
 |     | 28|  |                  |- `GPG Magnetics`_           |- Magnetics Quiz        |                              |            |
 +     +---+  +------------------+-----------------------------+------------------------+                              +            +
-|     | 30|  || Seismic         |- `GPG Seismic Refraction`_  |- `Lecture 4 Seismic`_  |                              |            |
+|     | 30|  || Seismic         |- `GPG Seismic`_             |- `Lecture 4 Seismic`_  |                              |            |
 |     |   |  || Refraction      |                             |                        |                              |            |
 +-----+---+--+                  +                             +                        +------------------------------+------------+
 |Oct  | 3 | 5|                  |                             |                        |- `Lab 4 Seismic Refraction`_ || `Patrick`_|
 |     |   |  |                  |                             |                        |- `Seismic Refraction App`_   |            |
-+     +---+  +------------------+-----------------------------+                        +                              +            +
-|     | 5 |  || Seismic         |- `GPG Seismic Reflection`_  |                        |                              |            |
++     +---+  +------------------+                             +                        +                              +            +
+|     | 5 |  || Seismic         |                             |                        |                              |            |
 |     |   |  || Reflection      |                             |                        |                              |            |
 |     |   |  || & MASW          |                             |                        |                              |            |
 +     +---+  +                  +                             +                        +                              +            +
@@ -119,8 +119,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _GPG Foundations: http://gpg.geosci.xyz/content/foundations/index.html
 .. _GPG Physical Properties: http://gpg.geosci.xyz/content/foundations/index.html
 .. _GPG Magnetics: http://gpg.geosci.xyz/content/magnetics/index.html
-.. _GPG Seismic Refraction: http://gpg.geosci.xyz/content/seismic/refraction/index.html
-.. _GPG Seismic Reflection: http://gpg.geosci.xyz/content/seismic/reflection/index.html
+.. _GPG Seismic: http://gpg.geosci.xyz/content/seismic/index.html
 .. _GPG GPR: http://gpg.geosci.xyz/content/GPR/index.html
 .. _GPG EM: http://gpg.geosci.xyz/content/electromagnetics/index.html
 .. _GPG DC Resistivity: http://gpg.geosci.xyz/content/DC_resistivity/index.html
