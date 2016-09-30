@@ -38,7 +38,7 @@
     },
     "5":{
         "title": "Magnetics 4",
-        "date":"2016-09-21",
+        "date": "2016-09-21",
         "author": "Doug Oldenburg",
         "youtube": "IK7z_-XjN7M",
         "pdf": "2_Magnetics/3_Magnetics.pdf",
@@ -54,9 +54,17 @@
     },
     "7":{
         "title": "Magnetics 6",
-        "date":"2016-09-28",
+        "date": "2016-09-28",
         "author": "Doug Oldenburg",
         "youtube": "cHiPFgc_1DM",
         "pdf": "2_Magnetics/3_Magnetics.pdf"
+    },
+    "8":{
+        "title": "Seismic 1",
+        "date": "2016-09-30",
+        "author": "Doug Oldenburg",
+        "youtube": "Q_4WzrzU2uM",
+        "pdf": "3_Seismology/Seismology.pdf",
+        "app": "https://www.3ptscience.com/app/SeismicRefraction"
     }
 }

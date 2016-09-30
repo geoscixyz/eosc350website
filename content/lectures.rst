@@ -27,6 +27,7 @@ Introduction to EOSC 350
 - `Intro 350 lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/0_PhysicalProperties/a_Intro_350.pdf>`_
             
 
+
         
 
 
@@ -53,6 +54,7 @@ Introduction to Applied Geophysics
 - `Intro to applied geophysics lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/0_PhysicalProperties/b_Intro_to_applied_geophysics.pdf>`_
             
 
+
         
 
 
@@ -78,6 +80,7 @@ Magnetics 1
 
 - `Magnetics lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics.pdf>`_
             
+
 
         
 
@@ -107,6 +110,7 @@ Magnetics 2
 
 - `Jupyter notebook <http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/Mag/InducedMag2D.ipynb>`_
             
+
         
 
 
@@ -135,6 +139,7 @@ Magnetics 3
 
 - `Jupyter notebook <http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/Mag/InducedMag2D.ipynb>`_
             
+
         
 
 
@@ -163,6 +168,7 @@ Magnetics 4
 
 - `Jupyter notebook <http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/Mag/InducedMag2D.ipynb>`_
             
+
         
 
 
@@ -191,6 +197,7 @@ Magnetics 5
 
 - `Jupyter notebook <http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/Mag/InducedMag2D.ipynb>`_
             
+
         
 
 
@@ -217,6 +224,7 @@ Magnetics 6
 - `Magnetics lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics.pdf>`_
             
 
+
         
 
 
@@ -224,6 +232,35 @@ Magnetics 6
 
     <div style="margin-top:10px; margin-bottom:20px;" align="center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/cHiPFgc_1DM?rel=0" frameborder="0" allowfullscreen>
+    </iframe>
+    </div>
+
+
+        
+
+        
+.. _lecture_8:
+
+Seismic 1
+---------
+
+
+*September 30, 2016*
+
+
+- `Seismology lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/3_Seismology/Seismology.pdf>`_
+            
+
+
+- `App <https://www.3ptscience.com/app/SeismicRefraction>`_
+            
+        
+
+
+.. raw:: html
+
+    <div style="margin-top:10px; margin-bottom:20px;" align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Q_4WzrzU2uM?rel=0" frameborder="0" allowfullscreen>
     </iframe>
     </div>
 

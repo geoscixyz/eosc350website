@@ -52,7 +52,8 @@ Lectures
 
         if 'pdf' in lecture.keys():
             pdf_name = lecture['pdf'].split('.')[0].split(os.path.sep)[-1]
-            pdf_name = ' '.join(pdf_name.split('_')[1:])
+            if '_' in pdf_name:
+                pdf_name = ' '.join(pdf_name.split('_')[1:])
             lecture_slides = """
 - `{title} lecture slides <{pdf}>`_
             """.format(title=pdf_name, pdf=pdf_root + lecture['pdf'])
@@ -66,12 +67,24 @@ Lectures
         else:
             jupyter = ""
 
+        if 'app' in lecture.keys():
+            app = """
+- `App <{app}>`_
+            """.format(app=lecture['app'])
+        else:
+            app = ""
+
+
         info_block = """
 *{0:%B} {0:%d}, {0:%Y}*
 
 {lecture_slides}
 {jupyter}
-        """.format(date, lecture_slides=lecture_slides, jupyter=jupyter)
+{app}
+        """.format(date,
+                   lecture_slides=lecture_slides,
+                   jupyter=jupyter,
+                   app=app)
 
         youtube_block = """
 .. raw:: html
