@@ -139,7 +139,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Lab 1 Physical Properties: https://github.com/ubcgif/eosc350website/raw/master/assets/0_PhysicalProperties/Lab1_withimages_student.pdf
 .. _Lab 2 Magnetics Part 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/Lab2.pdf
 .. _Lab 3 Magnetics Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/Lab3.pdf
-.. _Lab 4 Seismic Refraction: notpostedyet.html
+.. _Lab 4 Seismic Refraction: https://github.com/ubcgif/eosc350website/raw/master/assets/3_Seismology/Lab4.pdf
 .. _Lab 5 Seismic Reflection: notpostedyet.html
 .. _Lab 6 GPR: notpostedyet.html
 .. _Lab 7 EM Part 1: notpostedyet.html
