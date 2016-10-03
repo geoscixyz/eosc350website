@@ -115,6 +115,7 @@ This page will be updated regularly throughout the year, check it often.
 .. ------------- General ------------------------
 .. _syllabus: https://github.com/ubcgif/eosc350website/raw/master/assets/syllabus2016.pdf
 
+
 .. ------------- GPG ----------------------------
 .. _GPG Foundations: http://gpg.geosci.xyz/content/foundations/index.html
 .. _GPG Physical Properties: http://gpg.geosci.xyz/content/foundations/index.html
@@ -148,7 +149,7 @@ This page will be updated regularly throughout the year, check it often.
 
 .. ------------- Apps ---------------------------
 .. _Magnetics App: http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/Mag/FitMagProfile.ipynb
-.. _Seismic Refraction App: notpostedyet.html
+.. _Seismic Refraction App: http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/Seismic/RefractionSurvey/SeisRefracSurvey.ipynb
 .. _Seismic Reflection App: notpostedyet.html
 .. _GPR App: notpostedyet.html
 .. _EM App 1: notpostedyet.html
