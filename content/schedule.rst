@@ -115,6 +115,7 @@ This page will be updated regularly throughout the year, check it often.
 .. ------------- General ------------------------
 .. _syllabus: https://github.com/ubcgif/eosc350website/raw/master/assets/syllabus2016.pdf
 
+
 .. ------------- GPG ----------------------------
 .. _GPG Foundations: http://gpg.geosci.xyz/content/foundations/index.html
 .. _GPG Physical Properties: http://gpg.geosci.xyz/content/foundations/index.html
