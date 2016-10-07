@@ -66,5 +66,20 @@
         "youtube": "Q_4WzrzU2uM",
         "pdf": "3_Seismology/Seismology.pdf",
         "app": "https://www.3ptscience.com/app/SeismicRefraction"
+    },
+    "9":{
+        "title": "Seismic 2",
+        "date": "2016-10-03",
+        "author": "Doug Oldenburg",
+        "youtube": "ucLEddbzOEc",
+        "pdf": "3_Seismology/Seismology.pdf",
+        "app": "https://www.3ptscience.com/app/SeismicRefraction"
+    },
+    "10":{
+        "title": "Seismic 3",
+        "date": "2016-10-05",
+        "author": "Doug Oldenburg",
+        "youtube": "NUrUbOjUMq4",
+        "pdf": "3_Seismology/Seismology.pdf"
     }
 }

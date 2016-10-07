@@ -268,3 +268,59 @@ Seismic 1
         
 
         
+.. _lecture_9:
+
+Seismic 2
+---------
+
+
+*October 03, 2016*
+
+
+- `Seismology lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/3_Seismology/Seismology.pdf>`_
+            
+
+
+- `App <https://www.3ptscience.com/app/SeismicRefraction>`_
+            
+        
+
+
+.. raw:: html
+
+    <div style="margin-top:10px; margin-bottom:20px;" align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/ucLEddbzOEc?rel=0" frameborder="0" allowfullscreen>
+    </iframe>
+    </div>
+
+
+        
+
+        
+.. _lecture_10:
+
+Seismic 3
+---------
+
+
+*October 05, 2016*
+
+
+- `Seismology lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/3_Seismology/Seismology.pdf>`_
+            
+
+
+        
+
+
+.. raw:: html
+
+    <div style="margin-top:10px; margin-bottom:20px;" align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/NUrUbOjUMq4?rel=0" frameborder="0" allowfullscreen>
+    </iframe>
+    </div>
+
+
+        
+
+        
