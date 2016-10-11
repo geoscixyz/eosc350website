@@ -324,3 +324,30 @@ Seismic 3
         
 
         
+.. _lecture_11:
+
+Seismic 4
+---------
+
+
+*October 07, 2016*
+
+
+- `Seismology lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/3_Seismology/Seismology.pdf>`_
+            
+
+
+        
+
+
+.. raw:: html
+
+    <div style="margin-top:10px; margin-bottom:20px;" align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/8XhqadeTofg?rel=0" frameborder="0" allowfullscreen>
+    </iframe>
+    </div>
+
+
+        
+
+        
