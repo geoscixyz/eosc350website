@@ -152,7 +152,7 @@ This page will be updated regularly throughout the year, check it often.
 .. ------------- Apps ---------------------------
 .. _Magnetics App: http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/Mag/FitMagProfile.ipynb
 .. _Seismic Refraction App: http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/Seismic/RefractionSurvey/SeisRefracSurvey.ipynb
-.. _Seismic Reflection App: notpostedyet.html
+.. _Seismic Reflection App: http://mybinder.org/repo/ubcgif/gpgLabs//notebooks/Seismic/SyntheticSeismogram/SyntheticSeismogram.ipynb
 .. _GPR App: notpostedyet.html
 .. _EM App 1: notpostedyet.html
 .. _EM App 2: notpostedyet.html
