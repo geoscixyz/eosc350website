@@ -163,7 +163,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _TBL 2 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/tbl2_Indv_vStudent.pdf
 .. _TBL 2 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/tbl2_Team_vStudent.pdf
 .. _TBL 3 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/3_Seismology/TBL3.pdf
-.. _TBL 3 Team: notpostedyet.html
+.. _TBL 3 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/3_Seismology/tbl3team_students.pdf
 .. _TBL 4 Individual: notpostedyet.html
 .. _TBL 4 Team: notpostedyet.html
 .. _TBL 5 Individual: notpostedyet.html
