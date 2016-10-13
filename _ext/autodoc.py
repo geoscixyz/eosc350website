@@ -62,8 +62,11 @@ Lectures
 
         if 'jupyter' in lecture.keys():
             jupyter = """
-- `Jupyter notebook <{notebook}>`_
-            """.format(notebook=jupyter_root + lecture['jupyter'])
+- `Jupyter notebook: {name} <{notebook}>`_
+            """.format(
+                    name=lecture['jupyter'].split('/')[-1],
+                    notebook=jupyter_root + lecture['jupyter']
+                )
         else:
             jupyter = ""
 
