@@ -108,7 +108,7 @@ Magnetics 2
 - `Magnetics lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics.pdf>`_
             
 
-- `Jupyter notebook <http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/Mag/InducedMag2D.ipynb>`_
+- `Jupyter notebook: InducedMag2D.ipynb <http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/Mag/InducedMag2D.ipynb>`_
             
 
         
@@ -137,7 +137,7 @@ Magnetics 3
 - `Magnetics lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics.pdf>`_
             
 
-- `Jupyter notebook <http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/Mag/InducedMag2D.ipynb>`_
+- `Jupyter notebook: InducedMag2D.ipynb <http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/Mag/InducedMag2D.ipynb>`_
             
 
         
@@ -166,7 +166,7 @@ Magnetics 4
 - `Magnetics lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics.pdf>`_
             
 
-- `Jupyter notebook <http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/Mag/InducedMag2D.ipynb>`_
+- `Jupyter notebook: InducedMag2D.ipynb <http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/Mag/InducedMag2D.ipynb>`_
             
 
         
@@ -195,7 +195,7 @@ Magnetics 5
 - `Magnetics lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics.pdf>`_
             
 
-- `Jupyter notebook <http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/Mag/InducedMag2D.ipynb>`_
+- `Jupyter notebook: InducedMag2D.ipynb <http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/Mag/InducedMag2D.ipynb>`_
             
 
         
@@ -344,6 +344,35 @@ Seismic 4
 
     <div style="margin-top:10px; margin-bottom:20px;" align="center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/8XhqadeTofg?rel=0" frameborder="0" allowfullscreen>
+    </iframe>
+    </div>
+
+
+        
+
+        
+.. _lecture_12:
+
+Seismic 5
+---------
+
+
+*October 12, 2016*
+
+
+- `Seismology lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/3_Seismology/Seismology.pdf>`_
+            
+
+- `Jupyter notebook: SeismicNMOapp.ipynb <http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/Seismic/NMO/SeismicNMOapp.ipynb>`_
+            
+
+        
+
+
+.. raw:: html
+
+    <div style="margin-top:10px; margin-bottom:20px;" align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/4kLwlwMoPbA?rel=0" frameborder="0" allowfullscreen>
     </iframe>
     </div>
 

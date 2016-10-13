@@ -88,5 +88,13 @@
         "author": "Doug Oldenburg",
         "youtube": "8XhqadeTofg",
         "pdf": "3_Seismology/Seismology.pdf"
+    },
+    "12":{
+        "title": "Seismic 5",
+        "date": "2016-10-12",
+        "author": "Doug Oldenburg",
+        "youtube": "4kLwlwMoPbA",
+        "pdf": "3_Seismology/Seismology.pdf",
+        "jupyter": "Seismic/NMO/SeismicNMOapp.ipynb"
     }
 }
