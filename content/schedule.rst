@@ -144,7 +144,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Lab 3 Magnetics Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/Lab3.pdf
 .. _Lab 4 Seismic Refraction: https://github.com/ubcgif/eosc350website/raw/master/assets/3_Seismology/Lab4.pdf
 .. _Lab 5 Seismic Reflection: https://github.com/ubcgif/eosc350website/raw/master/assets/3_Seismology/Lab5.pdf
-.. _Lab 6 GPR: notpostedyet.html
+.. _Lab 6 GPR: https://github.com/ubcgif/eosc350website/raw/master/assets/4_GPR/Lab6_2016_student_copy.pdf
 .. _Lab 7 EM Part 1: notpostedyet.html
 .. _Lab 8 EM Part 2: notpostedyet.html
 .. _Lab 9 DC Resistivity: notpostedyet.html
