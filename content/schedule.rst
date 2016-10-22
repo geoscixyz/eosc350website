@@ -177,7 +177,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Mag Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/BrineWellsCaseStudy.pdf
 .. _Seismic Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/3_Seismology/Near-surface_SH-wave.pdf
 .. _GPR Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/4_GPR/TBL4_GlacierGirl.pdf
-.. _GPR Movie: https://github.com/ubcgif/eosc350website/raw/master/assets/4_GPR/GPR_Wavefront_movie.html
+.. _GPR Movie: https://github.com/ubcgif/eosc350website/raw/master/assets/4_GPR/GPR_Wavefront_movie.zip
 .. _EM Case History: notpostedyet.html
 .. _DC IP Case History: notpostedyet.html
 
