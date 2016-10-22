@@ -176,7 +176,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Phys Props Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/0_PhysicalProperties/Hodgson_Ireland_First_Break_Aug_2009.pdf
 .. _Mag Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/BrineWellsCaseStudy.pdf
 .. _Seismic Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/3_Seismology/Near-surface_SH-wave.pdf
-.. _GPR Case History: notpostedyet.html
+.. _GPR Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/4_GPR/TBL4_GlacierGirl.pdf
 .. _EM Case History: notpostedyet.html
 .. _DC IP Case History: notpostedyet.html
 
