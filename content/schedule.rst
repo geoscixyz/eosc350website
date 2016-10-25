@@ -68,10 +68,11 @@ This page will be updated regularly throughout the year, check it often.
 |     | 21|  || Seismic Quiz    |- `GPG Seismic`_             |- Seismic Quiz          |                              |            |
 +     +---+--+------------------+-----------------------------+------------------------+------------------------------+------------+
 |     | 24| 8|                  |- `GPG GPR`_                 |- `Lecture 5 GPR`_      |- `Lab 6 GPR`_                || `Devin`_  |
-|     |   |  |                  |                             |                        |- `GPR App`_                  |            |
+|     |   |  |                  |                             |                        |- `GPR Widget`_               |            |
 +     +---+  +                  +-----------------------------+------------------------+                              +            +
 |     | 26|  |                  |- `GPR Case History`_        |- `TBL 4 Individual`_   |                              |            |
 |     |   |  |                  |- `GPR Movie`_               |- `TBL 4 Team`_         |                              |            |
+|     |   |  |                  |- `GPR Attenuation App`_     |                        |                              |            |
 +     +---+  +                  +-----------------------------+------------------------+                              +            +
 |     | 28|  |                  |- `GPG GPR`_                 |- GPR Quiz              |                              |            |
 +     +---+--+------------------+-----------------------------+------------------------+------------------------------+            +
@@ -153,7 +154,8 @@ This page will be updated regularly throughout the year, check it often.
 .. _Magnetics App: http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/Mag/FitMagProfile.ipynb
 .. _Seismic Refraction App: http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/Seismic/RefractionSurvey/SeisRefracSurvey.ipynb
 .. _Seismic Reflection App: http://mybinder.org/repo/ubcgif/gpgLabs//notebooks/Seismic/SyntheticSeismogram/SyntheticSeismogram.ipynb
-.. _GPR App: notpostedyet.html
+.. _GPR Attenuation App: http://mybinder.org/repo/ubcgif/gpgLabs//notebooks/GPR/Attenuation.ipynb
+.. _GPR Widget: http://mybinder.org/repo/ubcgif/gpgLabs//notebooks/GPR/GPRWidget.ipynb
 .. _EM App 1: notpostedyet.html
 .. _EM App 2: notpostedyet.html
 .. _DC App: notpostedyet.html
