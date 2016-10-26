@@ -96,5 +96,12 @@
         "youtube": "4kLwlwMoPbA",
         "pdf": "3_Seismology/Seismology.pdf",
         "jupyter": "Seismic/NMO/SeismicNMOapp.ipynb"
+    },
+    "13":{
+        "title": "GPR",
+        "date":"2016-10-24",
+        "author": "Doug Oldenburg",
+        "youtube": "fIe0iE59yWg",
+        "pdf": "4_GPR/GPR_2016.pdf"
     }
 }
