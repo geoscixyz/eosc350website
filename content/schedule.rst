@@ -76,9 +76,10 @@ This page will be updated regularly throughout the year, check it often.
 +     +---+  +                  +-----------------------------+------------------------+                              +            +
 |     | 28|  |                  |- `GPG GPR`_                 |- GPR Quiz              |                              |            |
 +     +---+--+------------------+-----------------------------+------------------------+------------------------------+            +
-|     | 31| 9|| Midterm Review  |                             |                        | No Lab                       |            |
-+-----+---+  +------------------+                             +------------------------+                              +            +
-|Nov  |  2|  | **Midterm**      |                             |- Midterm               |                              |            |
+|     | 31| 9|| Midterm Review  |- `Physical Properties_QB`_  |                        | No Lab                       |            |
++-----+---+  +------------------+- `Magnetics_QB`_            +------------------------+                              +            +
+|Nov  |  2|  | **Midterm**      |- `Seismics_QB`_             |                        |                              |            |
+|     |   |  |                  |- `GPR_QB`_                  |- Midterm               |                              |            |
 +     +---+  +------------------+-----------------------------+------------------------+                              +            +
 |     |  4|  || EM              |- `GPG EM`_                  |- `Lecture 6 EM`_       |                              |            |
 +     +---+--+                  +                             +                        +------------------------------+------------+
@@ -173,6 +174,12 @@ This page will be updated regularly throughout the year, check it often.
 .. _TBL 6 Individual: notpostedyet.html
 .. _TBL 6 Team: notpostedyet.html
 .. _TBL 7: notpostedyet.html
+
+.. ------------- Question bank ----------------------------
+.. _Physical Properties_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/Intro_properties.pdf
+.. _Magnetics_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/Magnetics.pdf
+.. _Seismics_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/Seismic.pdf
+.. _GPR_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/GPR.pdf
 
 .. ------------- Case Histories -----------------
 .. _Phys Props Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/0_PhysicalProperties/Hodgson_Ireland_First_Break_Aug_2009.pdf
