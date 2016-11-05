@@ -8,7 +8,8 @@ This page will be updated regularly throughout the year, check it often.
 .. note::
 
     Please print out the labs before attending the lab period.
-    `Grades`_ posted (November 4th, 2016)!!
+
+    `Midterm Grades posted`_  (November 4th, 2016)!!
 
 
 +-----+---+--+------------------+-----------------------------+------------------------+------------------------------+------------+
@@ -197,7 +198,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Thibaut: thast@eos.ubc.ca
 .. _Patrick: pbellive@eos.ubc.ca
 
-.. _Grades: https://github.com/ubcgif/eosc350website/raw/master/assets/Grades_04112016.pdf
+.. _Midterm Grades posted: https://github.com/ubcgif/eosc350website/raw/master/assets/Grades_04112016.pdf
 
 .. toctree::
     :hidden:
