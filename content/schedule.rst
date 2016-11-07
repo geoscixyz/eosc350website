@@ -159,7 +159,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Seismic Reflection App: http://mybinder.org/repo/ubcgif/gpgLabs//notebooks/Seismic/SyntheticSeismogram/SyntheticSeismogram.ipynb
 .. _GPR Attenuation App: http://mybinder.org/repo/ubcgif/gpgLabs//notebooks/GPR/Attenuation.ipynb
 .. _GPR Widget: http://mybinder.org/repo/ubcgif/gpgLabs//notebooks/GPR/GPRWidget.ipynb
-.. _EM App 1: notpostedyet.html
+.. _EM App 1: http://mybinder.org/repo/ubcgif/gpgLabs//notebooks/EM/FEM3Loop/Fem3loop.ipynb
 .. _EM App 2: notpostedyet.html
 .. _DC App: notpostedyet.html
 
