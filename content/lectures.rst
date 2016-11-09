@@ -24,7 +24,7 @@ Introduction to EOSC 350
 *September 07, 2016*
 
 
-- `PhysicalProperties/a Intro 350 lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/0_PhysicalProperties/a_Intro_350.pdf>`_
+- `Intro 350 lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/0_PhysicalProperties/a_Intro_350.pdf>`_
             
 
 
@@ -51,7 +51,7 @@ Introduction to Applied Geophysics
 *September 09, 2016*
 
 
-- `PhysicalProperties/b Intro to applied geophysics lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/0_PhysicalProperties/b_Intro_to_applied_geophysics.pdf>`_
+- `Intro to applied geophysics lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/0_PhysicalProperties/b_Intro_to_applied_geophysics.pdf>`_
             
 
 
@@ -78,7 +78,7 @@ Magnetics 1
 *September 14, 2016*
 
 
-- `Magnetics/3 Magnetics lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics.pdf>`_
+- `Magnetics lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics.pdf>`_
             
 
 
@@ -105,7 +105,7 @@ Magnetics 2
 *September 16, 2016*
 
 
-- `Magnetics/3 Magnetics lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics.pdf>`_
+- `Magnetics lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics.pdf>`_
             
 
 - `Jupyter notebook: InducedMag2D.ipynb <http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/Mag/InducedMag2D.ipynb>`_
@@ -134,7 +134,7 @@ Magnetics 3
 *September 19, 2016*
 
 
-- `Magnetics/3 Magnetics lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics.pdf>`_
+- `Magnetics lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics.pdf>`_
             
 
 - `Jupyter notebook: InducedMag2D.ipynb <http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/Mag/InducedMag2D.ipynb>`_
@@ -163,7 +163,7 @@ Magnetics 4
 *September 21, 2016*
 
 
-- `Magnetics/3 Magnetics lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics.pdf>`_
+- `Magnetics lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics.pdf>`_
             
 
 - `Jupyter notebook: InducedMag2D.ipynb <http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/Mag/InducedMag2D.ipynb>`_
@@ -192,7 +192,7 @@ Magnetics 5
 *September 23, 2016*
 
 
-- `Magnetics/3 Magnetics lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics.pdf>`_
+- `Magnetics lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics.pdf>`_
             
 
 - `Jupyter notebook: InducedMag2D.ipynb <http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/Mag/InducedMag2D.ipynb>`_
@@ -221,7 +221,7 @@ Magnetics 6
 *September 28, 2016*
 
 
-- `Magnetics/3 Magnetics lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics.pdf>`_
+- `Magnetics lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics.pdf>`_
             
 
 
@@ -248,7 +248,7 @@ Seismic 1
 *September 30, 2016*
 
 
-- `Seismology/Seismology lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/3_Seismology/Seismology.pdf>`_
+- `Seismology lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/3_Seismology/Seismology.pdf>`_
             
 
 
@@ -277,7 +277,7 @@ Seismic 2
 *October 03, 2016*
 
 
-- `Seismology/Seismology lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/3_Seismology/Seismology.pdf>`_
+- `Seismology lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/3_Seismology/Seismology.pdf>`_
             
 
 
@@ -306,7 +306,7 @@ Seismic 3
 *October 05, 2016*
 
 
-- `Seismology/Seismology lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/3_Seismology/Seismology.pdf>`_
+- `Seismology lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/3_Seismology/Seismology.pdf>`_
             
 
 
@@ -333,7 +333,7 @@ Seismic 4
 *October 07, 2016*
 
 
-- `Seismology/Seismology lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/3_Seismology/Seismology.pdf>`_
+- `Seismology lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/3_Seismology/Seismology.pdf>`_
             
 
 
@@ -360,7 +360,7 @@ Seismic 5
 *October 12, 2016*
 
 
-- `Seismology/Seismology lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/3_Seismology/Seismology.pdf>`_
+- `Seismology lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/3_Seismology/Seismology.pdf>`_
             
 
 - `Jupyter notebook: SeismicNMOapp.ipynb <http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/Seismic/NMO/SeismicNMOapp.ipynb>`_
@@ -389,7 +389,7 @@ GPR
 *October 24, 2016*
 
 
-- `GPR/GPR 2016 lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/4_GPR/GPR_2016.pdf>`_
+- `2016 lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/4_GPR/GPR_2016.pdf>`_
             
 
 
@@ -400,6 +400,33 @@ GPR
 
     <div style="margin-top:10px; margin-bottom:20px;" align="center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/fIe0iE59yWg?rel=0" frameborder="0" allowfullscreen>
+    </iframe>
+    </div>
+
+
+        
+
+        
+.. _lecture_14:
+
+Electromagnetics 1
+------------------
+
+
+*November 07, 2016*
+
+
+- `Lectures lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/5_EM/EM_Lectures.pdf>`_
+            
+
+
+        
+
+
+.. raw:: html
+
+    <div style="margin-top:10px; margin-bottom:20px;" align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/cofxA5JGpJg?rel=0" frameborder="0" allowfullscreen>
     </iframe>
     </div>
 
