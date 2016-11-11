@@ -94,7 +94,7 @@ This page will be updated regularly throughout the year, check it often.
 +     +---+--+------------------+-----------------------------+------------------------+------------------------------+------------+
 |     | 14|11|| EM              |- `GPG EM`_                  |- `Lecture 6 EM`_       |- `Lab 8 EM Part 2`_          || `Patrick`_|
 |     |   |  |                  |                             |                        |- `EM App 2`_                 |            |
-+     +---+  +                  +-----------------------------+------------------------+                              +            +
++     +---+  +                  +-----------------------------+------------------------+- `EM App ResponseFunc`_      +            +
 |     | 16|  |                  |- `EM Case History`_         |- `TBL 5 Individual`_   |                              |            |
 |     |   |  |                  |                             |- `TBL 5 Team`_         |                              |            |
 +     +---+  +------------------+-----------------------------+------------------------+                              +            +
@@ -160,7 +160,8 @@ This page will be updated regularly throughout the year, check it often.
 .. _GPR Attenuation App: http://mybinder.org/repo/ubcgif/gpgLabs//notebooks/GPR/Attenuation.ipynb
 .. _GPR Widget: http://mybinder.org/repo/ubcgif/gpgLabs//notebooks/GPR/GPRWidget.ipynb
 .. _EM App 1: http://mybinder.org/repo/ubcgif/gpgLabs//notebooks/EM/FEM3Loop/Fem3loop.ipynb
-.. _EM App 2: notpostedyet.html
+.. _EM App 2: http://mybinder.org/repo/ubcgif/gpgLabs//notebooks/EM/FEMpipe/FemPipe.ipynb
+.. _EM App ResponseFunc: http://mybinder.org/repo/ubcgif/gpgLabs//notebooks/EM/ResponseFct/ResponseFct.ipynb
 .. _DC App: notpostedyet.html
 
 .. ------------- TBL ----------------------------
