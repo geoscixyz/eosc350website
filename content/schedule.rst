@@ -150,7 +150,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Lab 5 Seismic Reflection: https://github.com/ubcgif/eosc350website/raw/master/assets/3_Seismology/Lab5.pdf
 .. _Lab 6 GPR: https://github.com/ubcgif/eosc350website/raw/master/assets/4_GPR/Lab6_2016_student_copy.pdf
 .. _Lab 7 EM Part 1: https://github.com/ubcgif/eosc350website/raw/master/assets/5_EM/Lab7.pdf
-.. _Lab 8 EM Part 2: notpostedyet.html
+.. _Lab 8 EM Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/5_EM/Lab8.pdf
 .. _Lab 9 DC Resistivity: notpostedyet.html
 
 .. ------------- Apps ---------------------------
@@ -171,8 +171,8 @@ This page will be updated regularly throughout the year, check it often.
 .. _TBL 3 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/3_Seismology/tbl3team_students.pdf
 .. _TBL 4 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/4_GPR/IndividualTBL4_student_copy.pdf
 .. _TBL 4 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/4_GPR/TeamTBL4_2016_student_copy.pdf
-.. _TBL 5 Individual: notpostedyet.html
-.. _TBL 5 Team: notpostedyet.html
+.. _TBL 5 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/5_EM/TBL5individual.pdf
+.. _TBL 5 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/5_EM/TBL5team.pdf
 .. _TBL 6 Individual: notpostedyet.html
 .. _TBL 6 Team: notpostedyet.html
 .. _TBL 7: notpostedyet.html
@@ -189,7 +189,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Seismic Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/3_Seismology/Near-surface_SH-wave.pdf
 .. _GPR Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/4_GPR/TBL4_GlacierGirl.pdf
 .. _GPR Movie: https://github.com/ubcgif/eosc350website/raw/master/assets/4_GPR/GPR_Wavefront_movie.zip
-.. _EM Case History: notpostedyet.html
+.. _EM Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/5_EM/EM_31_Hutchinson_2000_Solid_waste.pdf
 .. _DC IP Case History: notpostedyet.html
 
 .. ------------- TA -----------------------------
