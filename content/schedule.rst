@@ -191,7 +191,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _GPR Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/4_GPR/TBL4_GlacierGirl.pdf
 .. _GPR Movie: https://github.com/ubcgif/eosc350website/raw/master/assets/4_GPR/GPR_Wavefront_movie.zip
 .. _EM Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/5_EM/EM_31_Hutchinson_2000_Solid_waste.pdf
-.. _DC IP Case History: notpostedyet.html
+.. _DC IP Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/6_DC/DCIP_for_landfills_dahlin_FB_Aug_2010.pdf
 
 .. ------------- TA -----------------------------
 .. _Devin: devinccowan@gmail.com
