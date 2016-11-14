@@ -174,7 +174,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _TBL 4 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/4_GPR/TeamTBL4_2016_student_copy.pdf
 .. _TBL 5 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/5_EM/TBL5individual.pdf
 .. _TBL 5 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/5_EM/TBL5team.pdf
-.. _TBL 6 Individual: notpostedyet.html
+.. _TBL 6 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/6_DC/TBL6_individual.pdf
 .. _TBL 6 Team: notpostedyet.html
 .. _TBL 7: notpostedyet.html
 
@@ -191,7 +191,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _GPR Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/4_GPR/TBL4_GlacierGirl.pdf
 .. _GPR Movie: https://github.com/ubcgif/eosc350website/raw/master/assets/4_GPR/GPR_Wavefront_movie.zip
 .. _EM Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/5_EM/EM_31_Hutchinson_2000_Solid_waste.pdf
-.. _DC IP Case History: notpostedyet.html
+.. _DC IP Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/6_DC/DCIP_for_landfills_dahlin_FB_Aug_2010.pdf
 
 .. ------------- TA -----------------------------
 .. _Devin: devinccowan@gmail.com
