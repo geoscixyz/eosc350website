@@ -9,6 +9,10 @@ Jupyter Notebooks for this course are available through the binders service
     :target: http://mybinder.org:/repo/ubcgif/gpgLabs
     :align: center
 
+|
+
+or `downloaded here <https://github.com/ubcgif/gpgLabs/archive/master.zip>`_
+
 Each of the apps available for the course are linked and listed in the
 notebook. This will be updated during the course.
 

@@ -124,7 +124,9 @@ if not on_rtd:  # only import and set the theme if we're building docs locally
     html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
 
 
-# linkcheck_ignore = []
+linkcheck_ignore = [
+    'https://github.com/ubcgif/gpgLabs/archive/master.zip'
+]
 linkcheck_retries = 3
 linkcheck_timeout = 500
 
