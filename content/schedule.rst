@@ -162,7 +162,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _EM App 1: http://mybinder.org/repo/ubcgif/gpgLabs//notebooks/EM/FEM3Loop/Fem3loop.ipynb
 .. _EM App 2: http://mybinder.org/repo/ubcgif/gpgLabs//notebooks/EM/FEMpipe/FemPipe.ipynb
 .. _EM App ResponseFunc: http://mybinder.org/repo/ubcgif/gpgLabs//notebooks/EM/ResponseFct/ResponseFct.ipynb
-.. _DC App: notpostedyet.html
+.. _DC App: http://mybinder.org/repo/ubcgif/gpgLabs//notebooks/DC/DCLab.ipynb
 
 .. ------------- TBL ----------------------------
 .. _TBL 1: https://github.com/ubcgif/eosc350website/raw/master/assets/0_PhysicalProperties/TBL1.pdf
