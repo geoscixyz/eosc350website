@@ -151,7 +151,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Lab 6 GPR: https://github.com/ubcgif/eosc350website/raw/master/assets/4_GPR/Lab6_2016_student_copy.pdf
 .. _Lab 7 EM Part 1: https://github.com/ubcgif/eosc350website/raw/master/assets/5_EM/Lab7.pdf
 .. _Lab 8 EM Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/5_EM/Lab8.pdf
-.. _Lab 9 DC Resistivity: notpostedyet.html
+.. _Lab 9 DC Resistivity: https://github.com/ubcgif/eosc350website/raw/master/assets/6_DC/Lab9.pdf
 
 .. ------------- Apps ---------------------------
 .. _Magnetics App: http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/Mag/FitMagProfile.ipynb
