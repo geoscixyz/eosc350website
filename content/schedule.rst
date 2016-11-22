@@ -175,7 +175,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _TBL 5 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/5_EM/TBL5individual.pdf
 .. _TBL 5 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/5_EM/TBL5team.pdf
 .. _TBL 6 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/6_DC/TBL6_individual.pdf
-.. _TBL 6 Team: notpostedyet.html
+.. _TBL 6 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/6_DC/TBL6_team.pdf
 .. _TBL 7: notpostedyet.html
 
 .. ------------- Question bank ----------------------------
