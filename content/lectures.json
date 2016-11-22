@@ -99,16 +99,47 @@
     },
     "13":{
         "title": "GPR",
-        "date":"2016-10-24",
+        "date": "2016-10-24",
         "author": "Doug Oldenburg",
         "youtube": "fIe0iE59yWg",
         "pdf": "4_GPR/GPR_2016.pdf"
     },
     "14":{
         "title": "Electromagnetics 1",
-        "date":"2016-11-07",
+        "date": "2016-11-07",
         "author": "Doug Oldenburg",
         "youtube": "cofxA5JGpJg",
         "pdf": "5_EM/EM_Lectures.pdf"
+    },
+    "15":{
+        "title": "Electromagnetics 2",
+        "date": "2016-11-09",
+        "author": "Doug Oldenburg",
+        "youtube": "2s831k1MLx0",
+        "pdf": "5_EM/EM_Lectures.pdf",
+        "jupyter": "EM/ResponseFct/ResponseFct.ipynb"
+    },
+    "16":{
+        "title": "Electromagnetics 3",
+        "date": "2016-11-14",
+        "author": "Doug Oldenburg",
+        "youtube": "xWORpeGyhwE",
+        "pdf": "5_EM/EM_Lectures.pdf",
+        "jupyter": "EM/ResponseFct/ResponseFct.ipynb"
+    },
+    "17":{
+        "title": "DC Resistivity 1",
+        "date": "2016-11-18",
+        "author": "Doug Oldenburg",
+        "youtube": "ywlpOsYRTww",
+        "jupyter": "DC/DCLab.ipynb"
+    },
+    "18":{
+        "title": "DC Resistivity 2",
+        "date": "2016-11-21",
+        "author": "Doug Oldenburg",
+        "youtube": "-0Z_jGz-1T0",
+        "pdf": "6_DC/9_DC_Resistivity.pdf",
+        "jupyter": "DC/DCLab.ipynb"
     }
 }
