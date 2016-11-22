@@ -434,3 +434,117 @@ Electromagnetics 1
         
 
         
+.. _lecture_15:
+
+Electromagnetics 2
+------------------
+
+
+*November 09, 2016*
+
+
+- `Lectures lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/5_EM/EM_Lectures.pdf>`_
+            
+
+- `Jupyter notebook: ResponseFct.ipynb <http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/EM/ResponseFct/ResponseFct.ipynb>`_
+            
+
+        
+
+
+.. raw:: html
+
+    <div style="margin-top:10px; margin-bottom:20px;" align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/2s831k1MLx0?rel=0" frameborder="0" allowfullscreen>
+    </iframe>
+    </div>
+
+
+        
+
+        
+.. _lecture_16:
+
+Electromagnetics 3
+------------------
+
+
+*November 14, 2016*
+
+
+- `Lectures lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/5_EM/EM_Lectures.pdf>`_
+            
+
+- `Jupyter notebook: ResponseFct.ipynb <http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/EM/ResponseFct/ResponseFct.ipynb>`_
+            
+
+        
+
+
+.. raw:: html
+
+    <div style="margin-top:10px; margin-bottom:20px;" align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/xWORpeGyhwE?rel=0" frameborder="0" allowfullscreen>
+    </iframe>
+    </div>
+
+
+        
+
+        
+.. _lecture_17:
+
+DC Resistivity 1
+----------------
+
+
+*November 18, 2016*
+
+
+
+- `Jupyter notebook: DCLab.ipynb <http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/DC/DCLab.ipynb>`_
+            
+
+        
+
+
+.. raw:: html
+
+    <div style="margin-top:10px; margin-bottom:20px;" align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/ywlpOsYRTww?rel=0" frameborder="0" allowfullscreen>
+    </iframe>
+    </div>
+
+
+        
+
+        
+.. _lecture_18:
+
+DC Resistivity 2
+----------------
+
+
+*November 21, 2016*
+
+
+- `DC Resistivity lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/6_DC/9_DC_Resistivity.pdf>`_
+            
+
+- `Jupyter notebook: DCLab.ipynb <http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/DC/DCLab.ipynb>`_
+            
+
+        
+
+
+.. raw:: html
+
+    <div style="margin-top:10px; margin-bottom:20px;" align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/-0Z_jGz-1T0?rel=0" frameborder="0" allowfullscreen>
+    </iframe>
+    </div>
+
+
+        
+
+        
