@@ -101,7 +101,7 @@ This page will be updated regularly throughout the year, check it often.
 |     | 18|  || DC Resistivity  |- `GPG DC Resistivity`_      |- EM Quiz               |                              |            |
 +     +---+--+                  +                             +------------------------+------------------------------+------------+
 |     | 21|12|                  |                             |- `Lecture 7 DC`_       |- `Lab 9 DC Resistivity`_     || `Thibaut`_|
-|     |   |  |                  |                             |- `Lecture 8 IP`_        |- `DC App`_                   |            |
+|     |   |  |                  |                             |- `Lecture 8 IP`_       |- `DC App`_                   |            |
 +     +---+  +------------------+-----------------------------+                        +                              +            +
 |     | 23|  || Induced         |- `GPG Induced Polarization`_|                        |                              |            |
 |     |   |  || Polarization    |                             |                        |                              |            |
