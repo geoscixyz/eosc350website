@@ -111,7 +111,8 @@ This page will be updated regularly throughout the year, check it often.
 +     +---+--+                  +-----------------------------+------------------------+------------------------------+------------+
 |     | 28|13|                  |                             |- DC / IP Quiz          | Prepare for Final Exam       |            |
 +     +---+  +------------------+-----------------------------+------------------------+                              +            +
-|     | 30|  || Review          |                             |- `TBL 7`_              |                              |            |
+|     | 30|  || Review          |                             |- `TBL 7 Individual`_   |                              |            |
+|     |   |  ||                 |                             |- `TBL 7 Team`_         |                              |            |
 +-----+---+  +                  +                             +------------------------+                              +            +
 |Dec  | 2 |  |                  |                             |- `Review Lecture`_     |                              |            |
 +-----+---+--+------------------+-----------------------------+------------------------+------------------------------+------------+
@@ -176,7 +177,8 @@ This page will be updated regularly throughout the year, check it often.
 .. _TBL 5 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/5_EM/TBL5team.pdf
 .. _TBL 6 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/6_DC/TBL6_individual.pdf
 .. _TBL 6 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/6_DC/TBL6_team.pdf
-.. _TBL 7: notpostedyet.html
+.. _TBL 7 Individual: notpostedyet.html
+.. _TBL 7 Team: notpostedyet.html
 
 .. ------------- Question bank ----------------------------
 .. _Physical Properties_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/Intro_properties.pdf
