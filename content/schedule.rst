@@ -101,7 +101,7 @@ This page will be updated regularly throughout the year, check it often.
 |     | 18|  || DC Resistivity  |- `GPG DC Resistivity`_      |- EM Quiz               |                              |            |
 +     +---+--+                  +                             +------------------------+------------------------------+------------+
 |     | 21|12|                  |                             |- `Lecture 7 DC`_       |- `Lab 9 DC Resistivity`_     || `Thibaut`_|
-|     |   |  |                  |                             |                        |- `DC App`_                   |            |
+|     |   |  |                  |                             |- `Lecture 8 IP`_       |- `DC App`_                   |            |
 +     +---+  +------------------+-----------------------------+                        +                              +            +
 |     | 23|  || Induced         |- `GPG Induced Polarization`_|                        |                              |            |
 |     |   |  || Polarization    |                             |                        |                              |            |
@@ -141,6 +141,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Lecture 5 GPR: https://github.com/ubcgif/eosc350website/raw/master/assets/4_GPR/GPR_2016.pdf
 .. _Lecture 6 EM: https://github.com/ubcgif/eosc350website/raw/master/assets/5_EM/EM_Lectures.pdf
 .. _Lecture 7 DC: https://github.com/ubcgif/eosc350website/raw/master/assets/6_DC/9_DC_Resistivity.pdf
+.. _Lecture 8 IP: notpostedyet.html
 .. _Review Lecture: notpostedyet.html
 
 .. ------------- Labs ---------------------------
