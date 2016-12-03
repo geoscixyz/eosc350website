@@ -5,7 +5,19 @@ EOSC 350: Environmental, Geotechnical and Exploration Geophysics I
 
 .. note::
 
-    - New question banks (DC,EM) for the final are available on the course schedule page (bottom of the page)
+    - Sample questions for the final are available here (and on the schedule page):
+    
+        - `Physical Properties_QB`_ 
+        - `Magnetics_QB`_
+        - `Seismics_QB`_ 
+        - `GPR_QB`_ 
+        - `DCIP_QB`_ 
+    
+.. _Physical Properties_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/Intro_properties.pdf
+.. _Magnetics_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/Magnetics.pdf
+.. _Seismics_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/Seismic.pdf
+.. _GPR_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/GPR.pdf
+.. _DCIP_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/DCIP.pdf
 
 Course Description
 ------------------
