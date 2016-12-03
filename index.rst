@@ -5,12 +5,19 @@ EOSC 350: Environmental, Geotechnical and Exploration Geophysics I
 
 .. note::
 
-    - **Please give us your email!**: `email spreadsheet`_
-
-    .. _email spreadsheet: https://docs.google.com/spreadsheets/d/14GIRirXGTM3Hc2zDJNCZ6-CLzsp3h7GsIxJ4RMZ8CS8/edit?usp=sharing
-
-
-    - A box will be set up outside of ESB4037 from 10am to 5pm to collect Lab 1 that were not handed in at the end of the lab.
+    - Sample questions for the final are available here (and on the schedule page):
+    
+        - `Physical Properties_QB`_ 
+        - `Magnetics_QB`_
+        - `Seismics_QB`_ 
+        - `GPR_QB`_ 
+        - `DCIP_QB`_ 
+    
+.. _Physical Properties_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/Intro_properties.pdf
+.. _Magnetics_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/Magnetics.pdf
+.. _Seismics_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/Seismic.pdf
+.. _GPR_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/GPR.pdf
+.. _DCIP_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/DCIP.pdf
 
 Course Description
 ------------------

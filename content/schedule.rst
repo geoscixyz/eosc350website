@@ -82,6 +82,7 @@ This page will be updated regularly throughout the year, check it often.
 +-----+---+  +------------------+- `Magnetics_QB`_            +------------------------+                              +            +
 |Nov  |  2|  || EM              |- `Seismics_QB`_             |- `Lecture 6 EM`_       |                              |            |
 |     |   |  |                  |- `GPR_QB`_                  |                        |                              |            |
+|     |   |  |                  |- `DCIP_QB`_                 |                        |                              |            |
 +     +---+--+------------------+-----------------------------+------------------------+                              +            +
 |     |  4|  |**Midterm**       |                             |- Midterm               |                              |            |
 +     +---+--+------------------+-----------------------------+------------------------+------------------------------+------------+
@@ -101,7 +102,7 @@ This page will be updated regularly throughout the year, check it often.
 |     | 18|  || DC Resistivity  |- `GPG DC Resistivity`_      |- EM Quiz               |                              |            |
 +     +---+--+                  +                             +------------------------+------------------------------+------------+
 |     | 21|12|                  |                             |- `Lecture 7 DC`_       |- `Lab 9 DC Resistivity`_     || `Thibaut`_|
-|     |   |  |                  |                             |                        |- `DC App`_                   |            |
+|     |   |  |                  |                             |- `Lecture 8 IP`_       |- `DC App`_                   |            |
 +     +---+  +------------------+-----------------------------+                        +                              +            +
 |     | 23|  || Induced         |- `GPG Induced Polarization`_|                        |                              |            |
 |     |   |  || Polarization    |                             |                        |                              |            |
@@ -111,8 +112,12 @@ This page will be updated regularly throughout the year, check it often.
 +     +---+--+                  +-----------------------------+------------------------+------------------------------+------------+
 |     | 28|13|                  |                             |- DC / IP Quiz          | Prepare for Final Exam       |            |
 +     +---+  +------------------+-----------------------------+------------------------+                              +            +
-|     | 30|  || Review          |                             |- `TBL 7`_              |                              |            |
-+-----+---+  +                  +                             +------------------------+                              +            +
+|     | 30|  || Review          | - `Physical Properties_QB`_ |- `TBL 7 Individual`_   |                              |            | 
+|     |   |  |                  | - `Magnetics_QB`_           |- `TBL 7 Team`_         |                              |            |
+|     |   |  |                  | - `Seismics_QB`_            |                        |                              |            |
+|     |   |  |                  | - `GPR_QB`_                 |                        |                              |            |
+|     |   |  |                  | - `DCIP_QB`_                |                        |                              |            |
++-----+---+  +------------------+-----------------------------+------------------------+------------------------------+------------+
 |Dec  | 2 |  |                  |                             |- `Review Lecture`_     |                              |            |
 +-----+---+--+------------------+-----------------------------+------------------------+------------------------------+------------+
 
@@ -140,6 +145,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Lecture 5 GPR: https://github.com/ubcgif/eosc350website/raw/master/assets/4_GPR/GPR_2016.pdf
 .. _Lecture 6 EM: https://github.com/ubcgif/eosc350website/raw/master/assets/5_EM/EM_Lectures.pdf
 .. _Lecture 7 DC: https://github.com/ubcgif/eosc350website/raw/master/assets/6_DC/9_DC_Resistivity.pdf
+.. _Lecture 8 IP: https://github.com/ubcgif/eosc350website/raw/master/assets/6_DC/IP.pdf
 .. _Review Lecture: notpostedyet.html
 
 .. ------------- Labs ---------------------------
@@ -176,14 +182,15 @@ This page will be updated regularly throughout the year, check it often.
 .. _TBL 5 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/5_EM/TBL5team.pdf
 .. _TBL 6 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/6_DC/TBL6_individual.pdf
 .. _TBL 6 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/6_DC/TBL6_team.pdf
-.. _TBL 7: notpostedyet.html
+.. _TBL 7 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/7_Wrapup/TBL7individual.pdf
+.. _TBL 7 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/7_Wrapup/TBL7_team.pdf
 
 .. ------------- Question bank ----------------------------
 .. _Physical Properties_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/Intro_properties.pdf
 .. _Magnetics_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/Magnetics.pdf
 .. _Seismics_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/Seismic.pdf
 .. _GPR_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/GPR.pdf
-
+.. _DCIP_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/DCIP.pdf
 .. ------------- Case Histories -----------------
 .. _Phys Props Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/0_PhysicalProperties/Hodgson_Ireland_First_Break_Aug_2009.pdf
 .. _Mag Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/BrineWellsCaseStudy.pdf
