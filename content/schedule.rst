@@ -82,6 +82,7 @@ This page will be updated regularly throughout the year, check it often.
 +-----+---+  +------------------+- `Magnetics_QB`_            +------------------------+                              +            +
 |Nov  |  2|  || EM              |- `Seismics_QB`_             |- `Lecture 6 EM`_       |                              |            |
 |     |   |  |                  |- `GPR_QB`_                  |                        |                              |            |
+|     |   |  |                  |- `DCIP_QB`_                 |                        |                              |            |
 +     +---+--+------------------+-----------------------------+------------------------+                              +            +
 |     |  4|  |**Midterm**       |                             |- Midterm               |                              |            |
 +     +---+--+------------------+-----------------------------+------------------------+------------------------------+------------+
@@ -111,9 +112,13 @@ This page will be updated regularly throughout the year, check it often.
 +     +---+--+                  +-----------------------------+------------------------+------------------------------+------------+
 |     | 28|13|                  |                             |- DC / IP Quiz          | Prepare for Final Exam       |            |
 +     +---+  +------------------+-----------------------------+------------------------+                              +            +
-|     | 30|  || Review          |                             |- `TBL 7 Individual`_   |                              |            |
-|     |   |  |                  |                             |- `TBL 7 Team`_         |                              |            |
-+-----+---+  +                  +                             +------------------------+                              +            +
+|     | 30|  || Review          | - `Physical Properties_QB`_ |- `TBL 7 Individual`_   |                              |            | 
+|     |   |  |                  | - `Magnetics_QB`_           |- `TBL 7 Team`_         |                              |            |
+|     |   |  |                  | - `Seismics_QB`_            |                        |                              |            |
+|     |   |  |                  | - `GPR_QB`_                 |                        |                              |            |
+|     |   |  |                  | - `DCIP_QB`_                |                        |                              |            |      |     |   |  |                  |                             |                        |                              |            |
+|     |   |  |                  |                             |                        |                              |            |     |     |   |  |                  |                             |                        |                              |            |
++-----+---+  +------------------+-----------------------------+------------------------+------------------------------+------------+
 |Dec  | 2 |  |                  |                             |- `Review Lecture`_     |                              |            |
 +-----+---+--+------------------+-----------------------------+------------------------+------------------------------+------------+
 
@@ -186,7 +191,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Magnetics_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/Magnetics.pdf
 .. _Seismics_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/Seismic.pdf
 .. _GPR_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/GPR.pdf
-
+.. _DCIP_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/DCIP.pdf
 .. ------------- Case Histories -----------------
 .. _Phys Props Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/0_PhysicalProperties/Hodgson_Ireland_First_Break_Aug_2009.pdf
 .. _Mag Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/BrineWellsCaseStudy.pdf
