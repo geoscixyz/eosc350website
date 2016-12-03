@@ -112,11 +112,12 @@ This page will be updated regularly throughout the year, check it often.
 +     +---+--+                  +-----------------------------+------------------------+------------------------------+------------+
 |     | 28|13|                  |                             |- DC / IP Quiz          | Prepare for Final Exam       |            |
 +     +---+  +------------------+-----------------------------+------------------------+                              +            +
-|     | 30|  || Review          | - `Physical Properties_QB`_ |- `TBL 7 Individual`_   |                              |            | 
+|     | 30|  || Review          | - `Physical Properties_QB`_ |- `TBL 7 Individual`_   |                              |            |
 |     |   |  |                  | - `Magnetics_QB`_           |- `TBL 7 Team`_         |                              |            |
 |     |   |  |                  | - `Seismics_QB`_            |                        |                              |            |
 |     |   |  |                  | - `GPR_QB`_                 |                        |                              |            |
 |     |   |  |                  | - `DCIP_QB`_                |                        |                              |            |
+|     |   |  |                  | - `EM_QB`_                  |                        |                              |            |
 +-----+---+  +------------------+-----------------------------+------------------------+------------------------------+------------+
 |Dec  | 2 |  |                  |                             |- `Review Lecture`_     |                              |            |
 +-----+---+--+------------------+-----------------------------+------------------------+------------------------------+------------+
@@ -191,6 +192,8 @@ This page will be updated regularly throughout the year, check it often.
 .. _Seismics_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/Seismic.pdf
 .. _GPR_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/GPR.pdf
 .. _DCIP_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/DCIP.pdf
+.. _EM_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/EM.pdf
+
 .. ------------- Case Histories -----------------
 .. _Phys Props Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/0_PhysicalProperties/Hodgson_Ireland_First_Break_Aug_2009.pdf
 .. _Mag Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/BrineWellsCaseStudy.pdf
