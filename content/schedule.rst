@@ -144,7 +144,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Lecture 3 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics.pdf
 .. _Lecture 4 Seismic: https://github.com/ubcgif/eosc350website/raw/master/assets/3_Seismology/Seismology.pdf
 .. _Lecture 5 GPR: https://github.com/ubcgif/eosc350website/raw/master/assets/4_GPR/GPR_2016.pdf
-.. _Lecture 6 EM: https://github.com/ubcgif/eosc350website/raw/master/assets/5_EM/EM_Lectures.pdf
+.. _Lecture 6 EM: https://github.com/ubcgif/eosc350website/raw/master/assets/5_EM/5_EM.pdf
 .. _Lecture 7 DC: https://github.com/ubcgif/eosc350website/raw/master/assets/6_DC/9_DC_Resistivity.pdf
 .. _Lecture 8 IP: https://github.com/ubcgif/eosc350website/raw/master/assets/6_DC/IP.pdf
 .. _Review Lecture: notpostedyet.html
