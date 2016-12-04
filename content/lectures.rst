@@ -416,7 +416,7 @@ Electromagnetics 1
 *November 07, 2016*
 
 
-- `Lectures lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/5_EM/EM_Lectures.pdf>`_
+- `EM lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/5_EM/5_EM.pdf>`_
             
 
 
@@ -443,7 +443,7 @@ Electromagnetics 2
 *November 09, 2016*
 
 
-- `Lectures lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/5_EM/EM_Lectures.pdf>`_
+- `EM lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/5_EM/5_EM.pdf>`_
             
 
 - `Jupyter notebook: ResponseFct.ipynb <http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/EM/ResponseFct/ResponseFct.ipynb>`_
@@ -472,7 +472,7 @@ Electromagnetics 3
 *November 14, 2016*
 
 
-- `Lectures lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/5_EM/EM_Lectures.pdf>`_
+- `EM lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/5_EM/5_EM.pdf>`_
             
 
 - `Jupyter notebook: ResponseFct.ipynb <http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/EM/ResponseFct/ResponseFct.ipynb>`_
@@ -541,6 +541,85 @@ DC Resistivity 2
 
     <div style="margin-top:10px; margin-bottom:20px;" align="center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/-0Z_jGz-1T0?rel=0" frameborder="0" allowfullscreen>
+    </iframe>
+    </div>
+
+
+        
+
+        
+.. _lecture_19:
+
+Induced Polarization
+--------------------
+
+
+*November 23, 2016*
+
+
+- `IP lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/6_DC/IP.pdf>`_
+            
+
+
+        
+
+
+.. raw:: html
+
+    <div style="margin-top:10px; margin-bottom:20px;" align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hmZGxFYmpm8?rel=0" frameborder="0" allowfullscreen>
+    </iframe>
+    </div>
+
+
+        
+
+        
+.. _lecture_20:
+
+EM Wrap Up
+----------
+
+
+*November 28, 2016*
+
+
+- `EM lecture slides <https://github.com/ubcgif/eosc350website/raw/master/assets/5_EM/5_EM.pdf>`_
+            
+
+
+        
+
+
+.. raw:: html
+
+    <div style="margin-top:10px; margin-bottom:20px;" align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/nmwVFxxizH4?rel=0" frameborder="0" allowfullscreen>
+    </iframe>
+    </div>
+
+
+        
+
+        
+.. _lecture_21:
+
+Final Lecture
+-------------
+
+
+*December 02, 2016*
+
+
+
+
+        
+
+
+.. raw:: html
+
+    <div style="margin-top:10px; margin-bottom:20px;" align="center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/OeJVz4T5gRw?rel=0" frameborder="0" allowfullscreen>
     </iframe>
     </div>
 

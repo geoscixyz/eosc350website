@@ -109,14 +109,14 @@
         "date": "2016-11-07",
         "author": "Doug Oldenburg",
         "youtube": "cofxA5JGpJg",
-        "pdf": "5_EM/EM_Lectures.pdf"
+        "pdf": "5_EM/5_EM.pdf"
     },
     "15":{
         "title": "Electromagnetics 2",
         "date": "2016-11-09",
         "author": "Doug Oldenburg",
         "youtube": "2s831k1MLx0",
-        "pdf": "5_EM/EM_Lectures.pdf",
+        "pdf": "5_EM/5_EM.pdf",
         "jupyter": "EM/ResponseFct/ResponseFct.ipynb"
     },
     "16":{
@@ -124,7 +124,7 @@
         "date": "2016-11-14",
         "author": "Doug Oldenburg",
         "youtube": "xWORpeGyhwE",
-        "pdf": "5_EM/EM_Lectures.pdf",
+        "pdf": "5_EM/5_EM.pdf",
         "jupyter": "EM/ResponseFct/ResponseFct.ipynb"
     },
     "17":{
@@ -141,5 +141,25 @@
         "youtube": "-0Z_jGz-1T0",
         "pdf": "6_DC/9_DC_Resistivity.pdf",
         "jupyter": "DC/DCLab.ipynb"
+    },
+    "19":{
+        "title": "Induced Polarization",
+        "date": "2016-11-23",
+        "author": "Doug Oldenburg",
+        "youtube": "hmZGxFYmpm8",
+        "pdf":"6_DC/IP.pdf"
+    },
+    "20":{
+        "title": "EM Wrap Up",
+        "date": "2016-11-28",
+        "author": "Doug Oldenburg",
+        "youtube": "nmwVFxxizH4",
+        "pdf": "5_EM/5_EM.pdf"
+    },
+    "21":{
+        "title":"Final Lecture",
+        "date": "2016-12-2",
+        "author": "Doug Oldenburg",
+        "youtube": "OeJVz4T5gRw"
     }
 }
