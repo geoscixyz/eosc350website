@@ -9,7 +9,6 @@ This page will be updated regularly throughout the year, check it often.
 
     Please print out the labs before attending the lab period.
 
-    `Semester Grades`_  (December 3th, 2016)!!
 
 
 +-----+---+--+------------------+-----------------------------+------------------------+------------------------------+------------+
