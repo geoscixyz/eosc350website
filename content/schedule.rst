@@ -15,10 +15,10 @@ This page will be updated regularly throughout the year, check it often.
 |month|day|wk|goals             |required                     |activity                |lab                           |TA          |Instructor  |
 |     |   |  |                  |readings                     |                        |                              |Contact     |Contact     |
 +-----+---+--+------------------+-----------------------------+------------------------+------------------------------+------------+------------+
-|Sept | 6 |1 || Introduction    |- syllabus                   |                        | No Lab                       |            |            |
-|     |   |  || and Course goals|- GPG Foundations            |                        |                              |            |            |
+|Sept | 6 |1 || Introduction    |- `syllabus`_                |                        | No Lab                       |            |            |
+|     |   |  || and Course goals|- `GPG Foundations`_         |                        |                              |            |            |
 +     +---+  +------------------+-----------------------------+------------------------+                              +------------+------------+
-|     | 8 |  || Seven step      |- GPG Foundations            |                        |                              |            |            |
+|     | 8 |  || Seven step      |- `GPG Foundations`_         |                        |                              |            |            |
 |     |   |  || framework for   |                             |                        |                              |            |            |
 |     |   |  || geophysics      |                             |                        |                              |            |            |
 +-----+---+--+------------------+-----------------------------+------------------------+------------------------------+------------+------------+
@@ -125,7 +125,7 @@ This page will be updated regularly throughout the year, check it often.
 .. ============= Links ==========================
 
 .. ------------- General ------------------------
-.. _syllabus: https://github.com/ubcgif/eosc350website/raw/master/assets/syllabus2016.pdf
+.. _syllabus: https://github.com/ubcgif/eosc350website/raw/master/assets/syllabus2017.pdf
 
 
 .. ------------- GPG ----------------------------

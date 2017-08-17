@@ -68,8 +68,8 @@ Office hours: contact the instructors via email to set up an appointment. Please
 **Teaching Assistants:**
 
 - Michael Mitchell: mmitchel@eoas.ubc.ca, Office: ESB 4033C
-- Dom Fournier:     fourndo@gmail.com,    Office: ESB 4021
-- Thibaut Astic:    thast@eos.ubc.ca,     Office: ESB 4037
+- Gabriela Racz:
+- Vahid Dehghanniri:
 
 Office hourse: contact the TA's by e-mail or in person for availability. Please include
 'EOSC350' in the subject line.
