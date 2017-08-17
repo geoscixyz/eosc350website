@@ -3,16 +3,16 @@
 EOSC 350: Environmental, Geotechnical and Exploration Geophysics I
 ==================================================================
 
-.. note::
+.. .. note::
 
-    - Sample questions for the final are available here (and on the schedule page):
+..     - Sample questions for the final are available here (and on the schedule page):
 
-        - `Physical Properties_QB`_
-        - `Magnetics_QB`_
-        - `Seismics_QB`_
-        - `GPR_QB`_
-        - `EM_QB`_
-        - `DCIP_QB`_
+..         - `Physical Properties_QB`_
+..         - `Magnetics_QB`_
+..         - `Seismics_QB`_
+..         - `GPR_QB`_
+..         - `EM_QB`_
+..         - `DCIP_QB`_
         
 
 .. _Physical Properties_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/Intro_properties.pdf
@@ -36,16 +36,19 @@ Course Times
 
 **Lectures:**
 
-- Mon Wed Fri   2:00-3:00 in McMillan Bldg Room 160
+- Mon Wed Fri   1:00-2:00 pm in Chemistry, room D300
 
 **Labs:**
 
-- Section L1A: Mon   3:00-5:00 in EOS Main 203
-- Section L2A: Wed   3:00-5:00 in EOS Main 203
+- Section L1A: Mon   3:00-5:00 pm in EOS Main 203
+- Section L1C: Tue   3:00-5:00 pm in EOS Main 203
+- Section L1B: Wed   3:00-5:00 pm in EOS Main 203
 
 **TBL Teams:**
 
-- `EOS350 Teams pdf`_
+- To be announced
+
+.. - `EOS350 Teams pdf`_
 
 .. _EOS350 Teams pdf: https://github.com/ubcgif/eosc350website/raw/master/assets/EOS350_Teams.pdf
 
@@ -54,22 +57,23 @@ Course Times
 Contact Information
 -------------------
 
-**Instructor:**
+**Instructors:**
 
-- Doug Oldenburg: doug@eos.ubc.ca, Office: ESB 5194
+- Dikun Yang:     yangdikun@gmail.com,   Office: ESB 4037
+- Sarah Devriese: sdevries@eoas.ubc.ca,  Office: ESB 4033C
+- Devin Cowan:    devinccowan@gmail.com, Office: ESB 4021
+
+Office hours: contact the instructors via email to set up an appointment. Please include
+'EOSC350' in the subject line.
 
 **Teaching Assistants:**
 
-- Dom Fournier: fourndo@gmail.com, Office: ESB 4021
-- Patrick Belliveau: patrick.t.belliveau@gmail.com, Office: ESB 3031
-- Thibaut Astic: thast@eos.ubc.ca, Office: ESB 4037
-- Devin Cowan: devinccowan@gmail.com, Office: ESB 4021
-- Seogi Kang: skang@eos.ubc.ca, Office: ESB 4037
-- Lindsey Heagy: lheagy@eos.ubc.ca, Office: ESB 4033C
+- Michael Mitchell: mmitchel@eoas.ubc.ca, Office: ESB 4033C
+- Gabriela Racz:
+- Vahid Dehghanniri:
 
-Contact the TA's by e-mail or in person for availability. Please include
+Office hourse: contact the TA's by e-mail or in person for availability. Please include
 'EOSC350' in the subject line.
-
 
 
 **Contents**
