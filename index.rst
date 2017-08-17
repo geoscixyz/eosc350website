@@ -31,6 +31,8 @@ interpretation with emphasis on near-surface problems. Magnetic, seismic
 reflection/refraction, electromagnetic and ground penetrating radar surveys.
 Case history analysis of environmental and geotechnical problems.
 
+:ref:`Course syllabus <https://github.com/ubcgif/eosc350website/raw/master/assets/syllabus2017.pdf>`
+
 Course Times
 ------------
 
