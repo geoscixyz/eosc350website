@@ -41,7 +41,7 @@ Course Times
 **Labs:**
 
 - Section L1A: Mon   3:00-5:00 pm in EOS Main 203
-- Section L1C: Tue   3:00-5:00 pm in EOS Main 203
+- Section L1C: Tue   1:00-3:00 pm in EOS Main 203
 - Section L1B: Wed   3:00-5:00 pm in EOS Main 203
 
 **TBL Teams:**
