@@ -63,18 +63,18 @@ Contact Information
 
 **Instructors:**
 
-- Dikun Yang:     yangdikun@gmail.com,   Office: ESB 4037
-- Sarah Devriese: sdevries@eoas.ubc.ca,  Office: ESB 4033C
-- Devin Cowan:    devinccowan@gmail.com, Office: ESB 4021
+- Dikun Yang:     yangdikun@gmail.com
+- Sarah Devriese: sdevries@eoas.ubc.ca
+- Devin Cowan:    devinccowan@gmail.com
 
 Office hours: contact the instructors via email to set up an appointment. Please include
 'EOSC350' in the subject line.
 
 **Teaching Assistants:**
 
-- Michael Mitchell: mmitchel@eoas.ubc.ca, Office: ESB 4033C
-- Gabriela Racz:
-- Vahid Dehghanniri:
+- Michael Mitchell: mmitchel@eoas.ubc.ca
+- Gabriela Racz: gracz@eoas.ubc.ca
+- Vahid Dehghanniri: vdehghan@eoas.ubc.ca
 
 Office hourse: contact the TA's by e-mail or in person for availability. Please include
 'EOSC350' in the subject line.
