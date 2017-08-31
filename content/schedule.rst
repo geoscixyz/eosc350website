@@ -11,22 +11,33 @@ This page will be updated regularly throughout the year, check it often.
 
 
 
-+-----+---+--+------------------+-----------------------------+------------------------+------------------------------+------------+------------+
-|month|day|wk|goals             |required                     |activity                |lab                           |TA          |Instructor  |
-|     |   |  |                  |readings                     |                        |                              |Contact     |Contact     |
-+-----+---+--+------------------+-----------------------------+------------------------+------------------------------+------------+------------+
-|Sept | 6 |1 || Introduction    |- `syllabus`_                |                        | No Lab                       |            || `Dikun`_  |
-|     |   |  || and Course goals|- `GPG Foundations`_         |                        |                              |            |            |
-+     +---+  +------------------+-----------------------------+------------------------+                              +------------+------------+
-|     | 8 |  || Seven step      |- `GPG Foundations`_         |                        |                              |            |            |
-|     |   |  || framework for   |                             |                        |                              |            |            |
-|     |   |  || geophysics      |                             |                        |                              |            |            |
-+-----+---+--+------------------+-----------------------------+------------------------+------------------------------+------------+------------+
++-----+---+--+------------------+-----------------------------+-------------------------+------------------------------+--------------+------------+
+|month|day|wk|goals             |required                     |activity                 |lab                           |TA            |Instructor  |
+|     |   |  |                  |readings                     |                         |                              |Contact       |Contact     |
++-----+---+--+------------------+-----------------------------+-------------------------+------------------------------+--------------+------------+
+|Sept | 6 |1 || Introduction    |- `Syllabus`_                |                         | No Lab                       |              || `Dikun`_  |
+|     |   |  || and Course goals|- `GPG Foundations`_         |                         |                              |              |            |
++     +---+  +------------------+-----------------------------+-------------------------+                              +--------------+------------+
+|     | 8 |  || Seven step      |- `GPG Foundations`_         |                         |                              |              |            |
+|     |   |  || framework for   |                             |                         |                              |              |            |
+|     |   |  || geophysics      |                             |                         |                              |              |            |
++-----+---+--+------------------+-----------------------------+-------------------------+------------------------------+--------------+------------+
+|     | 11|2 || Physical        |- `Phys Props Case History`_ |- Phys Prop Quiz         | Lab 1: Physical properties   || `Devin`_    || `Dikun`_  |
+|     |   |  || Properties      |- `GPG Physical Properties`_ |- TBL 1                  |                              |              |            |
++     +---+  +------------------+-----------------------------+-------------------------+                              +--------------+------------+
+|     | 13|  || Magnetics       |- `GPG Magnetics`_           |- Lecture 3: Magnetics   |                              |              |            |
+|     |   |  ||                 |                             |                         |                              |              |            |
+|     |   |  ||                 |                             |                         |                              |              |            |
++     +---+  +------------------+-----------------------------+-------------------------+                              +--------------+------------+
+|     | 15|  ||                 |                             |                         |                              |              |            |
+|     |   |  ||                 |                             |                         |                              |              |            |
+|     |   |  ||                 |                             |                         |                              |              |            |
++-----+---+--+------------------+-----------------------------+-------------------------+------------------------------+--------------+------------+
 
 .. ============= Links ==========================
 
 .. ------------- General ------------------------
-.. _syllabus: https://github.com/ubcgif/eosc350website/raw/master/assets/syllabus2017.pdf
+.. _Syllabus: https://github.com/ubcgif/eosc350website/raw/master/assets/syllabus2017.pdf
 
 
 .. ------------- GPG ----------------------------
@@ -112,6 +123,8 @@ This page will be updated regularly throughout the year, check it often.
 .. _Dikun: yangdikun@gmail.com
 .. _Sarah: sdevries@eoas.ubc.ca
 .. _Mike: mmitchel@eoas.ubc.ca
+.. _Gabriela: gracz@eoas.ubc.ca
+.. _Vahid: vdehghan@eoas.ubc.ca
 
 .. _Semester Grades: https://github.com/ubcgif/eosc350website/raw/master/assets/Grades_03122016.pdf
 

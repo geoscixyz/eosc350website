@@ -11,6 +11,8 @@ Course Resources
 .. - `Binder for the Course Apps <http://mybinder.org/repo/ubcgif/gpgLabs>`_
 .. - `Download notebooks from GitHub <https://github.com/ubcgif/gpgLabs>`_
 
+- `Syzygy for the notebooks <ubc.syzygy.ca>`_
+
 
 External Resources
 ------------------
