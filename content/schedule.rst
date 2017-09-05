@@ -23,7 +23,7 @@ This page will be updated regularly throughout the year, check it often.
 +-----+---+--+------------------+-----------------------------+-------------------------+------------------------------+--------------+------------+
 |     | 11|2 || Seven step      |- `Phys Props Case History`_ |- Phys Prop Quiz         | Lab 1: Physical properties   || `Devin`_    || `Dikun`_  |
 |     |   |  || framework for   |- `GPG Physical Properties`_ |- TBL 1                  |                              |              |            |
-|     |   |  || geophsyics      |                             |                         |                              |              |            |
+|     |   |  || geophysics      |                             |                         |                              |              |            |
 +     +---+  +------------------+-----------------------------+-------------------------+                              +--------------+------------+
 |     | 13|  || Magnetics       |- `GPG Magnetics`_           |- Lecture 3: Magnetics   |                              |              |            |
 |     |   |  ||                 |                             |                         |                              |              |            |
