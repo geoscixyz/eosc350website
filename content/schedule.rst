@@ -21,15 +21,15 @@ This page will be updated regularly throughout the year, check it often.
 |     | 8 |  || Physical        |- `GPG Foundations`_         |                         |                              |              |            |
 |     |   |  || Properties      |                             |                         |                              |              |            |
 +-----+---+--+------------------+-----------------------------+-------------------------+------------------------------+--------------+------------+
-|     | 11|2 || Seven step      |- `Phys Props Case History`_ |- Phys Prop Quiz         | Lab 1: Physical properties   || `Devin`_    || `Dikun`_  |
-|     |   |  || framework for   |- `GPG Physical Properties`_ |- TBL 1                  |                              |              |            |
+|     | 13|2 || Seven step      |- `GPG Physical Properties`_ |                         | Lab 1: Physical properties   || `Devin`_    || `Dikun`_  |
+|     |   |  || framework for   |                             |                         |                              |              |            |
 |     |   |  || geophysics      |                             |                         |                              |              |            |
 +     +---+  +------------------+-----------------------------+-------------------------+                              +--------------+------------+
-|     | 13|  || Magnetics       |- `GPG Magnetics`_           |- Lecture 3: Magnetics   |                              |              |            |
-|     |   |  ||                 |                             |                         |                              |              |            |
+|     | 13|2 ||                 |- `TBL 1 Case History`_      |- Phys Prop Quiz         |                              |              |            |
+|     |   |  ||                 |                             |- TBL 1                  |                              |              |            |
 |     |   |  ||                 |                             |                         |                              |              |            |
 +     +---+  +------------------+-----------------------------+-------------------------+                              +--------------+------------+
-|     | 15|  ||                 |                             |                         |                              |              |            |
+|     | 15|  || Magnetics       |- `GPG Magnetics`_           |- Lecture 3: Magnetics   |                              |              |            |
 |     |   |  ||                 |                             |                         |                              |              |            |
 |     |   |  ||                 |                             |                         |                              |              |            |
 +-----+---+--+------------------+-----------------------------+-------------------------+------------------------------+--------------+------------+
@@ -107,7 +107,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _EM_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/EM.pdf
 
 .. ------------- Case Histories -----------------
-.. _Phys Props Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/0_PhysicalProperties/Hodgson_Ireland_First_Break_Aug_2009.pdf
+.. _TBL 1 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/0_PhysicalProperties/Hodgson_Ireland_First_Break_Aug_2009.pdf
 .. _Mag Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/2_Magnetics/BrineWellsCaseStudy.pdf
 .. _Seismic Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/3_Seismology/Near-surface_SH-wave.pdf
 .. _GPR Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/4_GPR/TBL4_GlacierGirl.pdf
