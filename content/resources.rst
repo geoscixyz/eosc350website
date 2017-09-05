@@ -8,7 +8,7 @@ Course Resources
 
 - `GPG: Geophysics for Practicing Geoscientists <http://gpg.geosci.xyz/>`_
 
-- `Syzygy for the notebooks <ubc.syzygy.ca>`_
+- `Syzygy for the notebooks <https://ubc.syzygy.ca/>`_
 
 - `gpgLabs setup <https://github.com/ubcgif/eosc350website/raw/master/assets/2017/gpgLabs_setup.pdf>`_
 
