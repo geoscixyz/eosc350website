@@ -52,25 +52,25 @@ This page will be updated regularly throughout the year, check it often.
 
 .. ------------- Lectures -----------------------
 .. _Lecture 1 Intro: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/0_PhysicalProperties/course_intro.pdf
-.. _Lecture 2 Intro: https://github.com/ubcgif/eosc350website/raw/master/assets/0_PhysicalProperties/b_Intro_to_applied_geophysics.pdf
-.. _Lecture 3 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics.pdf
-.. _Lecture 4 Seismic: https://github.com/ubcgif/eosc350website/raw/master/assets/3_Seismology/Seismology.pdf
-.. _Lecture 5 GPR: https://github.com/ubcgif/eosc350website/raw/master/assets/4_GPR/GPR_2016.pdf
-.. _Lecture 6 EM: https://github.com/ubcgif/eosc350website/raw/master/assets/5_EM/5_EM.pdf
-.. _Lecture 7 DC: https://github.com/ubcgif/eosc350website/raw/master/assets/6_DC/9_DC_Resistivity.pdf
-.. _Lecture 8 IP: https://github.com/ubcgif/eosc350website/raw/master/assets/6_DC/IP.pdf
+.. _Lecture 2 Intro: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/0_PhysicalProperties/b_Intro_to_applied_geophysics.pdf
+.. _Lecture 3 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/2_Magnetics/3_Magnetics.pdf
+.. _Lecture 4 Seismic: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/3_Seismology/Seismology.pdf
+.. _Lecture 5 GPR: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/4_GPR/GPR_2016.pdf
+.. _Lecture 6 EM: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/5_EM/5_EM.pdf
+.. _Lecture 7 DC: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/6_DC/9_DC_Resistivity.pdf
+.. _Lecture 8 IP: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/6_DC/IP.pdf
 .. _Review Lecture: notpostedyet.html
 
 .. ------------- Labs ---------------------------
-.. _Lab 1 Physical Properties: https://github.com/ubcgif/eosc350website/raw/master/assets/0_PhysicalProperties/Lab1_withimages_student.pdf
-.. _Lab 2 Magnetics Part 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/Lab2.pdf
-.. _Lab 3 Magnetics Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/Lab3.pdf
-.. _Lab 4 Seismic Refraction: https://github.com/ubcgif/eosc350website/raw/master/assets/3_Seismology/Lab4.pdf
-.. _Lab 5 Seismic Reflection: https://github.com/ubcgif/eosc350website/raw/master/assets/3_Seismology/Lab5.pdf
-.. _Lab 6 GPR: https://github.com/ubcgif/eosc350website/raw/master/assets/4_GPR/Lab6_2016_student_copy.pdf
-.. _Lab 7 EM Part 1: https://github.com/ubcgif/eosc350website/raw/master/assets/5_EM/Lab7.pdf
-.. _Lab 8 EM Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/5_EM/Lab8.pdf
-.. _Lab 9 DC Resistivity: https://github.com/ubcgif/eosc350website/raw/master/assets/6_DC/Lab9.pdf
+.. _Lab 1 Physical Properties: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/0_PhysicalProperties/Lab1_withimages_student.pdf
+.. _Lab 2 Magnetics Part 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/2_Magnetics/Lab2.pdf
+.. _Lab 3 Magnetics Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/2_Magnetics/Lab3.pdf
+.. _Lab 4 Seismic Refraction: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/3_Seismology/Lab4.pdf
+.. _Lab 5 Seismic Reflection: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/3_Seismology/Lab5.pdf
+.. _Lab 6 GPR: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/4_GPR/Lab6_2016_student_copy.pdf
+.. _Lab 7 EM Part 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/5_EM/Lab7.pdf
+.. _Lab 8 EM Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/5_EM/Lab8.pdf
+.. _Lab 9 DC Resistivity: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/6_DC/Lab9.pdf
 
 .. ------------- Apps ---------------------------
 .. _Magnetics App: http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/Mag/FitMagProfile.ipynb
@@ -84,19 +84,19 @@ This page will be updated regularly throughout the year, check it often.
 .. _DC App: http://mybinder.org/repo/ubcgif/gpgLabs//notebooks/DC/DCLab.ipynb
 
 .. ------------- TBL ----------------------------
-.. _TBL 1: https://github.com/ubcgif/eosc350website/raw/master/assets/0_PhysicalProperties/TBL1.pdf
-.. _TBL 2 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/tbl2_Indv_vStudent.pdf
-.. _TBL 2 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/tbl2_Team_vStudent.pdf
-.. _TBL 3 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/3_Seismology/TBL3.pdf
-.. _TBL 3 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/3_Seismology/tbl3team_students.pdf
-.. _TBL 4 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/4_GPR/IndividualTBL4_student_copy.pdf
-.. _TBL 4 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/4_GPR/TeamTBL4_2016_student_copy.pdf
-.. _TBL 5 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/5_EM/TBL5individual.pdf
-.. _TBL 5 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/5_EM/TBL5team.pdf
-.. _TBL 6 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/6_DC/TBL6_individual.pdf
-.. _TBL 6 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/6_DC/TBL6_team.pdf
-.. _TBL 7 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/7_Wrapup/TBL7individual.pdf
-.. _TBL 7 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/7_Wrapup/TBL7_team.pdf
+.. _TBL 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/0_PhysicalProperties/TBL1.pdf
+.. _TBL 2 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/2_Magnetics/tbl2_Indv_vStudent.pdf
+.. _TBL 2 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/2_Magnetics/tbl2_Team_vStudent.pdf
+.. _TBL 3 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/3_Seismology/TBL3.pdf
+.. _TBL 3 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/3_Seismology/tbl3team_students.pdf
+.. _TBL 4 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/4_GPR/IndividualTBL4_student_copy.pdf
+.. _TBL 4 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/4_GPR/TeamTBL4_2016_student_copy.pdf
+.. _TBL 5 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/5_EM/TBL5individual.pdf
+.. _TBL 5 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/5_EM/TBL5team.pdf
+.. _TBL 6 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/6_DC/TBL6_individual.pdf
+.. _TBL 6 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/6_DC/TBL6_team.pdf
+.. _TBL 7 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/7_Wrapup/TBL7individual.pdf
+.. _TBL 7 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/7_Wrapup/TBL7_team.pdf
 
 .. ------------- Question bank ----------------------------
 .. _Physical Properties_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/Intro_properties.pdf
@@ -107,13 +107,13 @@ This page will be updated regularly throughout the year, check it often.
 .. _EM_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/EM.pdf
 
 .. ------------- Case Histories -----------------
-.. _Phys Props Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/0_PhysicalProperties/Hodgson_Ireland_First_Break_Aug_2009.pdf
-.. _Mag Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/BrineWellsCaseStudy.pdf
-.. _Seismic Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/3_Seismology/Near-surface_SH-wave.pdf
-.. _GPR Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/4_GPR/TBL4_GlacierGirl.pdf
-.. _GPR Movie: https://github.com/ubcgif/eosc350website/raw/master/assets/4_GPR/GPR_Wavefront_movie.zip
-.. _EM Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/5_EM/EM_31_Hutchinson_2000_Solid_waste.pdf
-.. _DC IP Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/6_DC/DCIP_for_landfills_dahlin_FB_Aug_2010.pdf
+.. _Phys Props Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/0_PhysicalProperties/Hodgson_Ireland_First_Break_Aug_2009.pdf
+.. _Mag Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/2_Magnetics/BrineWellsCaseStudy.pdf
+.. _Seismic Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/3_Seismology/Near-surface_SH-wave.pdf
+.. _GPR Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/4_GPR/TBL4_GlacierGirl.pdf
+.. _GPR Movie: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/4_GPR/GPR_Wavefront_movie.zip
+.. _EM Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/5_EM/EM_31_Hutchinson_2000_Solid_waste.pdf
+.. _DC IP Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/6_DC/DCIP_for_landfills_dahlin_FB_Aug_2010.pdf
 
 .. ------------- TA -----------------------------
 .. _Devin: devinccowan@gmail.com
