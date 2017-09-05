@@ -13,6 +13,8 @@ Course Resources
 
 - `Syzygy for the notebooks <ubc.syzygy.ca>`_
 
+- `gpgLabs setup <https://github.com/ubcgif/eosc350website/raw/master/assets/2017/gpgLabs_setup.pdf>`_
+
 
 External Resources
 ------------------
