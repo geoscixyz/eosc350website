@@ -33,7 +33,11 @@ Case history analysis of environmental and geotechnical problems.
 
 - `Course syllabus`_
 
-.. _Course syllabus: https://github.com/ubcgif/eosc350website/raw/master/assets/syllabus2017.pdf
+- `350 teams`_
+
+.. _Course syllabus: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/syllabus2017.pdf
+
+.. _350 teams: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/teams.pdf
 
 Course Times
 ------------

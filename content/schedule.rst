@@ -15,15 +15,15 @@ This page will be updated regularly throughout the year, check it often.
 |month|day|wk|goals             |required                     |activity                 |lab                           |TA            |Instructor  |
 |     |   |  |                  |readings                     |                         |                              |Contact       |Contact     |
 +-----+---+--+------------------+-----------------------------+-------------------------+------------------------------+--------------+------------+
-|Sept | 6 |1 || Introduction    |- `Syllabus`_                |                         | No Lab                       |              || `Dikun`_  |
+|Sept | 6 |1 || Introduction    |- `Syllabus`_                | - `Lecture 1 Intro`_    | No Lab                       |              || `Dikun`_  |
 |     |   |  || and Course goals|- `GPG Foundations`_         |                         |                              |              |            |
 +     +---+  +------------------+-----------------------------+-------------------------+                              +--------------+------------+
-|     | 8 |  || Seven step      |- `GPG Foundations`_         |                         |                              |              |            |
-|     |   |  || framework for   |                             |                         |                              |              |            |
-|     |   |  || geophysics      |                             |                         |                              |              |            |
+|     | 8 |  || Physical        |- `GPG Foundations`_         |                         |                              |              |            |
+|     |   |  || Properties      |                             |                         |                              |              |            |
 +-----+---+--+------------------+-----------------------------+-------------------------+------------------------------+--------------+------------+
-|     | 11|2 || Physical        |- `Phys Props Case History`_ |- Phys Prop Quiz         | Lab 1: Physical properties   || `Devin`_    || `Dikun`_  |
-|     |   |  || Properties      |- `GPG Physical Properties`_ |- TBL 1                  |                              |              |            |
+|     | 11|2 || Seven step      |- `Phys Props Case History`_ |- Phys Prop Quiz         | Lab 1: Physical properties   || `Devin`_    || `Dikun`_  |
+|     |   |  || framework for   |- `GPG Physical Properties`_ |- TBL 1                  |                              |              |            |
+|     |   |  || geophsyics      |                             |                         |                              |              |            |
 +     +---+  +------------------+-----------------------------+-------------------------+                              +--------------+------------+
 |     | 13|  || Magnetics       |- `GPG Magnetics`_           |- Lecture 3: Magnetics   |                              |              |            |
 |     |   |  ||                 |                             |                         |                              |              |            |
@@ -37,7 +37,7 @@ This page will be updated regularly throughout the year, check it often.
 .. ============= Links ==========================
 
 .. ------------- General ------------------------
-.. _Syllabus: https://github.com/ubcgif/eosc350website/raw/master/assets/syllabus2017.pdf
+.. _Syllabus: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/syllabus2017.pdf
 
 
 .. ------------- GPG ----------------------------
@@ -51,7 +51,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _GPG Induced Polarization: http://gpg.geosci.xyz/content/induced_polarization/index.html
 
 .. ------------- Lectures -----------------------
-.. _Lecture 1 Intro: https://github.com/ubcgif/eosc350website/raw/master/assets/0_PhysicalProperties/a_Intro_350.pdf
+.. _Lecture 1 Intro: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/0_PhysicalProperties/course_intro.pdf
 .. _Lecture 2 Intro: https://github.com/ubcgif/eosc350website/raw/master/assets/0_PhysicalProperties/b_Intro_to_applied_geophysics.pdf
 .. _Lecture 3 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2_Magnetics/3_Magnetics.pdf
 .. _Lecture 4 Seismic: https://github.com/ubcgif/eosc350website/raw/master/assets/3_Seismology/Seismology.pdf
