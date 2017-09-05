@@ -54,12 +54,6 @@ Course Times
 
 **TBL Teams:**
 
-- To be announced
-
-.. - `EOS350 Teams pdf`_
-
-.. _EOS350 Teams pdf: https://github.com/ubcgif/eosc350website/raw/master/assets/EOS350_Teams.pdf
-
 .. _Contact_Info:
 
 Contact Information
