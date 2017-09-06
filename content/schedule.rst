@@ -16,12 +16,12 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  |                  |readings                     |                         |                              |Contact       |Contact     |
 +-----+---+--+------------------+-----------------------------+-------------------------+------------------------------+--------------+------------+
 |Sept | 6 |1 || Introduction    |- `Syllabus`_                | - `Lecture 1 Intro`_    | No Lab                       |              || `Dikun`_  |
-|     |   |  || and Course goals|- `GPG Foundations`_         |                         |                              |              |            |
+|     |   |  || and Course goals|                             |                         |                              |              |            |
 +     +---+  +------------------+-----------------------------+-------------------------+                              +--------------+------------+
-|     | 8 |  || Physical        |- `GPG Foundations`_         |                         |                              |              |            |
+|     | 8 |  || Physical        |- `GPG Physical Properties`_ |                         |                              |              |            |
 |     |   |  || Properties      |                             |                         |                              |              |            |
 +-----+---+--+------------------+-----------------------------+-------------------------+------------------------------+--------------+------------+
-|     | 13|2 || Seven step      |- `GPG Physical Properties`_ |                         | Lab 1: Physical properties   || `Devin`_    || `Dikun`_  |
+|     | 13|2 || Seven step      |- `GPG Foundations`_         |                         | Lab 1: Physical properties   || `Devin`_    || `Dikun`_  |
 |     |   |  || framework for   |                             |                         |                              |              |            |
 |     |   |  || geophysics      |                             |                         |                              |              |            |
 +     +---+  +------------------+-----------------------------+-------------------------+                              +--------------+------------+
