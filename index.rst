@@ -84,6 +84,6 @@ Office hourse: contact the TA's by e-mail or in person for availability. Please 
     :maxdepth: 1
 
     content/schedule
+    content/assignments
     content/lectures
-    content/apps
     content/resources
