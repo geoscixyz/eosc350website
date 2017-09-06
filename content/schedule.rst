@@ -26,7 +26,7 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  || geophysics      |                             |                         |                              |              |            |
 +     +---+  +------------------+-----------------------------+-------------------------+                              +--------------+------------+
 |     | 13|2 ||                 |- `TBL 1 Case History`_      |- Phys Prop Quiz         |                              |              |            |
-|     |   |  ||                 |                             |- TBL 1                  |                              |              |            |
+|     |   |  ||                 |                             |- `TBL 1`_               |                              |              |            |
 |     |   |  ||                 |                             |                         |                              |              |            |
 +     +---+  +------------------+-----------------------------+-------------------------+                              +--------------+------------+
 |     | 15|  || Magnetics       |- `GPG Magnetics`_           |- Lecture 3: Magnetics   |                              |              |            |
@@ -84,7 +84,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _DC App: http://mybinder.org/repo/ubcgif/gpgLabs//notebooks/DC/DCLab.ipynb
 
 .. ------------- TBL ----------------------------
-.. _TBL 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/0_PhysicalProperties/TBL1.pdf
+.. _TBL 1: https://docs.google.com/forms/d/e/1FAIpQLSfyAZRdo1F8jSuToG76Taz8AaKXwiEUjt7gmIIRPGdIfoD_IA/viewform
 .. _TBL 2 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/2_Magnetics/tbl2_Indv_vStudent.pdf
 .. _TBL 2 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/2_Magnetics/tbl2_Team_vStudent.pdf
 .. _TBL 3 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/3_Seismology/TBL3.pdf
