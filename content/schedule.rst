@@ -21,7 +21,7 @@ This page will be updated regularly throughout the year, check it often.
 |     | 8 |  || Physical        |- `GPG Physical Properties`_ |                         |                              |              |            |
 |     |   |  || Properties      |                             |                         |                              |              |            |
 +-----+---+--+------------------+-----------------------------+-------------------------+------------------------------+--------------+------------+
-|     | 11|2 || Seven step      |- `GPG Foundations`_         |                         |`Lab 1: Physical properties`_ || `Devin`_    || `Dikun`_  |
+|     | 11|2 || Seven step      |- `GPG Foundations`_         |                         |- `Lab 1 Physical properties`_|| `Devin`_    || `Dikun`_  |
 |     |   |  || framework for   |                             |                         |                              |              |            |
 |     |   |  || geophysics      |                             |                         |                              |              |            |
 +     +---+  +------------------+-----------------------------+-------------------------+                              +--------------+------------+
@@ -62,7 +62,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Review Lecture: notpostedyet.html
 
 .. ------------- Labs ---------------------------
-.. _Lab 1 Physical Properties: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/0_PhysicalProperties/Lab1_Student_Copy.pdf
+.. _Lab 1 Physical Properties: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/0_PhysicalProperties/Lab1_Student_Copy.pdf
 .. _Lab 2 Magnetics Part 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/2_Magnetics/Lab2.pdf
 .. _Lab 3 Magnetics Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/2_Magnetics/Lab3.pdf
 .. _Lab 4 Seismic Refraction: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/3_Seismology/Lab4.pdf
