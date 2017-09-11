@@ -11,28 +11,28 @@ This page will be updated regularly throughout the year, check it often.
 
 
 
-+-----+---+--+------------------+-----------------------------+-------------------------+------------------------------+--------------+------------+
-|month|day|wk|goals             |required                     |activity                 |lab                           |TA            |Instructor  |
-|     |   |  |                  |readings                     |                         |                              |Contact       |Contact     |
-+-----+---+--+------------------+-----------------------------+-------------------------+------------------------------+--------------+------------+
-|Sept | 6 |1 || Introduction    |- `Syllabus`_                |- `Lecture 1 Intro`_     | No Lab                       |              || `Dikun`_  |
-|     |   |  || and Course goals|                             |                         |                              |              |            |
-+     +---+  +------------------+-----------------------------+-------------------------+                              +--------------+------------+
-|     | 8 |  || Physical        |- `GPG Physical Properties`_ |- `Lecture 2 Intro`_     |                              |              |            |
-|     |   |  || Properties      |                             |                         |                              |              |            |
-+-----+---+--+------------------+-----------------------------+-------------------------+------------------------------+--------------+------------+
-|     | 11|2 || Seven step      |- `GPG Foundations`_         |                         |- `Lab 1 Physical properties`_|| `Devin`_    || `Dikun`_  |
-|     |   |  || framework for   |                             |                         |                              |              |            |
-|     |   |  || geophysics      |                             |                         |                              |              |            |
-+     +---+  +------------------+-----------------------------+-------------------------+                              +--------------+------------+
-|     | 13|  ||                 |- `TBL 1 Case History`_      |- Phys Prop Quiz         |                              |              |            |
-|     |   |  ||                 |                             |- `TBL 1 Individual`_    |                              |              |            |
-|     |   |  ||                 |                             |- `TBL 1 Team`_          |                              |              |            |
-+     +---+  +------------------+-----------------------------+-------------------------+                              +--------------+------------+
-|     | 15|  || Magnetics       |- `GPG Magnetics`_           |- Lecture 3: Magnetics   |                              |              |            |
-|     |   |  ||                 |                             |                         |                              |              |            |
-|     |   |  ||                 |                             |                         |                              |              |            |
-+-----+---+--+------------------+-----------------------------+-------------------------+------------------------------+--------------+------------+
++-----+---+--+------------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
+|month|day|wk|goals             |required                     |activity                           |lab                           |TA            |Instructor  |
+|     |   |  |                  |readings                     |                                   |                              |Contact       |Contact     |
++-----+---+--+------------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
+|Sept | 6 |1 || Introduction    |- `Syllabus`_                |- `Lecture 1 Intro`_               | No Lab                       |              || `Dikun`_  |
+|     |   |  || and Course goals|                             |                                   |                              |              |            |
++     +---+  +------------------+-----------------------------+-----------------------------------+                              +--------------+------------+
+|     | 8 |  || Physical        |- `GPG Physical Properties`_ |- `Lecture 2 Physical Properties`_ |                              |              |            |
+|     |   |  || Properties      |                             |                                   |                              |              |            |
++-----+---+--+------------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
+|     | 11|2 || Seven step      |- `GPG Foundations`_         |- `Lecture 3 Framework`_           |- `Lab 1 Physical properties`_|| `Devin`_    || `Dikun`_  |
+|     |   |  || framework for   |                             |                                   |                              |              |            |
+|     |   |  || geophysics      |                             |                                   |                              |              |            |
++     +---+  +------------------+-----------------------------+-----------------------------------+                              +--------------+------------+
+|     | 13|  ||                 |- `TBL 1 Case History`_      |- Phys Prop Quiz                   |                              |              |            |
+|     |   |  ||                 |                             |- `TBL 1 Individual`_              |                              |              |            |
+|     |   |  ||                 |                             |- `TBL 1 Team`_                    |                              |              |            |
++     +---+  +------------------+-----------------------------+-----------------------------------+                              +--------------+------------+
+|     | 15|  || Magnetics       |- `GPG Magnetics`_           |                                   |                              |              |            |
+|     |   |  ||                 |                             |                                   |                              |              |            |
+|     |   |  ||                 |                             |                                   |                              |              |            |
++-----+---+--+------------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
 
 .. ============= Links ==========================
 
@@ -52,7 +52,8 @@ This page will be updated regularly throughout the year, check it often.
 
 .. ------------- Lectures -----------------------
 .. _Lecture 1 Intro: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/0_PhysicalProperties/course_intro.pdf
-.. _Lecture 2 Intro: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/0_PhysicalProperties/physical_properties.pdf
+.. _Lecture 2 Physical Properties: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/0_PhysicalProperties/physical_properties.pdf
+.. _Lecture 3 Framework: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/1_Foundations/framework.pdf
 .. _Lecture 3 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/2_Magnetics/3_Magnetics.pdf
 .. _Lecture 4 Seismic: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/3_Seismology/Seismology.pdf
 .. _Lecture 5 GPR: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/4_GPR/GPR_2016.pdf
