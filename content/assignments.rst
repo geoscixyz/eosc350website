@@ -13,7 +13,7 @@ Assignments
 
 **LAB 1**
 
-- `Lab 1 Physical properties`_: DUE AT END OF YOUR LAB PERIOD.
+- `Lab 1 Physical properties`_: DUE AT END OF YOUR LAB PERIOD
 
 .. _Reading: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/0_PhysicalProperties/Hodgson_Ireland_First_Break_Aug_2009.pdf
 .. _TBL 1 individual: https://docs.google.com/forms/d/e/1FAIpQLSfyAZRdo1F8jSuToG76Taz8AaKXwiEUjt7gmIIRPGdIfoD_IA/viewform

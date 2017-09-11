@@ -74,7 +74,7 @@ Office hours: contact the instructors via email to set up an appointment. Please
 - Gabriela Racz: gracz@eoas.ubc.ca
 - Vahid Dehghanniri: vdehghan@eoas.ubc.ca
 
-Office hourse: contact the TA's by e-mail or in person for availability. Please include
+Office hours: contact the TA's by e-mail or in person for availability. Please include
 'EOSC350' in the subject line.
 
 
@@ -85,5 +85,4 @@ Office hourse: contact the TA's by e-mail or in person for availability. Please 
 
     content/schedule
     content/assignments
-    content/lectures
     content/resources
