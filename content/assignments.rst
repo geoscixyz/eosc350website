@@ -8,7 +8,7 @@ Assignments
 **TBL 1**
 
 - `Reading`_
-- `TBL 1 individual`_: DUE WEDNESDAY SEPTEMBER 13, 2017
+- `TBL 1 individual`_: DUE by 8 AM ON WEDNESDAY SEPTEMBER 13, 2017
 - `TBL 1 team`_
 
 **LAB 1**
