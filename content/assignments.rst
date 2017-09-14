@@ -16,9 +16,11 @@ Assignments
 - `Lab 1 Physical properties`_: DUE AT END OF YOUR LAB PERIOD
 
 **LAB 2**
+
 - `Location on Wreck Beach`_: Walk down the stairs along Trail 6 to the beach
 
 **TBL 2**
+
 - `Reading2`_
 
 .. _Reading1: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/0_PhysicalProperties/Hodgson_Ireland_First_Break_Aug_2009.pdf
