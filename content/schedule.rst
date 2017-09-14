@@ -17,9 +17,11 @@ This page will be updated regularly throughout the year, check it often.
 +-----+---+--+------------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
 |Sept | 6 |1 || Introduction    |- `Syllabus`_                |- `Lecture 1 Intro`_               | No Lab                       |              || `Dikun`_  |
 |     |   |  || and Course goals|                             |                                   |                              |              |            |
+|     |   |  ||                 |                             |                                   |                              |              |            |
 +     +---+  +------------------+-----------------------------+-----------------------------------+                              +--------------+------------+
 |     | 8 |  || Physical        |- `GPG Physical Properties`_ |- `Lecture 2 Physical Properties`_ |                              |              |            |
 |     |   |  || Properties      |                             |                                   |                              |              |            |
+|     |   |  ||                 |                             |                                   |                              |              |            |
 +-----+---+--+------------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
 |     | 11|2 || Seven step      |- `GPG Foundations`_         |- `Lecture 3 Framework`_           |- `Lab 1 Physical properties`_|| `Devin`_    || `Dikun`_  |
 |     |   |  || framework for   |                             |                                   |                              |              |            |
@@ -29,7 +31,19 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||                 |                             |- `TBL 1 Individual`_              |                              |              |            |
 |     |   |  ||                 |                             |- `TBL 1 Team`_                    |                              |              |            |
 +     +---+  +------------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 15|  || Magnetics       |- `GPG Magnetics`_           |                                   |                              |              |            |
+|     | 15|  || Magnetics       |- `GPG Magnetics`_           |- `Lecture 4 Magnetics`_           |                              |              |            |
+|     |   |  ||                 |                             |                                   |                              |              |            |
+|     |   |  ||                 |                             |                                   |                              |              |            |
++-----+---+--+------------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
+|     | 18|3 ||                 |- `TBL 2 Case History`_      |                                   |- Lab 2 Magnetics             || `Mike`_     || `Dikun`_  |
+|     |   |  ||                 |                             |                                   |                              |              |            |
+|     |   |  ||                 |                             |                                   |                              |              |            |
++     +---+  +------------------+-----------------------------+-----------------------------------+                              +--------------+------------+
+|     | 20|  ||                 |                             |                                   |                              |              |            |
+|     |   |  ||                 |                             |                                   |                              |              |            |
+|     |   |  ||                 |                             |                                   |                              |              |            |
++     +---+  +------------------+-----------------------------+-----------------------------------+                              +--------------+------------+
+|     | 21|  ||                 |                             |                                   |                              |              |            |
 |     |   |  ||                 |                             |                                   |                              |              |            |
 |     |   |  ||                 |                             |                                   |                              |              |            |
 +-----+---+--+------------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
@@ -54,7 +68,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Lecture 1 Intro: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/0_PhysicalProperties/course_intro.pdf
 .. _Lecture 2 Physical Properties: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/0_PhysicalProperties/physical_properties.pdf
 .. _Lecture 3 Framework: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/1_Foundations/framework.pdf
-.. _Lecture 3 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/2_Magnetics/3_Magnetics.pdf
+.. _Lecture 4 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/2_Magnetics/magnetic_principles.pdf
 .. _Lecture 4 Seismic: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/3_Seismology/Seismology.pdf
 .. _Lecture 5 GPR: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/4_GPR/GPR_2016.pdf
 .. _Lecture 6 EM: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/5_EM/5_EM.pdf
@@ -110,7 +124,7 @@ This page will be updated regularly throughout the year, check it often.
 
 .. ------------- Case Histories -----------------
 .. _TBL 1 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/0_PhysicalProperties/Hodgson_Ireland_First_Break_Aug_2009.pdf
-.. _Mag Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/2_Magnetics/BrineWellsCaseStudy.pdf
+.. _TBL 2 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/2_Magnetics/BrineWellsCaseStudy.pdf
 .. _Seismic Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/3_Seismology/Near-surface_SH-wave.pdf
 .. _GPR Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/4_GPR/TBL4_GlacierGirl.pdf
 .. _GPR Movie: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/4_GPR/GPR_Wavefront_movie.zip
