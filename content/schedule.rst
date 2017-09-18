@@ -35,8 +35,8 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|     | 18|3 ||               |                             |                                   |- `Lab 2 Magnetics Part 1`_   || `Mike`_     || `Dikun`_  |
-|     |   |  ||               |                             |                                   |                              |              |            |
+|     | 18|3 ||               |                             |- `Lecture 5 Magnetics`_           |- `Lab 2 Magnetics Part 1`_   || `Mike`_     || `Dikun`_  |
+|     |   |  ||               |                             |- Mag_Induced2D.ipynb in gpgLabs   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
 |     | 20|  ||               |                             |                                   |                              |              |            |
@@ -81,6 +81,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Lecture 2 Physical Properties: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/0_PhysicalProperties/physical_properties.pdf
 .. _Lecture 3 Framework: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/1_Foundations/framework.pdf
 .. _Lecture 4 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/2_Magnetics/magnetic_principles.pdf
+.. _Lecture 5 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/2_Magnetics/magnetic_survey.pdf
 .. _Lecture 4 Seismic: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/3_Seismology/Seismology.pdf
 .. _Lecture 5 GPR: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/4_GPR/GPR_2016.pdf
 .. _Lecture 6 EM: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/5_EM/5_EM.pdf
