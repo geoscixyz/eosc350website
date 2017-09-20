@@ -39,7 +39,7 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |- Mag_Induced2D.ipynb in gpgLabs   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 20|  ||               |                             |                                   |                              |              |            |
+|     | 20|  ||               |                             |- `Lecture 6 Magnetics`_           |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
@@ -82,6 +82,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Lecture 3 Framework: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/1_Foundations/framework.pdf
 .. _Lecture 4 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/2_Magnetics/magnetic_principles.pdf
 .. _Lecture 5 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/2_Magnetics/magnetic_survey.pdf
+.. _Lecture 6 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/2_Magnetics/magnetic_interpretation.pdf
 .. _Lecture 4 Seismic: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/3_Seismology/Seismology.pdf
 .. _Lecture 5 GPR: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/4_GPR/GPR_2016.pdf
 .. _Lecture 6 EM: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/5_EM/5_EM.pdf
