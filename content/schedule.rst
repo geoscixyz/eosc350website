@@ -43,8 +43,8 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 22|  ||               |                             |- Magnetics Quiz                   |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
+|     | 22|  ||               |                             |- `Lecture 7 Magnetics`_           |                              |              |            |
+|     |   |  ||               |                             |- Magnetics Quiz                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
 |     | 25|4 ||               |- `TBL 2 Case History`_      |- `TBL 2 Individual`_              |- Lab 3 Magnetics Part 2      || `Mike`_     || `Dikun`_  |
@@ -83,6 +83,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Lecture 4 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/2_Magnetics/magnetic_principles.pdf
 .. _Lecture 5 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/2_Magnetics/magnetic_survey.pdf
 .. _Lecture 6 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/2_Magnetics/magnetic_interpretation.pdf
+.. _Lecture 7 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/2_Magnetics/magnetic_application.pdf
 .. _Lecture 4 Seismic: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/3_Seismology/Seismology.pdf
 .. _Lecture 5 GPR: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/4_GPR/GPR_2016.pdf
 .. _Lecture 6 EM: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/5_EM/5_EM.pdf
