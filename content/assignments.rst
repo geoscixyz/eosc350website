@@ -27,7 +27,7 @@ Assignments
 
 **LAB 3**
 
-- `Lab 2 Magnetics Part 1`_: DUE BY START OF YOUR NEXT LAB PERIOD
+- `Lab 3 Magnetics Part 2`_: DUE BY START OF YOUR NEXT LAB PERIOD
 
 
 .. _Reading1: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/0_PhysicalProperties/Hodgson_Ireland_First_Break_Aug_2009.pdf
