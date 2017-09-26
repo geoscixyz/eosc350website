@@ -25,6 +25,10 @@ Assignments
 - `Reading2`_
 - `TBL 2 individual`_: DUE BY 8 AM ON MONDAY SEPTEMBER 25, 2017 
 
+**LAB 3**
+- `Lab 2 Magnetics Part 1`_: DUE BY START OF YOUR NEXT LAB PERIOD
+
+
 .. _Reading1: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/0_PhysicalProperties/Hodgson_Ireland_First_Break_Aug_2009.pdf
 .. _TBL 1 individual: https://docs.google.com/forms/d/e/1FAIpQLSfyAZRdo1F8jSuToG76Taz8AaKXwiEUjt7gmIIRPGdIfoD_IA/viewform
 .. _TBL 1 team: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/0_PhysicalProperties/TBL1Team.pdf
@@ -33,3 +37,4 @@ Assignments
 .. _Lab 2 Magnetics Part 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/2_Magnetics/Lab2_Students.pdf
 .. _Reading2: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/2_Magnetics/BrineWellsCaseStudy.pdf
 .. _TBL 2 individual: https://goo.gl/forms/dH1wvUUtgWo6bagz1
+.. _Lab 3 Magnetics Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/2_Magnetics/Lab3.pdf
