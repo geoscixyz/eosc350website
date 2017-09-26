@@ -24,6 +24,7 @@ Assignments
 
 - `Reading2`_
 - `TBL 2 individual`_: DUE BY 8 AM ON MONDAY SEPTEMBER 25, 2017 
+- `TBL 2 team`_
 
 **LAB 3**
 
@@ -38,4 +39,5 @@ Assignments
 .. _Lab 2 Magnetics Part 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/2_Magnetics/Lab2_Students.pdf
 .. _Reading2: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/2_Magnetics/BrineWellsCaseStudy.pdf
 .. _TBL 2 individual: https://goo.gl/forms/dH1wvUUtgWo6bagz1
+.. _TBL 2 team: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/2_Magnetics/tbl2_Team_vStudent.pdf
 .. _Lab 3 Magnetics Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/2_Magnetics/Lab3.pdf
