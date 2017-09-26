@@ -51,11 +51,59 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |- TBL 2 Team                       |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 27|  || Seismic       |- `GPG Seismic`_             |                                   |                              |              || `Sarah`_  |
+|     | 27|  || Seismic       |- `GPG Seismic`_             |- `Lecture 8 Seismic`_             |                              |              || `Sarah`_  |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
 |     | 29|  ||               |                             |                                   |                              |              |            |
+|     |   |  ||               |                             |                                   |                              |              |            |
+|     |   |  ||               |                             |                                   |                              |              |            |
++-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
+|Oct  |  2|5 ||               |                             |                                   |- Lab 4 Seismic Part 1        || `Vahid`_    || `Sarah`_  |
+|     |   |  ||               |                             |                                   |                              |              |            |
+|     |   |  ||               |                             |                                   |                              |              |            |
++     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
+|     |  4|  ||               |                             |                                   |                              |              |            |
+|     |   |  ||               |                             |                                   |                              |              |            |
+|     |   |  ||               |                             |                                   |                              |              |            |
++     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
+|     |  6|  ||               |                             |                                   |                              |              |            |
+|     |   |  ||               |                             |                                   |                              |              |            |
+|     |   |  ||               |                             |                                   |                              |              |            |
++-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
+|Oct  |  9|6 || Thanksgiving  |                             |                                   |- Lab 4 Seismic Part 2 (T,W)  || `Vahid`_    || `Sarah`_  |
+|     |   |  || No class      |                             |                                   |                              |              |            |
+|     |   |  ||               |                             |                                   |                              |              |            |
++     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
+|     | 11|  ||               |                             |- Seismic Quiz                     |                              |              |            |
+|     |   |  ||               |                             |                                   |                              |              |            |
+|     |   |  ||               |                             |                                   |                              |              |            |
++     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
+|     | 13|  ||               |- `TBL 3 Case History`_      |- TBL 3 Individual                 |                              |              |            |
+|     |   |  ||               |                             |- TBL 3 Team                       |                              |              |            |
+|     |   |  ||               |                             |                                   |                              |              |            |
++-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
+|Oct  | 16|7 || GPR           |                             |                                   |- Lab 4 Seismic Part 2 (M)    || `Vahid`_    || `Devin`_  |
+|     |   |  ||               |                             |                                   |- Lab 5 GPR (T,W)             || TBA         |            |
+|     |   |  ||               |                             |                                   |                              |              |            |
++     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
+|     | 18|  ||               |                             |                                   |                              |              |            |
+|     |   |  ||               |                             |                                   |                              |              |            |
+|     |   |  ||               |                             |                                   |                              |              |            |
++     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
+|     | 20|  ||               |                             |                                   |                              |              |            |
+|     |   |  ||               |                             |                                   |                              |              |            |
+|     |   |  ||               |                             |                                   |                              |              |            |
++-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
+|Oct  | 23|8 ||               |                             |                                   |- Lab 5 GPR (M)               || TBA         || `Devin`_  |
+|     |   |  ||               |                             |                                   |                              |              |            |
+|     |   |  ||               |                             |                                   |                              |              |            |
++     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
+|     | 25|  || Midterm       |                             |                                   |                              |              |            |
+|     |   |  ||               |                             |                                   |                              |              |            |
+|     |   |  ||               |                             |                                   |                              |              |            |
++     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
+|     | 27|  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
@@ -84,7 +132,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Lecture 5 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/2_Magnetics/magnetic_survey.pdf
 .. _Lecture 6 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/2_Magnetics/magnetic_interpretation.pdf
 .. _Lecture 7 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/2_Magnetics/magnetic_application.pdf
-.. _Lecture 4 Seismic: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/3_Seismology/Seismology.pdf
+.. _Lecture 8 Seismic: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/3_Seismic/seismic.pdf
 .. _Lecture 5 GPR: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/4_GPR/GPR_2016.pdf
 .. _Lecture 6 EM: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/5_EM/5_EM.pdf
 .. _Lecture 7 DC: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/6_DC/9_DC_Resistivity.pdf
@@ -140,7 +188,7 @@ This page will be updated regularly throughout the year, check it often.
 .. ------------- Case Histories -----------------
 .. _TBL 1 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/0_PhysicalProperties/Hodgson_Ireland_First_Break_Aug_2009.pdf
 .. _TBL 2 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/2_Magnetics/BrineWellsCaseStudy.pdf
-.. _Seismic Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/3_Seismology/Near-surface_SH-wave.pdf
+.. _TBL 3 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/3_Seismology/Near-surface_SH-wave.pdf
 .. _GPR Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/4_GPR/TBL4_GlacierGirl.pdf
 .. _GPR Movie: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/4_GPR/GPR_Wavefront_movie.zip
 .. _EM Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/5_EM/EM_31_Hutchinson_2000_Solid_waste.pdf
