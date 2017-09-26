@@ -26,6 +26,7 @@ Assignments
 - `TBL 2 individual`_: DUE BY 8 AM ON MONDAY SEPTEMBER 25, 2017 
 
 **LAB 3**
+
 - `Lab 2 Magnetics Part 1`_: DUE BY START OF YOUR NEXT LAB PERIOD
 
 
