@@ -5,6 +5,8 @@ Assignments
 
 .. note:: Please print out the labs before attending the lab period.
 
+.. note:: GPG Labs are available to download `here`_
+
 **TBL 1**
 
 - `Reading 1`_
@@ -46,3 +48,4 @@ Assignments
 .. _TBL 2 team: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/2_Magnetics/tbl2_Team_vStudent.pdf
 .. _Lab 3 Magnetics Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/2_Magnetics/Lab3.pdf
 .. _Reading 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/3_Seismology/Near-surface_SH-wave.pdf
+.. _here: https://github.com/geoscixyz/gpgLabs
