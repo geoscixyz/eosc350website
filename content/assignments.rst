@@ -35,7 +35,7 @@ Assignments
 **TBL 3**
 
 - `Reading 3`_
-
+- `TBL 3 individual`_: DUE BY 12 PM ON FRIDAY OCTOBER 13, 2017
 
 .. _Reading 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/0_PhysicalProperties/Hodgson_Ireland_First_Break_Aug_2009.pdf
 .. _TBL 1 individual: https://docs.google.com/forms/d/e/1FAIpQLSfyAZRdo1F8jSuToG76Taz8AaKXwiEUjt7gmIIRPGdIfoD_IA/viewform
@@ -48,4 +48,5 @@ Assignments
 .. _TBL 2 team: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/2_Magnetics/tbl2_Team_vStudent.pdf
 .. _Lab 3 Magnetics Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/2_Magnetics/Lab3.pdf
 .. _Reading 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/3_Seismology/Near-surface_SH-wave.pdf
+.. _TBL 3 individual: https://goo.gl/forms/bYhiw03Y0tjdShDJ2
 .. _here: https://github.com/geoscixyz/gpgLabs
