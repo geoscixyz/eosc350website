@@ -5,7 +5,7 @@ Course Schedule
 
 This page will be updated regularly throughout the year, check it often.
 
-.. note:: Please print out the labs before attending the lab period.
+.. note:: Please print out the labs before attending the lab period!
 
 .. note:: See the :ref:`Assignments <assignments>` page for a list of all your assignments and DUE DATES!
 
@@ -79,7 +79,7 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 13|  ||               |- `TBL 3 Case History`_      |- TBL 3 Individual                 |                              |              |            |
+|     | 13|  ||               |- `TBL 3 Case History`_      |- `TBL 3 Individual`_              |                              |              |            |
 |     |   |  ||               |                             |- TBL 3 Team                       |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
@@ -166,7 +166,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _TBL 1 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/0_PhysicalProperties/TBL1Team.pdf
 .. _TBL 2 Individual: https://goo.gl/forms/dH1wvUUtgWo6bagz1
 .. _TBL 2 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/2_Magnetics/tbl2_Team_vStudent.pdf
-.. _TBL 3 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/3_Seismology/TBL3.pdf
+.. _TBL 3 Individual: https://goo.gl/forms/bYhiw03Y0tjdShDJ2
 .. _TBL 3 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/3_Seismology/tbl3team_students.pdf
 .. _TBL 4 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/4_GPR/IndividualTBL4_student_copy.pdf
 .. _TBL 4 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/4_GPR/TeamTBL4_2016_student_copy.pdf
