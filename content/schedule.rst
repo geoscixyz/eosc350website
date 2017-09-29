@@ -59,7 +59,7 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|Oct  |  2|5 ||               |                             |                                   |- Lab 4 Seismic Part 1        || `Vahid`_    || `Sarah`_  |
+|Oct  |  2|5 ||               |                             |                                   |- `Lab 4 Seismic Part 1`_     || `Vahid`_    || `Sarah`_  |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
@@ -143,7 +143,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Lab 1 Physical Properties: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/0_PhysicalProperties/Lab1_Student_Copy.pdf
 .. _Lab 2 Magnetics Part 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/2_Magnetics/Lab2_Students.pdf
 .. _Lab 3 Magnetics Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/2_Magnetics/Lab3.pdf
-.. _Lab 4 Seismic Refraction: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/3_Seismology/Lab4.pdf
+.. _Lab 4 Seismic Part 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/3_Seismic/Lab4.pdf
 .. _Lab 5 Seismic Reflection: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/3_Seismology/Lab5.pdf
 .. _Lab 6 GPR: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/4_GPR/Lab6_2016_student_copy.pdf
 .. _Lab 7 EM Part 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/5_EM/Lab7.pdf
