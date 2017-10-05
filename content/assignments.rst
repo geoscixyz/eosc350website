@@ -34,7 +34,7 @@ Assignments
 
 **LAB 4**
 
-- `Lab 4 Seismic Part 1`_: DUE BY END OF YOUR LAB PERIOD
+- `Lab 4 Seismic Part 1`_: DUE BY 1 PM ON WEDNESDAY OCTOBER 11, 2017
 
 **TBL 3**
 
