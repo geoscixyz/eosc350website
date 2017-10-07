@@ -41,6 +41,10 @@ Assignments
 - `Reading 3`_
 - `TBL 3 individual`_: DUE BY 12 PM ON FRIDAY OCTOBER 13, 2017
 
+**LAB 5**
+
+- `Lab 5 Seismic Part 2`_: DUE BY END OF LAB PERIOD
+
 .. _Reading 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/0_PhysicalProperties/Hodgson_Ireland_First_Break_Aug_2009.pdf
 .. _TBL 1 individual: https://docs.google.com/forms/d/e/1FAIpQLSfyAZRdo1F8jSuToG76Taz8AaKXwiEUjt7gmIIRPGdIfoD_IA/viewform
 .. _TBL 1 team: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/0_PhysicalProperties/TBL1Team.pdf
@@ -55,3 +59,4 @@ Assignments
 .. _TBL 3 individual: https://goo.gl/forms/bYhiw03Y0tjdShDJ2
 .. _Lab 4 Seismic Part 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/3_Seismic/Lab4.pdf
 .. _here: https://github.com/geoscixyz/gpgLabs
+.. _Lab 5 Seismic Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/3_Seismic/Lab5.pdf
