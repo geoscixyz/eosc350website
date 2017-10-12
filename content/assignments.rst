@@ -40,6 +40,7 @@ Assignments
 
 - `Reading 3`_
 - `TBL 3 individual`_: DUE BY 12 PM ON FRIDAY OCTOBER 13, 2017
+- `TBL 3 team`_ (printed copies will be provided to you in class)
 
 **LAB 5**
 
