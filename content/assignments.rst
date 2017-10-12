@@ -40,6 +40,7 @@ Assignments
 
 - `Reading 3`_
 - `TBL 3 individual`_: DUE BY 12 PM ON FRIDAY OCTOBER 13, 2017
+- `TBL 3 team`_ (printed copies will be provided to you in class)
 
 **LAB 5**
 
@@ -57,6 +58,7 @@ Assignments
 .. _Lab 3 Magnetics Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/2_Magnetics/Lab3.pdf
 .. _Reading 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/3_Seismology/Near-surface_SH-wave.pdf
 .. _TBL 3 individual: https://goo.gl/forms/bYhiw03Y0tjdShDJ2
+.. _TBL 3 team: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/3_Seismic/TBL3_team.pdf
 .. _Lab 4 Seismic Part 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/3_Seismic/Lab4.pdf
 .. _here: https://github.com/geoscixyz/gpgLabs
 .. _Lab 5 Seismic Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/3_Seismic/Lab5.pdf
