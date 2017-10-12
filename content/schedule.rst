@@ -95,8 +95,8 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|Oct  | 23|8 ||               |                             |                                   |- Lab 5 GPR                   || TBA         || `Devin`_  |
-|     |   |  ||               |                             |                                   |                              |              |            |
+|Oct  | 23|8 ||               |- `TBL 4 Case History`_      |- TBL 4 Individual                 |- `Lab 6 GPR`_                || `Gabriela`_ || `Devin`_  |
+|     |   |  ||               |                             |- TBL 4 Team                       |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
 |     | 25|  || Midterm       |                             |- Midterm review                   |                              |              |            |
@@ -104,6 +104,18 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
 |     | 27|  || Midterm       |                             |- Midterm                          |                              |              |            |
+|     |   |  ||               |                             |                                   |                              |              |            |
+|     |   |  ||               |                             |                                   |                              |              |            |
++-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
+|     | 30|9 ||               |                             |                                   |                              |              |            |
+|     |   |  ||               |                             |                                   |                              |              |            |
+|     |   |  ||               |                             |                                   |                              |              |            |
++     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
+|Nov  |  1|  ||               |                             |                                   |                              |              |            |
+|     |   |  ||               |                             |                                   |                              |              |            |
+|     |   |  ||               |                             |                                   |                              |              |            |
++     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
+|     |  3|  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
@@ -147,7 +159,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Lab 3 Magnetics Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/2_Magnetics/Lab3.pdf
 .. _Lab 4 Seismic Part 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/3_Seismic/Lab4.pdf
 .. _Lab 5 Seismic Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/3_Seismic/Lab5.pdf
-.. _Lab 6 GPR: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/4_GPR/Lab6_2016_student_copy.pdf
+.. _Lab 6 GPR: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/4_GPR/Lab6_2017_student_copy.pdf
 .. _Lab 7 EM Part 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/5_EM/Lab7.pdf
 .. _Lab 8 EM Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/5_EM/Lab8.pdf
 .. _Lab 9 DC Resistivity: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/6_DC/Lab9.pdf
@@ -191,7 +203,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _TBL 1 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/0_PhysicalProperties/Hodgson_Ireland_First_Break_Aug_2009.pdf
 .. _TBL 2 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/2_Magnetics/BrineWellsCaseStudy.pdf
 .. _TBL 3 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/3_Seismology/Near-surface_SH-wave.pdf
-.. _GPR Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/4_GPR/TBL4_GlacierGirl.pdf
+.. _TBL 4 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/4_GPR/TBL4_GlacierGirl.pdf
 .. _GPR Movie: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/4_GPR/GPR_Wavefront_movie.zip
 .. _EM Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/5_EM/EM_31_Hutchinson_2000_Solid_waste.pdf
 .. _DC IP Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/6_DC/DCIP_for_landfills_dahlin_FB_Aug_2010.pdf
