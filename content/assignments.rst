@@ -46,6 +46,16 @@ Assignments
 
 - `Lab 5 Seismic Part 2`_: DUE BY END OF LAB PERIOD
 
+**LAB 6**
+
+- `Lab 6 GPR`_: DUE AT END OF LAB PERIOD
+
+**TBL 4**
+
+- `Reading 4`_
+- `TBL 4 individual`_: DUE BY START OF CLASS ON MONDAY OCTOBER 23, 2017
+- `TBL 4 team`_
+
 .. _Reading 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/0_PhysicalProperties/Hodgson_Ireland_First_Break_Aug_2009.pdf
 .. _TBL 1 individual: https://docs.google.com/forms/d/e/1FAIpQLSfyAZRdo1F8jSuToG76Taz8AaKXwiEUjt7gmIIRPGdIfoD_IA/viewform
 .. _TBL 1 team: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/0_PhysicalProperties/TBL1Team.pdf
@@ -62,3 +72,7 @@ Assignments
 .. _Lab 4 Seismic Part 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/3_Seismic/Lab4.pdf
 .. _here: https://github.com/geoscixyz/gpgLabs
 .. _Lab 5 Seismic Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/3_Seismic/Lab5.pdf
+.. _Reading 4: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/4_GPR/TBL4_GlacierGirl.pdf
+.. _TBL 4 individual: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/4_GPR/IndividualTBL4_2017_Student_Copy.pdf
+.. _TBL 4 team: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/4_GPR/TeamTBL4_2017_Student_Copy.pdf
+.. _Lab 6 GPR: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/4_GPR/Lab6_2017_student_copy.pdf
