@@ -77,7 +77,7 @@ This page will be updated regularly throughout the year, check it often.
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
 |     | 11|  ||               |                             |- Seismic Quiz                     |                              |              |            |
 |     |   |  ||               |                             |- `Equations`_                     |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
+|     |   |  ||               |                             |- `Quiz review`_                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
 |     | 13|  ||               |- `TBL 3 Case History`_      |- `TBL 3 Individual`_              |                              |              |            |
 |     |   |  ||               |                             |- `TBL 3 Team`_                    |                              |              |            |
@@ -207,6 +207,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Lecture 8 Seismic: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/3_Seismic/seismic.pdf
 .. _Seismic additional: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/3_Seismic/NMO.pdf
 .. _Equations: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/3_Seismic/Equations.pdf
+.. _Quiz review: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/3_Seismic/QuizReview.pdf
 .. _Lecture 5 GPR: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/4_GPR/GPR_2016.pdf
 .. _Lecture 6 EM: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/5_EM/5_EM.pdf
 .. _Lecture 7 DC: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/6_DC/9_DC_Resistivity.pdf
