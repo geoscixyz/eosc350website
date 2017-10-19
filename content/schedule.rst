@@ -83,8 +83,8 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |- `TBL 3 Team`_                    |                              |              |            |
 |     |   |  ||               |                             |- `TBL review`_                    |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|Oct  | 16|7 || GPR           |- `GPG GPR`_                 |                                   |- `Lab 5 Seismic Part 2`_ (M) || `Vahid`_    || `Devin`_  |
-|     |   |  ||               |                             |                                   |                              |              |            |
+|Oct  | 16|7 || GPR           |- `GPG GPR`_                 |- `GPR lecture 1`_                 |- `Lab 5 Seismic Part 2`_ (M) || `Vahid`_    || `Devin`_  |
+|     |   |  ||               |                             |- `GPR lecture 2`_                 |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
 |     | 18|  ||               |                             |                                   |                              |              |            |
@@ -209,7 +209,8 @@ This page will be updated regularly throughout the year, check it often.
 .. _Equations: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/3_Seismic/Equations.pdf
 .. _Quiz review: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/3_Seismic/QuizReview.pdf
 .. _TBL review: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/3_Seismic/TBLreview.pdf
-.. _Lecture 5 GPR: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/4_GPR/GPR_2016.pdf
+.. _GPR Lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/4_GPR/GPR_2017_Day1.pdf
+.. _GPR Lecture 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/4_GPR/GPR_2017_Day2.pdf
 .. _Lecture 6 EM: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/5_EM/5_EM.pdf
 .. _Lecture 7 DC: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/6_DC/9_DC_Resistivity.pdf
 .. _Lecture 8 IP: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/6_DC/IP.pdf
