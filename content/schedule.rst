@@ -212,7 +212,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _GPR Lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/4_GPR/GPR_2017_Day1.pdf
 .. _GPR Lecture 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/4_GPR/GPR_2017_Day2.pdf
 .. _GPR Lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/4_GPR/GPR_2017_Day3.pdf
-.. _GPR Equation Sheet: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/4_GPR/GPR_Equation_Sheet.pdf
+.. _GPR Equation Sheet: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/4_GPR/GPR_Equation_Sheet.png
 .. _Lecture 6 EM: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/5_EM/5_EM.pdf
 .. _Lecture 7 DC: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/6_DC/9_DC_Resistivity.pdf
 .. _Lecture 8 IP: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/6_DC/IP.pdf
