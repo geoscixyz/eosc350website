@@ -85,14 +85,14 @@ This page will be updated regularly throughout the year, check it often.
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
 |Oct  | 16|7 || GPR           |- `GPG GPR`_                 |- `GPR lecture 1`_                 |- `Lab 5 Seismic Part 2`_ (M) || `Vahid`_    || `Devin`_  |
 |     |   |  ||               |                             |- `GPR lecture 2`_                 |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
+|     |   |  ||               |                             |- `GPR lecture 3`_                 |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
 |     | 18|  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
 |     | 20|  ||               |                             |- GPR Quiz                         |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
+|     |   |  ||               |                             |- `GPR_Equation_Sheet`_            |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
 |Oct  | 23|8 ||               |- `TBL 4 Case History`_      |- `TBL 4 Individual`_              |- `Lab 6 GPR`_                || `Gabriela`_ || `Devin`_  |
@@ -211,6 +211,8 @@ This page will be updated regularly throughout the year, check it often.
 .. _TBL review: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/3_Seismic/TBLreview.pdf
 .. _GPR Lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/4_GPR/GPR_2017_Day1.pdf
 .. _GPR Lecture 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/4_GPR/GPR_2017_Day2.pdf
+.. _GPR Lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/4_GPR/GPR_2017_Day3.pdf
+.. _GPR Equation Sheet: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/4_GPR/EquationSheet.png
 .. _Lecture 6 EM: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/5_EM/5_EM.pdf
 .. _Lecture 7 DC: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/6_DC/9_DC_Resistivity.pdf
 .. _Lecture 8 IP: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/6_DC/IP.pdf
