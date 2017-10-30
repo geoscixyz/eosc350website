@@ -107,7 +107,7 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|     | 30|9 ||               |                             |                                   |                              |              |            |
+|     | 30|9 ||               |                             |- `Midterm overview Seismic`_      |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
@@ -209,6 +209,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Equations: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/3_Seismic/Equations.pdf
 .. _Quiz review: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/3_Seismic/QuizReview.pdf
 .. _TBL review: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/3_Seismic/TBLreview.pdf
+.. _Midterm overview Seismic: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/3_Seismic/Midterm2017_SeismicReview.pdf
 .. _GPR Lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/4_GPR/GPR_2017_Day1.pdf
 .. _GPR Lecture 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/4_GPR/GPR_2017_Day2.pdf
 .. _GPR Lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/4_GPR/GPR_2017_Day3.pdf
