@@ -274,7 +274,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _TBL 2 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/2_Magnetics/BrineWellsCaseStudy.pdf
 .. _TBL 3 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/3_Seismology/Near-surface_SH-wave.pdf
 .. _TBL 4 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/4_GPR/TBL4_GlacierGirl.pdf
-.. _TBL 5 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/5_DC/DCIP_for_landfills_dahlin_FB_Aug_2010.pdf
+.. _TBL 5 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/5_DCIP/DCIP_for_landfills_dahlin_FB_Aug_2010.pdf
 .. _GPR Movie: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/4_GPR/GPR_Wavefront_movie.zip
 .. _EM Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/5_EM/EM_31_Hutchinson_2000_Solid_waste.pdf
 
