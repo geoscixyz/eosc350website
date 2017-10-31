@@ -230,7 +230,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Lab 4 Seismic Part 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/3_Seismic/Lab4.pdf
 .. _Lab 5 Seismic Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/3_Seismic/Lab5.pdf
 .. _Lab 6 GPR: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/4_GPR/Lab6_2017_student_copy.pdf
-.. _Lab 7 DCIP: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/5_DCIP/Lab7_2017_student_copy.pdf
+.. _Lab 7 DCIP: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/5_DCIP/Lab7_2017_student_copy.pdf
 .. _Lab 7 EM Part 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/5_EM/Lab7.pdf
 .. _Lab 8 EM Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/5_EM/Lab8.pdf
 
