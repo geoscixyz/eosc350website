@@ -123,9 +123,9 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     |  8|  ||               |                             |                                   |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
+|     |  8|  ||               |- `TBL 4 Case History`_      |- DCIP Quiz                        |                              |              |            |
+|     |   |  ||               |                             |- `TBL 5 Individual`_              |                              |              |            |
+|     |   |  ||               |                             |- `TBL 5 Team`_                    |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
 |     | 10|  || EM            |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
@@ -254,10 +254,10 @@ This page will be updated regularly throughout the year, check it often.
 .. _TBL 3 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/3_Seismic/TBL3_team.pdf
 .. _TBL 4 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/4_GPR/IndividualTBL4_2017_Student_Copy.pdf
 .. _TBL 4 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/4_GPR/TeamTBL4_2017_Student_Copy.pdf
-.. _TBL 5 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/5_EM/TBL5individual.pdf
-.. _TBL 5 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/5_EM/TBL5team.pdf
-.. _TBL 6 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/6_DC/TBL6_individual.pdf
-.. _TBL 6 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/6_DC/TBL6_team.pdf
+.. _TBL 5 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/5_DCIP/TBL5_individual_2017_student_copy.pdf
+.. _TBL 5 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/5_DCIP/TBL5_team_2017_student_copy.pdf
+.. _TBL 6 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/5_EM/TBL5individual.pdf
+.. _TBL 6 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/5_EM/TBL5team.pdf
 .. _TBL 7 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/7_Wrapup/TBL7individual.pdf
 .. _TBL 7 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/7_Wrapup/TBL7_team.pdf
 
@@ -274,9 +274,10 @@ This page will be updated regularly throughout the year, check it often.
 .. _TBL 2 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/2_Magnetics/BrineWellsCaseStudy.pdf
 .. _TBL 3 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/3_Seismology/Near-surface_SH-wave.pdf
 .. _TBL 4 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/4_GPR/TBL4_GlacierGirl.pdf
+.. _TBL 5 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/5_DC/DCIP_for_landfills_dahlin_FB_Aug_2010.pdf
 .. _GPR Movie: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/4_GPR/GPR_Wavefront_movie.zip
 .. _EM Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/5_EM/EM_31_Hutchinson_2000_Solid_waste.pdf
-.. _DC IP Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/6_DC/DCIP_for_landfills_dahlin_FB_Aug_2010.pdf
+
 
 .. ------------- TA -----------------------------
 .. _Devin: devinccowan@gmail.com
