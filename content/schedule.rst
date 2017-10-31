@@ -111,15 +111,15 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|Nov  |  1|  || DC/IP         |                             |                                   |                              |              |            |
+|Nov  |  1|  || DC/IP         |                             |- `DCIP lecture 1`_                |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     |  3|  ||               |                             |                                   |                              |              |            |
+|     |  3|  ||               |                             |- `DCIP lecture 2`_                |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|Nov  |  6|10||               |                             |                                   |                              |              |            |
+|Nov  |  6|10||               |                             |- `DCIP lecture 3`_                |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
@@ -215,6 +215,9 @@ This page will be updated regularly throughout the year, check it often.
 .. _GPR Lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/4_GPR/GPR_2017_Day3.pdf
 .. _GPR Equation Sheet: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/4_GPR/GPR_Equation_Sheet.png
 .. _Midterm Review: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/Midterm_Review_Questions.pdf
+.. _DCIP Lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/5_DCIP/DCIP_2017_Day1.pdf
+.. _DCIP Lecture 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/5_DCIP/DCIP_2017_Day2.pdf
+.. _DCIP Lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/5_DCIP/DCIP_2017_Day3.pdf
 .. _Lecture 6 EM: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/5_EM/5_EM.pdf
 .. _Lecture 7 DC: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/6_DC/9_DC_Resistivity.pdf
 .. _Lecture 8 IP: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/6_DC/IP.pdf
