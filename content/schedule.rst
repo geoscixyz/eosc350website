@@ -279,6 +279,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _EM Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/5_EM/EM_31_Hutchinson_2000_Solid_waste.pdf
 
 
+
 .. ------------- TA -----------------------------
 .. _Devin: devinccowan@gmail.com
 .. _Dom: fourndo@gmail.com
