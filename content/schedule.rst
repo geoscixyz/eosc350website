@@ -127,36 +127,36 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |- `TBL 5 Individual`_              |                              |              |            |
 |     |   |  ||               |                             |- `TBL 5 Team`_                    |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 10|  || EM            |                             |                                   |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
+|     | 10|  || EM            | `GPG EM`_                   |- **Each TBL team brings a laptop**|                              |              |            |
+|     |   |  ||               |                             |- `EM lecture 1`_                  |                              |              |            |
+|     |   |  ||               |                             |- `em_intro_tasks.pptx`_           |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|     | 13|11|| RemembranceDay|                             |                                   |                              |              |            |
+|     | 13|11|| RemembranceDay|                             |                                   | - `Lab 8 EM 1`_ (Wed Nov 15) | `Gabriela`_  | `Dikun`_   |
 |     |   |  || No class      |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 15|  ||               |                             |                                   |                              |              |            |
+|     | 15|  ||               | `GPG EM`_                   |- `EM lecture 2`_                  |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 17|  ||               |                             |                                   |                              |              |            |
+|     | 17|  ||               | `GPG EM`_                   |- `EM lecture 3`_                  |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|     | 20|12||               |                             |                                   |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
+|     | 20|12||               | `GPG EM`_                   |- `EM lecture 4`_                  | - `Lab 8 EM 1`_ (Mon Nov 20) | `Gabriela`_  | `Dikun`_   |
+|     |   |  ||               |                             |                                   | - `Lab 8 EM 1`_ (Tue Nov 21) | `Vahid`_     |            |
+|     |   |  ||               |                             |                                   | - `Lab 9 EM 2`_ (Wed Nov 22) |              |            |
++     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
+|     | 22|  ||               | `GPG EM`_                   |- `EM lecture 5`_                  |                              |              |            |
+|     |   |  ||               |                             |- EM Quiz                          |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 22|  ||               |                             |                                   |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
-+     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 24|  ||               |                             |                                   |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
+|     | 24|  ||               | - `TBL 6 Case History`_     |- `TBL 6 Individual`_              |                              |              |            |
+|     |   |  ||               |                             |- `TBL 6 Team`_                    |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|     | 27|13||               |                             |                                   |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
+|     | 27|13||               |                             |                                   | - `Lab 9 EM 2`_ (Mon Nov 27) | `Vahid`_     |            |
+|     |   |  ||               |                             |                                   | - `Lab 9 EM 2`_ (Tue Nov 28) |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
 |     | 29|  ||               |                             |                                   |                              |              |            |
@@ -218,7 +218,12 @@ This page will be updated regularly throughout the year, check it often.
 .. _DCIP Lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/5_DCIP/DCIP_2017_Day1.pdf
 .. _DCIP Lecture 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/5_DCIP/DCIP_2017_Day2.pdf
 .. _DCIP Lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/5_DCIP/DCIP_2017_Day3.pdf
-.. _Lecture 6 EM: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/5_EM/5_EM.pdf
+.. _EM lecture 1: https://placeholder.com
+.. _em_intro_tasks.pptx: https://placeholder.com
+.. _EM lecture 2: https://placeholder.com
+.. _EM lecture 3: https://placeholder.com
+.. _EM lecture 4: https://placeholder.com
+.. _EM lecture 5: https://placeholder.com
 .. _Lecture 7 DC: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/6_DC/9_DC_Resistivity.pdf
 .. _Lecture 8 IP: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/6_DC/IP.pdf
 .. _Review Lecture: notpostedyet.html
@@ -231,8 +236,8 @@ This page will be updated regularly throughout the year, check it often.
 .. _Lab 5 Seismic Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/3_Seismic/Lab5.pdf
 .. _Lab 6 GPR: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/4_GPR/Lab6_2017_student_copy.pdf
 .. _Lab 7 DCIP: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/5_DCIP/Lab7_2017_student_copy.pdf
-.. _Lab 7 EM Part 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/5_EM/Lab7.pdf
-.. _Lab 8 EM Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/5_EM/Lab8.pdf
+.. _Lab 8 EM 1: https://placeholder.com
+.. _Lab 9 EM 2: https://placeholder.com
 
 .. ------------- Apps ---------------------------
 .. _Magnetics App: http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/Mag/FitMagProfile.ipynb
@@ -256,10 +261,9 @@ This page will be updated regularly throughout the year, check it often.
 .. _TBL 4 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/4_GPR/TeamTBL4_2017_Student_Copy.pdf
 .. _TBL 5 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/5_DCIP/TBL5_individual_2017_student_copy.pdf
 .. _TBL 5 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/5_DCIP/TBL5_team_2017_student_copy.pdf
-.. _TBL 6 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/5_EM/TBL5individual.pdf
-.. _TBL 6 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/5_EM/TBL5team.pdf
-.. _TBL 7 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/7_Wrapup/TBL7individual.pdf
-.. _TBL 7 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/7_Wrapup/TBL7_team.pdf
+.. _TBL 6 Individual: https://placeholder.com
+.. _TBL 6 Team: https://placeholder.com
+
 
 .. ------------- Question bank ----------------------------
 .. _Physical Properties_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/Intro_properties.pdf
@@ -276,7 +280,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _TBL 4 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/4_GPR/TBL4_GlacierGirl.pdf
 .. _TBL 5 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/5_DCIP/DCIP_for_landfills_dahlin_FB_Aug_2010.pdf
 .. _GPR Movie: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/4_GPR/GPR_Wavefront_movie.zip
-.. _EM Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/5_EM/EM_31_Hutchinson_2000_Solid_waste.pdf
+.. _TBL 6 Case History: https://gpg.geosci.xyz/content/electromagnetics/electromagnetic_interpretation.html
 
 
 
