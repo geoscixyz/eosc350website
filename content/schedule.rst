@@ -218,8 +218,8 @@ This page will be updated regularly throughout the year, check it often.
 .. _DCIP Lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/5_DCIP/DCIP_2017_Day1.pdf
 .. _DCIP Lecture 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/5_DCIP/DCIP_2017_Day2.pdf
 .. _DCIP Lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/5_DCIP/DCIP_2017_Day3.pdf
-.. _EM lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/6_EM/em_intro.pdf
-.. _em_intro_tasks.pptx: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/6_EM/em_intro_tasks.pptx
+.. _EM lecture 1: https://placeholder.com
+.. _em_intro_tasks.pptx: https://placeholder.com
 .. _EM lecture 2: https://placeholder.com
 .. _EM lecture 3: https://placeholder.com
 .. _EM lecture 4: https://placeholder.com
