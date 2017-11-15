@@ -131,7 +131,7 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |- `EM lecture 1`_                  |                              |              |            |
 |     |   |  ||               |                             |- `em_intro_tasks.pptx`_           |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|     | 13|11|| RemembranceDay|                             |                                   | - `Lab 8 EM 1`_ (Wed Nov 15) | `Gabriela`_  | `Dikun`_   |
+|     | 13|11|| RemembranceDay|                             |                                   | - `Lab 8 EM 1`_ (Wed Nov 15) | `Vahid`_     | `Dikun`_   |
 |     |   |  || No class      |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
@@ -143,8 +143,8 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|     | 20|12||               | - `GPG EM`_                 |- `EM lecture 4`_                  | - `Lab 8 EM 1`_ (Mon Nov 20) | `Gabriela`_  | `Dikun`_   |
-|     |   |  ||               |                             |                                   | - `Lab 8 EM 1`_ (Tue Nov 21) | `Vahid`_     |            |
+|     | 20|12||               | - `GPG EM`_                 |- `EM lecture 4`_                  | - `Lab 8 EM 1`_ (Mon Nov 20) | `Vahid`_     | `Dikun`_   |
+|     |   |  ||               |                             |                                   | - `Lab 8 EM 1`_ (Tue Nov 21) | `Gabriela`_  |            |
 |     |   |  ||               |                             |                                   | - `Lab 9 EM 2`_ (Wed Nov 22) |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
 |     | 22|  ||               | - `GPG EM`_                 |- `EM lecture 5`_                  |                              |              |            |
@@ -155,7 +155,7 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |- `TBL 6 Team`_                    |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|     | 27|13||               |                             |                                   | - `Lab 9 EM 2`_ (Mon Nov 27) | `Vahid`_     |            |
+|     | 27|13||               |                             |                                   | - `Lab 9 EM 2`_ (Mon Nov 27) | `Gabriela`_  |            |
 |     |   |  ||               |                             |                                   | - `Lab 9 EM 2`_ (Tue Nov 28) |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
@@ -176,7 +176,7 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
 |     |  8|  ||               | 8:30 am - Final Exam        |                                   |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
+|     |   |  ||               | Location: SWNG 221          |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
 
@@ -236,7 +236,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Lab 5 Seismic Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/3_Seismic/Lab5.pdf
 .. _Lab 6 GPR: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/4_GPR/Lab6_2017_student_copy.pdf
 .. _Lab 7 DCIP: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/5_DCIP/Lab7_2017_student_copy.pdf
-.. _Lab 8 EM 1: https://placeholder.com
+.. _Lab 8 EM 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/6_EM/Lab8.pdf
 .. _Lab 9 EM 2: https://placeholder.com
 
 .. ------------- Apps ---------------------------
