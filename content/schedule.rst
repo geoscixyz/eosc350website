@@ -221,7 +221,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _EM lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/6_EM/em_intro.pdf
 .. _em_intro_tasks.pptx: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/6_EM/em_intro_tasks.pptx
 .. _EM lecture 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/6_EM/em_3loops.pdf
-.. _EM lecture 3: https://placeholder.com
+.. _EM lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/6_EM/em_em31.pdf
 .. _EM lecture 4: https://placeholder.com
 .. _EM lecture 5: https://placeholder.com
 .. _Lecture 7 DC: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/6_DC/9_DC_Resistivity.pdf
