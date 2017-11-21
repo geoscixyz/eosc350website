@@ -237,7 +237,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Lab 6 GPR: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/4_GPR/Lab6_2017_student_copy.pdf
 .. _Lab 7 DCIP: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/5_DCIP/Lab7_2017_student_copy.pdf
 .. _Lab 8 EM 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/6_EM/Lab8.pdf
-.. _Lab 9 EM 2: https://placeholder.com
+.. _Lab 9 EM 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/6_EM/Lab9.pdf
 
 .. ------------- Apps ---------------------------
 .. _Magnetics App: http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/Mag/FitMagProfile.ipynb
