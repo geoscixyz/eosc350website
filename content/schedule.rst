@@ -146,7 +146,7 @@ This page will be updated regularly throughout the year, check it often.
 |     | 20|12||               | - `GPG EM`_                 |- `EM lecture 4`_                  | - `Lab 8 EM 1`_ (Mon Nov 20) | `Vahid`_     | `Dikun`_   |
 |     |   |  ||               |                             |                                   | - `Lab 8 EM 1`_ (Tue Nov 21) | `Gabriela`_  |            |
 |     |   |  ||               |                             |                                   | - `Lab 9 EM 2`_ (Wed Nov 22) |              |            |
-+     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
++     +---+  +----------------+-----------------------------+-----------------------------------+ - `em-31.xls`_               +--------------+------------+
 |     | 22|  ||               | - `GPG EM`_                 |- `EM lecture 5`_                  |                              |              |            |
 |     |   |  ||               |                             |- EM Quiz                          |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
@@ -157,7 +157,7 @@ This page will be updated regularly throughout the year, check it often.
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
 |     | 27|13||               |                             |- Final review                     | - `Lab 9 EM 2`_ (Mon Nov 27) | `Gabriela`_  |            |
 |     |   |  ||               |                             |                                   | - `Lab 9 EM 2`_ (Tue Nov 28) |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
+|     |   |  ||               |                             |                                   |  - `em-31.xls`_              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
 |     | 29|  ||               |                             |- Final review                     |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
@@ -223,7 +223,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _EM lecture 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/6_EM/em_3loops.pdf
 .. _EM lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/6_EM/em_em31.pdf
 .. _EM lecture 4: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/6_EM/em_applications.pdf
-.. _EM lecture 5: https://placeholder.com
+.. _EM lecture 5: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/6_EM/em_inversion.pdf
 .. _Lecture 7 DC: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/6_DC/9_DC_Resistivity.pdf
 .. _Lecture 8 IP: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/6_DC/IP.pdf
 .. _Review Lecture: notpostedyet.html
@@ -238,6 +238,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Lab 7 DCIP: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/5_DCIP/Lab7_2017_student_copy.pdf
 .. _Lab 8 EM 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/6_EM/Lab8.pdf
 .. _Lab 9 EM 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/6_EM/Lab9.pdf
+.. _em-31.xls: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/6_EM/em-31.xls
 
 .. ------------- Apps ---------------------------
 .. _Magnetics App: http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/Mag/FitMagProfile.ipynb
