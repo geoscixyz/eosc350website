@@ -152,8 +152,9 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
 |     | 24|  ||               | - `TBL 6 Case History`_     |- `TBL 6 Individual`_              |                              |              |            |
-|     |   |  ||               |                             |- `TBL 6 Team`_                    |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
+|     |   |  ||               |                             |- **Each TBL team brings a laptop**|                              |              |            |
+|     |   |  ||               |                             |- `TBL 6 Team (pdf)`_              |                              |              |            |
+|     |   |  ||               |                             |- `TBL 6 Team (docx)`_             |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
 |     | 27|13||               |                             |- Final review                     | - `Lab 9 EM 2`_ (Mon Nov 27) | `Gabriela`_  |            |
 |     |   |  ||               |                             |                                   | - `Lab 9 EM 2`_ (Tue Nov 28) |              |            |
@@ -263,8 +264,8 @@ This page will be updated regularly throughout the year, check it often.
 .. _TBL 5 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/5_DCIP/TBL5_individual_2017_student_copy.pdf
 .. _TBL 5 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/5_DCIP/TBL5_team_2017_student_copy.pdf
 .. _TBL 6 Individual: https://goo.gl/forms/uMrV6NJkmlNIRnJg2
-.. _TBL 6 Team: https://placeholder.com
-
+.. _TBL 6 Team (pdf): https://github.com/ubcgif/eosc350website/raw/master/assets/2017/6_EM/TBL6_Team.pdf
+.. _TBL 6 Team (docx): https://github.com/ubcgif/eosc350website/raw/master/assets/2017/6_EM/TBL6_Team.docx
 
 .. ------------- Question bank ----------------------------
 .. _Physical Properties_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/Intro_properties.pdf
