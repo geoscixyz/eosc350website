@@ -156,7 +156,7 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |- `TBL 6 Team (pdf)`_              |                              |              |            |
 |     |   |  ||               |                             |- `TBL 6 Team (docx)`_             |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|     | 27|13||               |                             |- Final review                     | - `Lab 9 EM 2`_ (Mon Nov 27) | `Gabriela`_  |            |
+|     | 27|13||               | - `Seismic Review`          |- Final review                     | - `Lab 9 EM 2`_ (Mon Nov 27) | `Gabriela`_  |            |
 |     |   |  ||               |                             |                                   | - `Lab 9 EM 2`_ (Tue Nov 28) |              |            |
 |     |   |  ||               |                             |                                   | - `em-31.xls`_               |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
@@ -228,6 +228,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Lecture 7 DC: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/6_DC/9_DC_Resistivity.pdf
 .. _Lecture 8 IP: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/6_DC/IP.pdf
 .. _Review Lecture: notpostedyet.html
+.. _Seismic Review: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/SeismicStudyGuide.pdf
 
 .. ------------- Labs ---------------------------
 .. _Lab 1 Physical Properties: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/0_PhysicalProperties/Lab1_Student_Copy.pdf
