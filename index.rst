@@ -13,7 +13,7 @@ EOSC 350: Environmental, Geotechnical and Exploration Geophysics I
 ..         - `GPR_QB`_
 ..         - `EM_QB`_
 ..         - `DCIP_QB`_
-        
+
 
 .. _Physical Properties_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/Intro_properties.pdf
 .. _Magnetics_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/Magnetics.pdf
@@ -33,24 +33,23 @@ Case history analysis of environmental and geotechnical problems.
 
 - `Course syllabus`_
 
-- `350 teams`_
+.. - `350 teams`_
 
-.. _Course syllabus: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/syllabus2017.pdf
+.. _Course syllabus: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/syllabus2018.pdf
 
-.. _350 teams: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/teams.pdf
+.. _350 teams: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/teams.pdf
 
 Course Times
 ------------
 
 **Lectures:**
 
-- Mon Wed Fri   1:00-2:00 pm in Chemistry, room D300
+- Mon Wed Fri   13:00-14:00 in ESB 2012
 
 **Labs:**
 
-- Section L1A: Mon   3:00-5:00 pm in EOS Main 203
-- Section L1C: Tue   1:00-3:00 pm in EOS Main 203
-- Section L1B: Wed   3:00-5:00 pm in EOS Main 203
+- Section L1A: Mon   15:00-17:00 in EOS Main 203
+- Section L1C: Tue   13:00-15:00 in EOS Main 203
 
 **TBL Teams:**
 
@@ -61,9 +60,8 @@ Contact Information
 
 **Instructors:**
 
-- Dikun Yang:     yangdikun@gmail.com
-- Sarah Devriese: sdevries@eoas.ubc.ca
-- Devin Cowan:    devinccowan@gmail.com
+- Doug Oldenburg:     doug@eos.ubc.ca
+- Seogi kang:         skang@eos.ubc.ca
 
 Office hours: contact the instructors via email to set up an appointment. Please include
 'EOSC350' in the subject line.
@@ -71,8 +69,8 @@ Office hours: contact the instructors via email to set up an appointment. Please
 **Teaching Assistants:**
 
 - Michael Mitchell: mmitchel@eoas.ubc.ca
-- Gabriela Racz: gracz@eoas.ubc.ca
-- Vahid Dehghanniri: vdehghan@eoas.ubc.ca
+- TBA
+- TBA
 
 Office hours: contact the TA's by e-mail or in person for availability. Please include
 'EOSC350' in the subject line.

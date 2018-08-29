@@ -12,171 +12,94 @@ This page will be updated regularly throughout the year, check it often.
 
 
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|month|day|wk|goals           |required                     |activity                           |lab                           |TA            |Instructor  |
+|month|day|wk|topics          |required                     |activity                           |lab                           |TA            |Instructor  |
 |     |   |  |                |readings                     |                                   |                              |Contact       |Contact     |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|Sept | 6 |1 || Introduction  |- `Syllabus`_                |- `Lecture 1 Intro`_               | No Lab                       |              || `Dikun`_  |
+|Sept | 5 |1 || Introduction  |- `Syllabus`_                |- `Lecture 1 Intro`_               | No Lab                       |              |  `Doug`_   |
 |     |   |  || and           |                             |                                   |                              |              |            |
 |     |   |  || Course Goals  |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 8 |  || Physical      |- `GPG Physical Properties`_ |- `Lecture 2 Physical Properties`_ |                              |              |            |
+|     | 7 |  || Physical      |- `GPG Physical Properties`_ |- `Lecture 2 Physical Properties`_ |                              |              |            |
 |     |   |  || Properties    |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|     | 11|2 || Seven step    |- `GPG Foundations`_         |- `Lecture 3 Framework`_           |- `Lab 1 Physical properties`_|| `Devin`_    || `Dikun`_  |
+|     | 10|2 || Seven step    |- `GPG Foundations`_         |- `Lecture 3 Framework`_           |- `Lab 1 Physical properties`_|| `Devin`_    |  `Doug`_   |
 |     |   |  || framework for |                             |                                   |                              |              |            |
 |     |   |  || geophysics    |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 13|  ||               |- `TBL 1 Case History`_      |- Phys Prop Quiz                   |                              |              |            |
+|     | 12|  ||               |- `TBL 1 Case History`_      |- Phys Prop Quiz                   |                              |              |            |
 |     |   |  ||               |                             |- `TBL 1 Individual`_              |                              |              |            |
 |     |   |  ||               |                             |- `TBL 1 Team`_                    |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 15|  || Magnetics     |- `GPG Magnetics`_           |- `Lecture 4 Magnetics`_           |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
+|     | 14|  || Magnetics     |- `GPG Magnetics`_           |- `Lecture 4 Magnetics`_           |                              |              |            |
+|     |   |  ||               |                             |- `Magnetic Dipole applet`_        |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|     | 18|3 ||               |                             |- `Lecture 5 Magnetics`_           |- `Lab 2 Magnetics Part 1`_   || `Mike`_     || `Dikun`_  |
-|     |   |  ||               |                             |- Mag_Induced2D.ipynb in gpgLabs   |                              |              |            |
+|     | 17|3 ||               |                             |- `Lecture 5 Magnetics`_           |- `Lab 2 Magnetics Part 1`_   || `Mike`_     |  `Doug`_   |
+|     |   |  ||               |                             |- `Magnetic Prism applet`_         |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 20|  ||               |                             |- `Lecture 6 Magnetics`_           |                              |              |            |
+|     | 19|  ||               |                             |- `Lecture 6 Magnetics`_           |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 22|  ||               |                             |- `Lecture 7 Magnetics`_           |                              |              |            |
+|     | 21|  ||               |                             |- `Lecture 7 Magnetics`_           |                              |              |            |
 |     |   |  ||               |                             |- Magnetics Quiz                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|     | 25|4 ||               |- `TBL 2 Case History`_      |- `TBL 2 Individual`_              |- `Lab 3 Magnetics Part 2`_   || `Mike`_     || `Dikun`_  |
+|     | 24|4 ||               |- `TBL 2 Case History`_      |- `TBL 2 Individual`_              |- `Lab 3 Magnetics Part 2`_   || `Mike`_     |  `Doug`_   |
 |     |   |  ||               |                             |- TBL 2 Team                       |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 27|  || Seismic       |- `GPG Seismic`_             |- `Lecture 8 Seismic`_             |                              |              || `Sarah`_  |
+|     | 26|  || Seismic       |- `GPG Seismic`_             |- `Lecture 8 Seismic`_             |                              |              |  `Doug`_   |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 29|  ||               |                             |                                   |                              |              |            |
+|     | 28|  ||               |                             |- Lecture 9 Seismic                |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|Oct  |  2|5 ||               |                             |                                   |- `Lab 4 Seismic Part 1`_     || `Vahid`_    || `Sarah`_  |
+|Oct  |  1|5 ||               |                             |- Lecture 10 Seismic               |- `Lab 4 Seismic Part 1`_     |              |   `Doug`_  |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     |  4|  ||               |                             |- `Seismic additional`_            |                              |              |            |
+|     |  3|  ||               |                             |- Lecture 11 Seismic               |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     |  6|  ||               |                             |                                   |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
+|     |  5|  ||               |                             |- Lecture 12 Seismic               |                              |              |            |
+|     |   |  ||               |                             |- Seismic review                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|Oct  |  9|6 || Thanksgiving  |                             |                                   |- `Lab 5 Seismic Part 2`_     || `Vahid`_    || `Sarah`_  |
-|     |   |  || No class      |                             |                                   |  (T, W)                      |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
-+     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 11|  ||               |                             |- Seismic Quiz                     |                              |              |            |
-|     |   |  ||               |                             |- `Equations`_                     |                              |              |            |
-|     |   |  ||               |                             |- `Quiz review`_                   |                              |              |            |
-+     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 13|  ||               |- `TBL 3 Case History`_      |- `TBL 3 Individual`_              |                              |              |            |
-|     |   |  ||               |                             |- `TBL 3 Team`_                    |                              |              |            |
-|     |   |  ||               |                             |- `TBL review`_                    |                              |              |            |
-+-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|Oct  | 16|7 || GPR           |- `GPG GPR`_                 |- `GPR lecture 1`_                 |- `Lab 5 Seismic Part 2`_ (M) || `Vahid`_    || `Devin`_  |
-|     |   |  ||               |                             |- `GPR lecture 2`_                 |                              |              |            |
-|     |   |  ||               |                             |- `GPR lecture 3`_                 |                              |              |            |
-+     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 18|  ||               |                             |                                   |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
-+     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 20|  ||               |                             |- GPR Quiz                         |                              |              |            |
-|     |   |  ||               |                             |- `GPR Equation Sheet`_            |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
-+-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|Oct  | 23|8 ||               |- `TBL 4 Case History`_      |- `TBL 4 Individual`_              |- `Lab 6 GPR`_                || `Gabriela`_ || `Devin`_  |
-|     |   |  ||               |                             |- `TBL 4 Team`_                    |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
-+     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 25|  || Midterm       |                             |- Midterm review                   |                              |              |            |
-|     |   |  || Review        |                             |- `Midterm Review`_                |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
-+     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 27|  || Midterm       |                             |- Midterm                          |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
-+-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|     | 30|9 ||               |                             |- `Midterm Overview Seismic`_      |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
-+     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|Nov  |  1|  || DC/IP         | `GPG DC Resistivity`_       |- `DCIP lecture 1`_                |                              |              | `Devin`_   |
-|     |   |  ||               |                             |                                   |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
-+     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     |  3|  ||               |                             |- `DCIP lecture 2`_                |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
-+-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|Nov  |  6|10||               | `GPG Induced Polarization`_ |- `DCIP lecture 3`_                |- `Lab 7 DCIP`_               |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
-+     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     |  8|  ||               |- `TBL 5 Case History`_      |- DCIP Quiz                        |                              |              |            |
-|     |   |  ||               |                             |- `TBL 5 Individual`_              |                              |              |            |
-|     |   |  ||               |                             |- `TBL 5 Team`_                    |                              |              |            |
-+     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 10|  || EM            | - `GPG EM`_                 |- **Each TBL team brings a laptop**|                              |              |            |
-|     |   |  ||               |                             |- `EM lecture 1`_                  |                              |              |            |
-|     |   |  ||               |                             |- `em_intro_tasks.pptx`_           |                              |              |            |
-+-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|     | 13|11|| RemembranceDay|                             |                                   | - `Lab 8 EM 1`_ (Wed Nov 15) | `Vahid`_     | `Dikun`_   |
+|Oct  |  8|6 || Thanksgiving  |                             |                                   |- `Lab 5 Seismic Part 2`_     |              |  `Doug`_   |
 |     |   |  || No class      |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 15|  ||               | - `GPG EM`_                 |- `EM lecture 2`_                  |                              |              |            |
+|     | 10|  ||               |                             |- Seismic Quiz                     |                              |              |            |
+|     |   |  ||               |                             |- `Equations`_                     |                              |              |            |
+|     |   |  ||               |                             |- `Quiz review`_                   |                              |              |            |
++     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
+|     | 12|  ||               |- `TBL 3 Case History`_      |- `TBL 3 Individual`_              |                              |              |            |
+|     |   |  ||               |                             |- `TBL 3 Team`_                    |                              |              |            |
+|     |   |  ||               |                             |- `TBL review`_                    |                              |              |            |
++-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
+|Oct  | 18|7 || GPR           |- `GPG GPR`_                 |- `GPR lecture 1`_                 |                              |              |  `Doug`_   |
+|     |   |  ||               |                             |- `GPR lecture 2`_                 |                              |              |            |
+|     |   |  ||               |                             |- `GPR lecture 3`_                 |                              |              |            |
++     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
+|     | 17|  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 17|  ||               | - `GPG EM`_                 |- `EM lecture 3`_                  |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
+|     | 19|  ||               |                             |- GPR Quiz                         |                              |              |            |
+|     |   |  ||               |                             |- `GPR Equation Sheet`_            |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|     | 20|12||               | - `GPG EM`_                 |- `EM lecture 4`_                  | - `Lab 8 EM 1`_ (Mon Nov 20) | `Vahid`_     | `Dikun`_   |
-|     |   |  ||               |                             |                                   | - `Lab 8 EM 1`_ (Tue Nov 21) | `Gabriela`_  |            |
-|     |   |  ||               |                             |                                   | - `Lab 9 EM 2`_ (Wed Nov 22) |              |            |
-+     +---+  +----------------+-----------------------------+-----------------------------------+ - `em-31.xls`_               +--------------+------------+
-|     | 22|  ||               | - `GPG EM`_                 |- `EM lecture 5`_                  |                              |              |            |
-|     |   |  ||               |                             |- EM Quiz                          |                              |              |            |
+|Oct  | 22|8 ||               |- `TBL 4 Case History`_      |- `TBL 4 Individual`_              |- `Lab 6 GPR`_                |              |  `Doug`_   |
+|     |   |  ||               |                             |- `TBL 4 Team`_                    |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 24|  ||               | - `TBL 6 Case History`_     |- `TBL 6 Individual`_              |                              |              |            |
-|     |   |  ||               |                             |- **Each TBL team brings a laptop**|                              |              |            |
-|     |   |  ||               |                             |- `TBL 6 Team (pdf)`_              |                              |              |            |
-|     |   |  ||               |                             |- `TBL 6 Team (docx)`_             |                              |              |            |
-+-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|     | 27|13||               | - `Seismic review`_         |- Final review                     | - `Lab 9 EM 2`_ (Mon Nov 27) | `Gabriela`_  |            |
-|     |   |  ||               |                             |                                   | - `Lab 9 EM 2`_ (Tue Nov 28) |              |            |
-|     |   |  ||               |                             |                                   | - `em-31.xls`_               |              |            |
-+     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 29|  ||               |                             |- Final review                     |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
-+     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|Dec  |  1|  ||               |                             |- Final review                     |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
-+-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|     |  4|14||               |                             |- No class                         |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
-+     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     |  6|  ||               |                             |- No class                         |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
-+     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     |  8|  ||               | 8:30-11:00 am - Final Exam  | Location: SWNG 221                |                              |              |            |
+|     | 24|  || Midterm       |                             |- Midterm                          |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
@@ -184,7 +107,7 @@ This page will be updated regularly throughout the year, check it often.
 .. ============= Links ==========================
 
 .. ------------- General ------------------------
-.. _Syllabus: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/syllabus2017.pdf
+.. _Syllabus: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/syllabus2018.pdf
 
 
 .. ------------- GPG ----------------------------
@@ -198,75 +121,76 @@ This page will be updated regularly throughout the year, check it often.
 .. _GPG Induced Polarization: http://gpg.geosci.xyz/content/induced_polarization/index.html
 
 .. ------------- Lectures -----------------------
-.. _Lecture 1 Intro: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/0_PhysicalProperties/course_intro.pdf
-.. _Lecture 2 Physical Properties: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/0_PhysicalProperties/physical_properties.pdf
-.. _Lecture 3 Framework: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/1_Foundations/framework.pdf
-.. _Lecture 4 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/2_Magnetics/magnetic_principles.pdf
-.. _Lecture 5 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/2_Magnetics/magnetic_survey.pdf
-.. _Lecture 6 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/2_Magnetics/magnetic_interpretation.pdf
-.. _Lecture 7 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/2_Magnetics/magnetic_application.pdf
-.. _Lecture 8 Seismic: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/3_Seismic/seismic.pdf
-.. _Seismic additional: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/3_Seismic/NMO.pdf
-.. _Equations: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/3_Seismic/Equations.pdf
-.. _Quiz review: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/3_Seismic/QuizReview.pdf
-.. _TBL review: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/3_Seismic/TBLreview.pdf
-.. _Midterm Overview Seismic: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/3_Seismic/Midterm2017_SeismicReview.pdf
-.. _GPR Lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/4_GPR/GPR_2017_Day1.pdf
-.. _GPR Lecture 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/4_GPR/GPR_2017_Day2.pdf
-.. _GPR Lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/4_GPR/GPR_2017_Day3.pdf
-.. _GPR Equation Sheet: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/4_GPR/GPR_Equation_Sheet.png
-.. _Midterm Review: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/Midterm_Review_Questions.pdf
-.. _DCIP Lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/5_DCIP/DCIP_2017_Day1.pdf
-.. _DCIP Lecture 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/5_DCIP/DCIP_2017_Day2.pdf
-.. _DCIP Lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/5_DCIP/DCIP_2017_Day3.pdf
-.. _EM lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/6_EM/em_intro.pdf
-.. _em_intro_tasks.pptx: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/6_EM/em_intro_tasks.pptx
-.. _EM lecture 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/6_EM/em_3loops.pdf
-.. _EM lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/6_EM/em_em31.pdf
-.. _EM lecture 4: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/6_EM/em_applications.pdf
-.. _EM lecture 5: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/6_EM/em_inversion.pdf
-.. _Lecture 7 DC: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/6_DC/9_DC_Resistivity.pdf
-.. _Lecture 8 IP: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/6_DC/IP.pdf
+.. _Lecture 1 Intro: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/0_PhysicalProperties/course_intro.pdf
+.. _Lecture 2 Physical Properties: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/0_PhysicalProperties/physical_properties.pdf
+.. _Lecture 3 Framework: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/1_Foundations/framework.pdf
+.. _Lecture 4 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/magnetic_principles.pdf
+.. _Lecture 5 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/magnetic_survey.pdf
+.. _Lecture 6 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/magnetic_interpretation.pdf
+.. _Lecture 7 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/magnetic_application.pdf
+.. _Lecture 8 Seismic: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/seismic.pdf
+.. _Seismic additional: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/NMO.pdf
+.. _Equations: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/Equations.pdf
+.. _Quiz review: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/QuizReview.pdf
+.. _TBL review: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/TBLreview.pdf
+.. _Midterm Overview Seismic: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/Midterm2018_SeismicReview.pdf
+.. _GPR Lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/GPR_2018_Day1.pdf
+.. _GPR Lecture 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/GPR_2018_Day2.pdf
+.. _GPR Lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/GPR_2018_Day3.pdf
+.. _GPR Equation Sheet: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/GPR_Equation_Sheet.png
+.. _Midterm Review: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/Midterm_Review_Questions.pdf
+.. _DCIP Lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DCIP/DCIP_2018_Day1.pdf
+.. _DCIP Lecture 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DCIP/DCIP_2018_Day2.pdf
+.. _DCIP Lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DCIP/DCIP_2018_Day3.pdf
+.. _EM lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/em_intro.pdf
+.. _em_intro_tasks.pptx: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/em_intro_tasks.pptx
+.. _EM lecture 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/em_3loops.pdf
+.. _EM lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/em_em31.pdf
+.. _EM lecture 4: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/em_applications.pdf
+.. _EM lecture 5: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/em_inversion.pdf
+.. _Lecture 7 DC: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_DC/9_DC_Resistivity.pdf
+.. _Lecture 8 IP: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_DC/IP.pdf
 .. _Review Lecture: notpostedyet.html
-.. _Seismic review: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/SeismicStudyGuide.pdf
+.. _Seismic review: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/SeismicStudyGuide.pdf
 
 .. ------------- Labs ---------------------------
-.. _Lab 1 Physical Properties: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/0_PhysicalProperties/Lab1_Student_Copy.pdf
-.. _Lab 2 Magnetics Part 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/2_Magnetics/Lab2_Students.pdf
-.. _Lab 3 Magnetics Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/2_Magnetics/Lab3.pdf
-.. _Lab 4 Seismic Part 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/3_Seismic/Lab4.pdf
-.. _Lab 5 Seismic Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/3_Seismic/Lab5.pdf
-.. _Lab 6 GPR: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/4_GPR/Lab6_2017_student_copy.pdf
-.. _Lab 7 DCIP: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/5_DCIP/Lab7_2017_student_copy.pdf
-.. _Lab 8 EM 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/6_EM/Lab8.pdf
-.. _Lab 9 EM 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/6_EM/Lab9.pdf
-.. _em-31.xls: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/6_EM/em-31.xls
+.. _Lab 1 Physical Properties: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/0_PhysicalProperties/Lab1_Student_Copy.pdf
+.. _Lab 2 Magnetics Part 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/Lab2_Students.pdf
+.. _Lab 3 Magnetics Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/Lab3.pdf
+.. _Lab 4 Seismic Part 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/Lab4.pdf
+.. _Lab 5 Seismic Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/Lab5.pdf
+.. _Lab 6 GPR: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/Lab6_2018_student_copy.pdf
+.. _Lab 7 DCIP: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DCIP/Lab7_2018_student_copy.pdf
+.. _Lab 8 EM 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/Lab8.pdf
+.. _Lab 9 EM 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/Lab9.pdf
+.. _em-31.xls: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/em-31.xls
 
 .. ------------- Apps ---------------------------
-.. _Magnetics App: http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/Mag/FitMagProfile.ipynb
-.. _Seismic Refraction App: http://mybinder.org/repo/ubcgif/gpgLabs/notebooks/Seismic/RefractionSurvey/SeisRefracSurvey.ipynb
-.. _Seismic Reflection App: http://mybinder.org/repo/ubcgif/gpgLabs//notebooks/Seismic/SyntheticSeismogram/SyntheticSeismogram.ipynb
-.. _GPR Attenuation App: http://mybinder.org/repo/ubcgif/gpgLabs//notebooks/GPR/Attenuation.ipynb
-.. _GPR Widget: http://mybinder.org/repo/ubcgif/gpgLabs//notebooks/GPR/GPRWidget.ipynb
-.. _EM App 1: http://mybinder.org/repo/ubcgif/gpgLabs//notebooks/EM/FEM3Loop/Fem3loop.ipynb
-.. _EM App 2: http://mybinder.org/repo/ubcgif/gpgLabs//notebooks/EM/FEMpipe/FemPipe.ipynb
-.. _EM App ResponseFunc: http://mybinder.org/repo/ubcgif/gpgLabs//notebooks/EM/ResponseFct/ResponseFct.ipynb
-.. _DC App: http://mybinder.org/repo/ubcgif/gpgLabs//notebooks/DC/DCLab.ipynb
+.. _Magnetic Dipole Applet: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=Notebooks%2FMagneticDipoleApplet.ipynb
+.. _Magnetic Prism Applet: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=Notebooks%2FMagneticPrismApplet.ipynb
+.. _Seismic Refraction App: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=Notebooks%2SeisRefracSurvey.ipynb
+.. _Seismic Reflection App: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=Notebooks%2SyntheticSeismogram.ipynb
+.. _GPR Attenuation App: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=Notebooks%2Attenuation.ipynb
+.. _GPR Widget: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=Notebooks%2GPRWidget.ipynb
+.. _EM App 1: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=Notebooks%2Fem3loop.ipynb
+.. _EM App 2: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=Notebooks%2FemPipe.ipynb
+.. _EM App ResponseFunc: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=Notebooks%2ResponseFct.ipynb
+.. _DC App: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=Notebooks%2DCLab.ipynb
 
 .. ------------- TBL ----------------------------
 .. _TBL 1 Individual: https://docs.google.com/forms/d/e/1FAIpQLSfyAZRdo1F8jSuToG76Taz8AaKXwiEUjt7gmIIRPGdIfoD_IA/viewform
-.. _TBL 1 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/0_PhysicalProperties/TBL1Team.pdf
+.. _TBL 1 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/0_PhysicalProperties/TBL1Team.pdf
 .. _TBL 2 Individual: https://goo.gl/forms/dH1wvUUtgWo6bagz1
-.. _TBL 2 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/2_Magnetics/tbl2_Team_vStudent.pdf
+.. _TBL 2 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/tbl2_Team_vStudent.pdf
 .. _TBL 3 Individual: https://goo.gl/forms/bYhiw03Y0tjdShDJ2
-.. _TBL 3 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/3_Seismic/TBL3_team.pdf
-.. _TBL 4 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/4_GPR/IndividualTBL4_2017_Student_Copy.pdf
-.. _TBL 4 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/4_GPR/TeamTBL4_2017_Student_Copy.pdf
-.. _TBL 5 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/5_DCIP/TBL5_individual_2017_student_copy.pdf
-.. _TBL 5 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/5_DCIP/TBL5_team_2017_student_copy.pdf
+.. _TBL 3 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/TBL3_team.pdf
+.. _TBL 4 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/IndividualTBL4_2018_Student_Copy.pdf
+.. _TBL 4 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/TeamTBL4_2018_Student_Copy.pdf
+.. _TBL 5 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DCIP/TBL5_individual_2018_student_copy.pdf
+.. _TBL 5 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DCIP/TBL5_team_2018_student_copy.pdf
 .. _TBL 6 Individual: https://goo.gl/forms/uMrV6NJkmlNIRnJg2
-.. _TBL 6 Team (pdf): https://github.com/ubcgif/eosc350website/raw/master/assets/2017/6_EM/TBL6_Team.pdf
-.. _TBL 6 Team (docx): https://github.com/ubcgif/eosc350website/raw/master/assets/2017/6_EM/TBL6_Team.docx
+.. _TBL 6 Team (pdf): https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/TBL6_Team.pdf
+.. _TBL 6 Team (docx): https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/TBL6_Team.docx
 
 .. ------------- Question bank ----------------------------
 .. _Physical Properties_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/Intro_properties.pdf
@@ -277,28 +201,25 @@ This page will be updated regularly throughout the year, check it often.
 .. _EM_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/EM.pdf
 
 .. ------------- Case Histories -----------------
-.. _TBL 1 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/0_PhysicalProperties/Hodgson_Ireland_First_Break_Aug_2009.pdf
-.. _TBL 2 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/2_Magnetics/BrineWellsCaseStudy.pdf
-.. _TBL 3 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/3_Seismology/Near-surface_SH-wave.pdf
-.. _TBL 4 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/4_GPR/TBL4_GlacierGirl.pdf
-.. _TBL 5 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2017/5_DCIP/DCIP_for_landfills_dahlin_FB_Aug_2010.pdf
-.. _GPR Movie: https://github.com/ubcgif/eosc350website/raw/master/assets/2016/4_GPR/GPR_Wavefront_movie.zip
+.. _TBL 1 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/0_PhysicalProperties/Hodgson_Ireland_First_Break_Aug_2009.pdf
+.. _TBL 2 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/BrineWellsCaseStudy.pdf
+.. _TBL 3 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismology/Near-surface_SH-wave.pdf
+.. _TBL 4 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/TBL4_GlacierGirl.pdf
+.. _TBL 5 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DCIP/DCIP_for_landfills_dahlin_FB_Aug_2010.pdf
+.. _GPR Movie: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/GPR_Wavefront_movie.zip
 .. _TBL 6 Case History: https://gpg.geosci.xyz/content/electromagnetics/electromagnetic_interpretation.html
 
 
 
 .. ------------- TA -----------------------------
 .. _Devin: devinccowan@gmail.com
-.. _Dom: fourndo@gmail.com
 .. _Thibaut: thast@eos.ubc.ca
-.. _Patrick: pbellive@eos.ubc.ca
-.. _Dikun: yangdikun@gmail.com
-.. _Sarah: sdevries@eoas.ubc.ca
+.. _Doug: doug@eos.ubc.ca
 .. _Mike: mmitchel@eoas.ubc.ca
 .. _Gabriela: gracz@eoas.ubc.ca
 .. _Vahid: vdehghan@eoas.ubc.ca
 
-.. _Semester Grades: https://github.com/ubcgif/eosc350website/raw/master/assets/Grades_03122016.pdf
+.. _Semester Grades: https://github.com/ubcgif/eosc350website/raw/master/assets/Grades_03122018.pdf
 
 .. toctree::
     :hidden:
