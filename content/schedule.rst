@@ -111,14 +111,14 @@ This page will be updated regularly throughout the year, check it often.
 
 
 .. ------------- GPG ----------------------------
-.. _GPG Foundations: http://gpg.geosci.xyz/content/foundations/index.html
-.. _GPG Physical Properties: http://gpg.geosci.xyz/content/foundations/index.html
-.. _GPG Magnetics: http://gpg.geosci.xyz/content/magnetics/index.html
-.. _GPG Seismic: http://gpg.geosci.xyz/content/seismic/index.html
-.. _GPG GPR: http://gpg.geosci.xyz/content/GPR/index.html
-.. _GPG EM: http://gpg.geosci.xyz/content/electromagnetics/index.html
-.. _GPG DC Resistivity: http://gpg.geosci.xyz/content/DC_resistivity/index.html
-.. _GPG Induced Polarization: http://gpg.geosci.xyz/content/induced_polarization/index.html
+.. _GPG Foundations: https://gpg.geosci.xyz/content/foundations/index.html#foundations
+.. _GPG Physical Properties: https://gpg.geosci.xyz/content/physical_properties/index.html#physical-properties
+.. _GPG Magnetics: https://gpg.geosci.xyz/content/magnetics/index.html#magnetics
+.. _GPG Seismic: https://gpg.geosci.xyz/content/seismic/index.html#seismic
+.. _GPG GPR: https://gpg.geosci.xyz/content/GPR/index.html#ground-penetrating-radar
+.. _GPG EM: https://gpg.geosci.xyz/content/electromagnetics/index.html#electromagnetic-methods
+.. _GPG DC Resistivity: https://gpg.geosci.xyz/content/DC_resistivity/index.html#dc-resistivity
+.. _GPG Induced Polarization: https://gpg.geosci.xyz/content/induced_polarization/index.html#induced-polarization
 
 .. ------------- Lectures -----------------------
 .. _Lecture 1 Intro: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/0_PhysicalProperties/course_intro.pdf
