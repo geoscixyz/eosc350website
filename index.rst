@@ -69,12 +69,15 @@ Office hours: contact the instructors via email to set up an appointment. Please
 **Teaching Assistants:**
 
 - Michael Mitchell: mmitchel@eoas.ubc.ca
-- TBA
-- TBA
+- Thibaut Astic: tastic@eoas.ubc.ca
 
 Office hours: contact the TA's by e-mail or in person for availability. Please include
 'EOSC350' in the subject line.
 
+**Additional Support:**
+
+- Devin Cowan: dcowan@eoas.ubc.ca
+- Dominique Fournier: dfournie@eoas.ubc.ca
 
 **Contents**
 
