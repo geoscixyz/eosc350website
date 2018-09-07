@@ -60,16 +60,16 @@ Contact Information
 
 **Instructors:**
 
-- Doug Oldenburg:     doug@eos.ubc.ca
-- Seogi kang:         skang@eos.ubc.ca
+- Doug Oldenburg:     doug@eos.ubc.ca, ESB 5194
+- Seogi kang:         skang@eos.ubc.ca, ESB 4037
 
 Office hours: contact the instructors via email to set up an appointment. Please include
 'EOSC350' in the subject line.
 
 **Teaching Assistants:**
 
-- Michael Mitchell: mmitchel@eoas.ubc.ca
-- Thibaut Astic: tastic@eoas.ubc.ca
+- Michael Mitchell: mmitchel@eoas.ubc.ca, ESB 4033
+- Thibaut Astic: tastic@eoas.ubc.ca, ESB 4037
 
 Office hours: contact the TA's by e-mail or in person for availability. Please include
 'EOSC350' in the subject line.
