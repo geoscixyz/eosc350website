@@ -28,8 +28,8 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  || geophysics    |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
 |     | 12|  ||               |- `TBL 1 Case History`_      |- Phys Prop Quiz                   |                              |              |            |
-|     |   |  ||               |                             |- `TBL 1 Individual`_              |                              |              |            |
-|     |   |  ||               |                             |- `TBL 1 Team`_                    |                              |              |            |
+|     |   |  ||               |                             |- TBL 1 Individual                 |                              |              |            |
+|     |   |  ||               |                             |- TBL 1 Team                       |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
 |     | 14|  || Magnetics     |- `GPG Magnetics`_           |- Lecture 4 Magnetics              |                              |              |            |
 |     |   |  ||               |                             |- `Magnetic Dipole applet`_        |                              |              |            |
