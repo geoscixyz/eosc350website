@@ -3,7 +3,7 @@
 EOSC 350: Environmental, Geotechnical and Exploration Geophysics I
 ==================================================================
 
-.. .. note::
+ .. note:: `Teams`_ for TBL have been created.
 
 ..     - Sample questions for the final are available here (and on the schedule page):
 
@@ -52,6 +52,9 @@ Course Times
 - Section L1C: Tue   13:00-15:00 in EOS Main 203
 
 **TBL Teams:**
+
+- `Teams`_ 
+.. _Teams: https://www.dropbox.com/s/ykizfe9sur9tf4k/Teams_2018.pdf?dl=1
 
 .. _Contact_Info:
 
