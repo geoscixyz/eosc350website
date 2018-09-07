@@ -61,7 +61,7 @@ Contact Information
 **Instructors:**
 
 - Doug Oldenburg:     doug@eos.ubc.ca, ESB 5194
-- Seogi kang:         skang@eos.ubc.ca, ESB 4037
+- Seogi Kang:         skang@eos.ubc.ca, ESB 4037
 
 Office hours: contact the instructors via email to set up an appointment. Please include
 'EOSC350' in the subject line.
