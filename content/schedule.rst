@@ -28,7 +28,7 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  || geophysics    |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
 |     | 12|  ||               |- `TBL 1 Case History`_      |- Phys Prop Quiz                   |                              |              |            |
-|     |   |  ||               |                             |- TBL 1 Individual                 |                              |              |            |
+|     |   |  ||               |                             |- `TBL 1 Individual`_              |                              |              |            |
 |     |   |  ||               |                             |- TBL 1 Team                       |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
 |     | 14|  || Magnetics     |- `GPG Magnetics`_           |- Lecture 4 Magnetics              |                              |              |            |
@@ -179,7 +179,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _DC App: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=Notebooks%2DCLab.ipynb
 
 .. ------------- TBL ----------------------------
-.. _TBL 1 Individual: https://goo.gl/forms/3vQzwZaN1P5JdKDh2
+.. _TBL 1 Individual: https://goo.gl/forms/ZFUiIKNZWTktetWJ3
 .. _TBL 1 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/0_PhysicalProperties/TBL1Team.pdf
 .. _TBL 2 Individual: https://goo.gl/forms/dH1wvUUtgWo6bagz1
 .. _TBL 2 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/tbl2_Team_vStudent.pdf
