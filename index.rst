@@ -79,7 +79,7 @@ Office hours: contact the TA's by e-mail or in person for availability. Please i
 
 **Additional Support:**
 
-- Devin Cowan: dcowan@eoas.ubc.ca
+- Devin Cowan: devinccowan@gmail.com
 - Dominique Fournier: dfournie@eoas.ubc.ca
 
 **Contents**
