@@ -4,6 +4,10 @@ EOSC 350: Environmental, Geotechnical and Exploration Geophysics I
 ==================================================================
 
  .. note:: `Teams`_ for TBL have been created.
+ 
+ .. note:: `TBL 1 Individual`_ online quizz is available through the course schedule.
+
+.. _TBL 1 Individual: https://goo.gl/forms/ZFUiIKNZWTktetWJ3
 
 ..     - Sample questions for the final are available here (and on the schedule page):
 
