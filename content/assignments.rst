@@ -3,6 +3,8 @@
 Assignments
 ===========
 
+.. note:: All the material is available through the course schedule.
+
 .. note:: Please print out the labs before attending the lab period.
 
 .. note:: Apps for the assignment are available by clicking below binder badge!
