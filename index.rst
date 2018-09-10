@@ -57,7 +57,8 @@ Course Times
 
 **TBL Teams:**
 
-- `Teams`_ 
+- `Teams`_
+
 .. _Teams: https://www.dropbox.com/s/ykizfe9sur9tf4k/Teams_2018.pdf?dl=1
 
 .. _Contact_Info:
