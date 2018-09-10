@@ -7,7 +7,7 @@ This page will be updated regularly throughout the year, check it often.
 
 .. note:: Please print out the labs before attending the lab period!
 
-.. note:: See the :ref:`Assignments <assignments>` page for a list of all your assignments and DUE DATES!
+.. .. note:: See the :ref:`Assignments <assignments>` page for a list of all your assignments and DUE DATES!
 
 
 
