@@ -35,7 +35,7 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |- `Magnetic Dipole applet`_        |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|     | 17|3 ||               |                             |-  Lecture 5 Magnetics             |-  Lab 2 Magnetics Part 1     |   `Mike`_    |   `Doug`_  |
+|     | 17|3 ||               |                             |-  Lecture 5 Magnetics             |-  `Lab 2 Magnetics Part 1`_  |   `Mike`_    |   `Doug`_  |
 |     |   |  ||               |                             |-  Magnetic Prism applet           |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
@@ -156,7 +156,7 @@ This page will be updated regularly throughout the year, check it often.
 
 .. ------------- Labs ---------------------------
 .. _Lab 1 Physical Properties: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/0_PhysicalProperties/Lab1_Student_Copy.pdf
-.. _Lab 2 Magnetics Part 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/Lab2_Students.pdf
+.. _Lab 2 Magnetics Part 1: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/2_Magnetics/Magnetics.pdf
 .. _Lab 3 Magnetics Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/Lab3.pdf
 .. _Lab 4 Seismic Part 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/Lab4.pdf
 .. _Lab 5 Seismic Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/Lab5.pdf
