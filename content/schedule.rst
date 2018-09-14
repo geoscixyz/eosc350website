@@ -31,7 +31,7 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |- `TBL 1 Individual`_              |                              |              |            |
 |     |   |  ||               |                             |- `TBL 1 Team`_                    |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 14|  || Magnetics     |- `GPG Magnetics`_           |- `Lecture 4 Magnetics`_              |                              |              |            |
+|     | 14|  || Magnetics     |- `GPG Magnetics`_           |- `Lecture 4 Magnetics`_           |                              |              |            |
 |     |   |  ||               |                             |- `Magnetic Dipole applet`_        |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
