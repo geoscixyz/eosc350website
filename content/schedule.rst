@@ -31,7 +31,7 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |- `TBL 1 Individual`_              |                              |              |            |
 |     |   |  ||               |                             |- `TBL 1 Team`_                    |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 14|  || Magnetics     |- `GPG Magnetics`_           |- Lecture 4 Magnetics              |                              |              |            |
+|     | 14|  || Magnetics     |- `GPG Magnetics`_           |- `Lecture 4 Magnetics`_              |                              |              |            |
 |     |   |  ||               |                             |- `Magnetic Dipole applet`_        |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
@@ -125,7 +125,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Lecture 1 Intro: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/0_PhysicalProperties/course_intro.pdf
 .. _Lecture 2 Physical Properties: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/0_PhysicalProperties/physical_properties.pdf
 .. _Lecture 3 Framework: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/1_Foundations/framework.pdf
-.. _Lecture 4 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/magnetic_principles.pdf
+.. _Lecture 4 Magnetics: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/2_Magnetics/Magnetics.pdf
 .. _Lecture 5 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/magnetic_survey.pdf
 .. _Lecture 6 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/magnetic_interpretation.pdf
 .. _Lecture 7 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/magnetic_application.pdf
