@@ -35,11 +35,11 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |- `Magnetic Dipole applet`_        |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|     | 17|3 ||               |                             |-  Lecture 5 Magnetics             |-  `Lab 2 Magnetics Part 1`_  |   `Mike`_    |   `Doug`_  |
-|     |   |  ||               |                             |-  Magnetic Prism applet           |                              |              |            |
+|     | 17|3 ||               |                             |-  `Lecture 5 Magnetics`_          |-  `Lab 2 Magnetics Part 1`_  |   `Mike`_    |   `Doug`_  |
+|     |   |  ||               |                             |-  `Magnetic Prism applet`_        |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 19|  ||               |                             |-  Lecture 6 Magnetics             |                              |              |            |
+|     | 19|  ||               |                             |-  `Lecture 6 Magnetics`_          |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
@@ -126,9 +126,9 @@ This page will be updated regularly throughout the year, check it often.
 .. _Lecture 2 Physical Properties: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/0_PhysicalProperties/physical_properties.pdf
 .. _Lecture 3 Framework: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/1_Foundations/framework.pdf
 .. _Lecture 4 Magnetics: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/2_Magnetics/Magnetics.pdf
-.. _Lecture 5 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/magnetic_survey.pdf
-.. _Lecture 6 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/magnetic_interpretation.pdf
-.. _Lecture 7 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/magnetic_application.pdf
+.. _Lecture 5 Magnetics: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/2_Magnetics/Magnetics.pdf
+.. _Lecture 6 Magnetics: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/2_Magnetics/Magnetics.pdf
+.. _Lecture 7 Magnetics: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/2_Magnetics/Magnetics.pdf
 .. _Lecture 8 Seismic: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/seismic.pdf
 .. _Seismic additional: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/NMO.pdf
 .. _Equations: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/Equations.pdf
