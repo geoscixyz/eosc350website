@@ -48,7 +48,7 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
 |     | 24|4 ||               |-  `TBL 2 Case History`_     |-  `TBL 2 Individual`_             |-  Lab 3 Magnetics Part 2     |   `Mike`_    |   `Doug`_  |
-|     |   |  ||               |                             |- TBL 2 Team                       |                              |              |            |
+|     |   |  ||               |                             |- `TBL 2 Team`_                    |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
 |     | 26|  || Seismic       |-  GPG Seismic               |-  Lecture 8 Seismic               |                              |              |   `Doug`_  |
@@ -182,7 +182,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _TBL 1 Individual: https://goo.gl/forms/ZFUiIKNZWTktetWJ3
 .. _TBL 1 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/0_PhysicalProperties/TBL1Team.pdf
 .. _TBL 2 Individual: https://goo.gl/forms/TKHAhdQCU8iLKZMo2
-.. _TBL 2 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/tbl2_Team_vStudent.pdf
+.. _TBL 2 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/TBL2_team.docx
 .. _TBL 3 Individual: https://goo.gl/forms/bYhiw03Y0tjdShDJ2
 .. _TBL 3 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/TBL3_team.pdf
 .. _TBL 4 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/IndividualTBL4_2018_Student_Copy.pdf
