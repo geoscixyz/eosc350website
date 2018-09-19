@@ -7,7 +7,7 @@ This page will be updated regularly throughout the year, check it often.
 
 .. note:: Please print out the labs before attending the lab period!
 
-.. note:: See the :ref:`Assignments <assignments>` page for a list of all your assignments and DUE DATES!
+.. .. note:: See the :ref:`Assignments <assignments>` page for a list of all your assignments and DUE DATES!
 
 
 
@@ -31,15 +31,15 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |- `TBL 1 Individual`_              |                              |              |            |
 |     |   |  ||               |                             |- `TBL 1 Team`_                    |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 14|  || Magnetics     |- `GPG Magnetics`_           |- Lecture 4 Magnetics              |                              |              |            |
+|     | 14|  || Magnetics     |- `GPG Magnetics`_           |- `Lecture 4 Magnetics`_           |                              |              |            |
 |     |   |  ||               |                             |- `Magnetic Dipole applet`_        |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|     | 17|3 ||               |                             |-  Lecture 5 Magnetics             |-  Lab 2 Magnetics Part 1     |   `Mike`_    |   `Doug`_  |
-|     |   |  ||               |                             |-  Magnetic Prism applet           |                              |              |            |
+|     | 17|3 ||               |                             |-  `Lecture 5 Magnetics`_          |-  `Lab 2 Magnetics Part 1`_  |   `Mike`_    |   `Doug`_  |
+|     |   |  ||               |                             |-  `Magnetic Prism applet`_        |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 19|  ||               |                             |-  Lecture 6 Magnetics             |                              |              |            |
+|     | 19|  ||               |                             |-  `Lecture 6 Magnetics`_          |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
@@ -125,10 +125,10 @@ This page will be updated regularly throughout the year, check it often.
 .. _Lecture 1 Intro: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/0_PhysicalProperties/course_intro.pdf
 .. _Lecture 2 Physical Properties: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/0_PhysicalProperties/physical_properties.pdf
 .. _Lecture 3 Framework: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/1_Foundations/framework.pdf
-.. _Lecture 4 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/magnetic_principles.pdf
-.. _Lecture 5 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/magnetic_survey.pdf
-.. _Lecture 6 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/magnetic_interpretation.pdf
-.. _Lecture 7 Magnetics: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/magnetic_application.pdf
+.. _Lecture 4 Magnetics: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/2_Magnetics/Magnetics.pdf
+.. _Lecture 5 Magnetics: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/2_Magnetics/Magnetics.pdf
+.. _Lecture 6 Magnetics: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/2_Magnetics/Magnetics.pdf
+.. _Lecture 7 Magnetics: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/2_Magnetics/Magnetics.pdf
 .. _Lecture 8 Seismic: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/seismic.pdf
 .. _Seismic additional: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/NMO.pdf
 .. _Equations: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/Equations.pdf
@@ -156,7 +156,7 @@ This page will be updated regularly throughout the year, check it often.
 
 .. ------------- Labs ---------------------------
 .. _Lab 1 Physical Properties: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/0_PhysicalProperties/Lab1_Student_Copy.pdf
-.. _Lab 2 Magnetics Part 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/Lab2_Students.pdf
+.. _Lab 2 Magnetics Part 1: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/2_Magnetics/Lab2_Students.pdf
 .. _Lab 3 Magnetics Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/Lab3.pdf
 .. _Lab 4 Seismic Part 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/Lab4.pdf
 .. _Lab 5 Seismic Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/Lab5.pdf
@@ -179,7 +179,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _DC App: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=Notebooks%2DCLab.ipynb
 
 .. ------------- TBL ----------------------------
-.. _TBL 1 Individual: https://goo.gl/forms/3vQzwZaN1P5JdKDh2
+.. _TBL 1 Individual: https://goo.gl/forms/ZFUiIKNZWTktetWJ3
 .. _TBL 1 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/0_PhysicalProperties/TBL1Team.pdf
 .. _TBL 2 Individual: https://goo.gl/forms/dH1wvUUtgWo6bagz1
 .. _TBL 2 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/TBL2_team.docx

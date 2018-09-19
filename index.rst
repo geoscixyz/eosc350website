@@ -3,7 +3,11 @@
 EOSC 350: Environmental, Geotechnical and Exploration Geophysics I
 ==================================================================
 
-.. .. note::
+ .. note:: `Teams`_ for TBL have been created.
+ 
+ .. note:: `TBL 1 Individual`_ online quizz is available here and through the course schedule. Due September 12th 2018.
+
+.. _TBL 1 Individual: https://goo.gl/forms/ZFUiIKNZWTktetWJ3
 
 ..     - Sample questions for the final are available here (and on the schedule page):
 
@@ -53,6 +57,10 @@ Course Times
 
 **TBL Teams:**
 
+- `Teams`_
+
+.. _Teams: https://www.dropbox.com/s/ykizfe9sur9tf4k/Teams_2018.pdf?dl=1
+
 .. _Contact_Info:
 
 Contact Information
@@ -60,23 +68,23 @@ Contact Information
 
 **Instructors:**
 
-- Doug Oldenburg:     doug@eos.ubc.ca
-- Seogi kang:         skang@eos.ubc.ca
+- Doug Oldenburg:     doug@eos.ubc.ca, ESB 5194
+- Seogi Kang:         skang@eos.ubc.ca, ESB 4037
 
 Office hours: contact the instructors via email to set up an appointment. Please include
 'EOSC350' in the subject line.
 
 **Teaching Assistants:**
 
-- Michael Mitchell: mmitchel@eoas.ubc.ca
-- Thibaut Astic: tastic@eoas.ubc.ca
+- Michael Mitchell: mmitchel@eoas.ubc.ca, ESB 4033
+- Thibaut Astic: tastic@eoas.ubc.ca, ESB 4037
 
 Office hours: contact the TA's by e-mail or in person for availability. Please include
 'EOSC350' in the subject line.
 
 **Additional Support:**
 
-- Devin Cowan: dcowan@eoas.ubc.ca
+- Devin Cowan: devinccowan@gmail.com
 - Dominique Fournier: dfournie@eoas.ubc.ca
 
 **Contents**
