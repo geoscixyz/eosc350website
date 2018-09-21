@@ -6,3 +6,4 @@ http://eosc350.geosci.xyz
 [![Documentation Status](https://readthedocs.org/projects/eosc350website/badge/?version=latest)](http://eosc350.geosci.xyz/en/latest/?badge=latest)
 
 Course website for EOSC 350
+
