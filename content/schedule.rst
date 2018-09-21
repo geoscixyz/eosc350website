@@ -47,8 +47,8 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |-  Magnetics Quiz                  |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|     | 24|4 ||               |-  `TBL 2 Case History`_     |-  `TBL 2 Individual`_             |-  Lab 3 Magnetics Part 2     |   `Mike`_    |   `Doug`_  |
-|     |   |  ||               |                             |- `TBL 2 Team`_                    |                              |              |            |
+|     | 24|4 ||               |-  `TBL 2 Case History`_     |-  `TBL 2 Individual`_             |- `Lab 3 Magnetics Part 2`_   |   `Mike`_    |   `Doug`_  |
+|     |   |  ||               |                             |- `TBL 2 Team`_                    |- `Student Magnetic Data`_    |              |            |
 |     |   |  ||               |                             |- **Each TBL team brings a laptop**|                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
 |     | 26|  || Seismic       |-  `GPG Seismic`_            |- Seismic Lecture 1                |                              |              |   `Seogi`_ |
@@ -274,8 +274,8 @@ This page will be updated regularly throughout the year, check it often.
 .. _GPR Movie: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/GPR_Wavefront_movie.zip
 .. _TBL 6 Case History: https://gpg.geosci.xyz/content/electromagnetics/electromagnetic_interpretation.html
 
-
-
+.. ------------- DATA -----------------
+.. _Student Magnetic Data: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/Student_MagData.xlsx
 .. ------------- TA -----------------------------
 .. _Devin: devinccowan@gmail.com
 .. _Thibaut: thast@eos.ubc.ca
