@@ -4,7 +4,7 @@ EOSC 350: Environmental, Geotechnical and Exploration Geophysics I
 ==================================================================
 
  .. note:: `Teams`_ for TBL have been created.
- 
+
  .. note:: `TBL 2 Individual`_ online quizz is available here and through the course schedule. Due September 24th 2018.
 
 .. _TBL 2 Individual: https://docs.google.com/forms/d/e/1FAIpQLSfkTk_DSev92psN-kio3rMInnSjh-OtmnR5dZ8vL3gS35NZew/viewform
@@ -95,3 +95,4 @@ Office hours: contact the TA's by e-mail or in person for availability. Please i
     content/schedule
     content/assignments
     content/resources
+    content/lecture_videos
