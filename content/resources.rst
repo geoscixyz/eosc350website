@@ -8,10 +8,7 @@ Course Resources
 
 - `GPG: Geophysics for Practicing Geoscientists <http://gpg.geosci.xyz/>`_
 
-- `Instructions Using UBC-JupyterHub, Syzygy <https://github.com/ubcgif/eosc350website/raw/master/assets/Instruction_using_Sygzy_(UBC-JupyterHub).pdf>`_
-
-- `Syzygy for the notebooks <https://ubc.syzygy.ca/jupyter/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fgeoscixyz%2FgpgLabs.git&subPath=Notebooks&app=notebook>`_
-
+- `Instructions Using UBC-JupyterHub, Syzygy, for the Course Apps <https://github.com/ubcgif/eosc350website/raw/master/assets/Instruction_using_Sygzy_(UBC-JupyterHub).pdf>`_
 
 - `Binder for the Course Apps <https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=Notebooks%2Findex.ipynb>`_
 
