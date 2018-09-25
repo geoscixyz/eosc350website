@@ -9,6 +9,7 @@ This page will be updated regularly throughout the year, check it often.
 
 .. .. note:: See the :ref:`Assignments <assignments>` page for a list of all your assignments and DUE DATES!
 
+Latest course grades can be downloaded here: `Semester Grades`_.
 
 
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
@@ -285,7 +286,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Vahid: vdehghan@eoas.ubc.ca
 .. _Seogi: skang@eos.ubc.ca
 
-.. _Semester Grades: https://github.com/ubcgif/eosc350website/raw/master/assets/Grades_03122018.pdf
+.. _Semester Grades: https://github.com/ubcgif/eosc350website/raw/master/assets/Grades.xlsx
 
 .. toctree::
     :hidden:
