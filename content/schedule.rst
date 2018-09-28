@@ -52,7 +52,7 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 |     |   |  ||               |                             |- `TBL 2 Team`_                    |- `Student Magnetic Data`_    |              |            |
 |     |   |  ||               |                             |- **Each TBL team brings a laptop**|                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 26|  || Seismic       |-  `GPG Seismic`_            |- `Seismic Lecture 1 `_            |                              |              |   `Seogi`_ |
+|     | 26|  || Seismic       |-  `GPG Seismic`_            |- `Seismic Lecture 1`_             |                              |              |   `Seogi`_ |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
