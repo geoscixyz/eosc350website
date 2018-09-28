@@ -52,7 +52,7 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 |     |   |  ||               |                             |- `TBL 2 Team`_                    |- `Student Magnetic Data`_    |              |            |
 |     |   |  ||               |                             |- **Each TBL team brings a laptop**|                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 26|  || Seismic       |-  `GPG Seismic`_            |- Seismic Lecture 1                |                              |              |   `Seogi`_ |
+|     | 26|  || Seismic       |-  `GPG Seismic`_            |- `Seismic Lecture 1 `_            |                              |              |   `Seogi`_ |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
@@ -194,7 +194,7 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 .. _Lecture 5 Magnetics: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/2_Magnetics/Magnetics.pdf
 .. _Lecture 6 Magnetics: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/2_Magnetics/Magnetics.pdf
 .. _Lecture 7 Magnetics: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/2_Magnetics/Magnetics.pdf
-.. _Lecture 8 Seismic: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/seismic.pdf
+.. _Seismic Lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/Seismology_lecture_1.pdf
 .. _Seismic additional: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/NMO.pdf
 .. _Equations: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/Equations.pdf
 .. _Quiz review: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/QuizReview.pdf
