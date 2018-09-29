@@ -60,7 +60,7 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|Oct  |  1|5 ||               |                             |- Seismic Lecture 3                |-  Lab 4 Seismic Part 1       |              |    `Devin`_|
+|Oct  |  1|5 ||               |                             |- Seismic Lecture 3                |-  `Lab 4 Seismic Part 1`_    |              |    `Devin`_|
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
@@ -223,7 +223,7 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 .. _Lab 1 Physical Properties: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/0_PhysicalProperties/Lab1_Student_Copy.pdf
 .. _Lab 2 Magnetics Part 1: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/2_Magnetics/Lab2_Students.pdf
 .. _Lab 3 Magnetics Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/Lab3.pdf
-.. _Lab 4 Seismic Part 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/Lab4.pdf
+.. _Lab 4 Seismic Part 1: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/3_Seismic/Lab4.pdf
 .. _Lab 5 Seismic Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/Lab5.pdf
 .. _Lab 6 GPR: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/Lab6_2018_student_copy.pdf
 .. _Lab 7 DCIP: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DCIP/Lab7_2018_student_copy.pdf
