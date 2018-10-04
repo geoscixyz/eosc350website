@@ -60,7 +60,7 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|Oct  |  1|5 ||               |                             |- Seismic Lecture 3                |-  `Lab 4 Seismic Part 1`_    |              |    `Devin`_|
+|Oct  |  1|5 ||               |                             |- Seismic Lecture 3                |-  `Lab 4 Seismic Part 1`_    |              |    `Mike`_|
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
@@ -284,8 +284,6 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 .. _Thibaut: thast@eos.ubc.ca
 .. _Doug: doug@eos.ubc.ca
 .. _Mike: mmitchel@eoas.ubc.ca
-.. _Gabriela: gracz@eoas.ubc.ca
-.. _Vahid: vdehghan@eoas.ubc.ca
 .. _Seogi: skang@eos.ubc.ca
 
 .. _Semester Grades: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/Grades_20180925.xlsx
