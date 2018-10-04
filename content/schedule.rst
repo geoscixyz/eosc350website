@@ -64,7 +64,7 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     |  3|  ||               |                             |- Seismic Lecture 4                |                              |              |            |
+|     |  3|  ||               |                             |- `Seismic Lecture 4`_             |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
@@ -195,6 +195,8 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 .. _Lecture 6 Magnetics: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/2_Magnetics/Magnetics.pdf
 .. _Lecture 7 Magnetics: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/2_Magnetics/Magnetics.pdf
 .. _Seismic Lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/Seismology_lecture_1.pdf
+.. _Seismic Lecture 4: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/3_Seismic/Seismology_lecture_4.pdf
+.. _Seismic Lecture 5: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/3_Seismic/Seismology_lecture_5.pdf
 .. _Seismic additional: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/NMO.pdf
 .. _Equations: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/Equations.pdf
 .. _Quiz review: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/QuizReview.pdf
