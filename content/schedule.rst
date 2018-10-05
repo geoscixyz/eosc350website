@@ -80,7 +80,7 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 |     |   |  ||               |                             |-  Equations                       |                              |              |            |
 |     |   |  ||               |                             |-  Quiz review                     |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 12|  ||               |-  TBL 3 Case History        |-  TBL 3 Individual                |                              |              |            |
+|     | 12|  ||               |-  TBL 3 Case History        |-  `TBL 3 Individual`_             |                              |              |            |
 |     |   |  ||               |                             |-  TBL 3 Team                      |                              |              |            |
 |     |   |  ||               |                             |-  TBL review                      |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
@@ -252,7 +252,7 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 .. _TBL 1 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/0_PhysicalProperties/TBL1Team.pdf
 .. _TBL 2 Individual: https://goo.gl/forms/TKHAhdQCU8iLKZMo2
 .. _TBL 2 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/TBL2_team.docx
-.. _TBL 3 Individual: https://goo.gl/forms/bYhiw03Y0tjdShDJ2
+.. _TBL 3 Individual: https://goo.gl/forms/0k1XWF4669YBICeB3
 .. _TBL 3 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/TBL3_team.pdf
 .. _TBL 4 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/IndividualTBL4_2018_Student_Copy.pdf
 .. _TBL 4 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/TeamTBL4_2018_Student_Copy.pdf
