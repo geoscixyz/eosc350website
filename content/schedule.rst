@@ -56,23 +56,23 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 28|  ||               |                             |- Seismic Lecture 2                |                              |              |   `Seogi`_ |
+|     | 28|  ||               |                             |- `Seismic Lecture 2`_             |                              |              |   `Seogi`_ |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|Oct  |  1|5 ||               |                             |- Seismic Lecture 3                |-  Lab 4 Seismic Part 1       |              |    `Devin`_|
+|Oct  |  1|5 ||               |                             |- `Seismic Lecture 3`_             |-  `Lab 4 Seismic Part 1`_    |              |    `Mike`_ |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     |  3|  ||               |                             |- Seismic Lecture 4                |                              |              |            |
+|     |  3|  ||               |                             |- `Seismic Lecture 4`_             |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     |  5|  ||               |                             |- Seismic Lecture 5                |                              |              |            |
+|     |  5|  ||               |                             |- `Seismic Lecture 5`_             |                              |              |            |
 |     |   |  ||               |                             |- Seismic review                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|Oct  |  8|6 || Thanksgiving  |                             |                                   |-  Lab 5 Seismic Part 2 (Tue.)|              |   `Seogi`_ |
+|Oct  |  8|6 || Thanksgiving  |                             |                                   |-  Thanksgiving Week: NO LAB! |              |   `Seogi`_ |
 |     |   |  || No class      |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
@@ -84,7 +84,7 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 |     |   |  ||               |                             |-  TBL 3 Team                      |                              |              |            |
 |     |   |  ||               |                             |-  TBL review                      |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|Oct  | 15|7 || GPR           |-  `GPG GPR`_                |-  GPR lecture 1                   |-  Lab 5 Seismic Part 2 (Mon.)|              |   `Seogi`_ |
+|Oct  | 15|7 || GPR           |-  `GPG GPR`_                |-  GPR lecture 1                   |-  Lab 5 Seismic Part 2       |              |   `Seogi`_ |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
@@ -195,6 +195,10 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 .. _Lecture 6 Magnetics: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/2_Magnetics/Magnetics.pdf
 .. _Lecture 7 Magnetics: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/2_Magnetics/Magnetics.pdf
 .. _Seismic Lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/Seismology_lecture_1.pdf
+.. _Seismic Lecture 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/Seismology_lecture_2.pdf
+.. _Seismic Lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/Seismology_lecture_2.pdf
+.. _Seismic Lecture 4: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/3_Seismic/Seismology_lecture_4.pdf
+.. _Seismic Lecture 5: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/3_Seismic/Seismology_lecture_5.pdf
 .. _Seismic additional: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/NMO.pdf
 .. _Equations: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/Equations.pdf
 .. _Quiz review: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/QuizReview.pdf
@@ -223,7 +227,7 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 .. _Lab 1 Physical Properties: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/0_PhysicalProperties/Lab1_Student_Copy.pdf
 .. _Lab 2 Magnetics Part 1: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/2_Magnetics/Lab2_Students.pdf
 .. _Lab 3 Magnetics Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/Lab3.pdf
-.. _Lab 4 Seismic Part 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/Lab4.pdf
+.. _Lab 4 Seismic Part 1: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/3_Seismic/Lab4.pdf
 .. _Lab 5 Seismic Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/Lab5.pdf
 .. _Lab 6 GPR: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/Lab6_2018_student_copy.pdf
 .. _Lab 7 DCIP: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DCIP/Lab7_2018_student_copy.pdf
@@ -282,8 +286,6 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 .. _Thibaut: thast@eos.ubc.ca
 .. _Doug: doug@eos.ubc.ca
 .. _Mike: mmitchel@eoas.ubc.ca
-.. _Gabriela: gracz@eoas.ubc.ca
-.. _Vahid: vdehghan@eoas.ubc.ca
 .. _Seogi: skang@eos.ubc.ca
 
 .. _Semester Grades: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/Grades_20180925.xlsx

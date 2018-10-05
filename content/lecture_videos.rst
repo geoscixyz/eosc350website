@@ -18,3 +18,9 @@ Lecture Video Lists
 - Magnetic Lecture4 (09/21/2018): https://youtu.be/XZ-C5kPgr5I
 
 - Seismic Lecture1 (09/26/2018): https://youtu.be/Z3Xh66Ws7wo
+
+- Seismic Lecture2 (09/28/2018): https://youtu.be/TsJg8N1ThHk
+
+- Seismic Lecture3 (10/01/2018): https://youtu.be/ladQk39A7GU
+
+- Seismic Lecture4 (10/03/2018): https://youtu.be/zdoaBvRDVhk
