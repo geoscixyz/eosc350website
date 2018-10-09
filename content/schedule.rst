@@ -273,7 +273,7 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 .. ------------- Case Histories -----------------
 .. _TBL 1 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/0_PhysicalProperties/Hodgson_Ireland_First_Break_Aug_2009.pdf
 .. _TBL 2 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/BrineWellsCaseStudy.pdf
-.. _TBL 3 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismology/Near-surface_SH-wave.pdf
+.. _TBL 3 Case History: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/3_Seismic/Near-surface_SH-wave.pdf
 .. _TBL 4 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/TBL4_GlacierGirl.pdf
 .. _TBL 5 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DCIP/DCIP_for_landfills_dahlin_FB_Aug_2010.pdf
 .. _GPR Movie: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/GPR_Wavefront_movie.zip
