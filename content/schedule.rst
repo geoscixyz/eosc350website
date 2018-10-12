@@ -80,8 +80,8 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 |     |   |  ||               |                             |-  Equations                       |                              |              |            |
 |     |   |  ||               |                             |-  Quiz review                     |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 12|  ||               |-  TBL 3 Case History        |-  TBL 3 Individual                |                              |              |            |
-|     |   |  ||               |                             |-  TBL 3 Team                      |                              |              |            |
+|     | 12|  ||               |-  `TBL 3 Case History`_     |-  `TBL 3 Individual`_             |                              |              |            |
+|     |   |  ||               |                             |-  `TBL 3 Team`_                   |                              |              |            |
 |     |   |  ||               |                             |-  TBL review                      |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
 |Oct  | 15|7 || GPR           |-  `GPG GPR`_                |-  GPR lecture 1                   |-  Lab 5 Seismic Part 2       |              |   `Seogi`_ |
@@ -252,7 +252,7 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 .. _TBL 1 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/0_PhysicalProperties/TBL1Team.pdf
 .. _TBL 2 Individual: https://goo.gl/forms/TKHAhdQCU8iLKZMo2
 .. _TBL 2 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/TBL2_team.docx
-.. _TBL 3 Individual: https://goo.gl/forms/bYhiw03Y0tjdShDJ2
+.. _TBL 3 Individual: https://goo.gl/forms/0k1XWF4669YBICeB3
 .. _TBL 3 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/TBL3_team.pdf
 .. _TBL 4 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/IndividualTBL4_2018_Student_Copy.pdf
 .. _TBL 4 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/TeamTBL4_2018_Student_Copy.pdf
@@ -273,7 +273,7 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 .. ------------- Case Histories -----------------
 .. _TBL 1 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/0_PhysicalProperties/Hodgson_Ireland_First_Break_Aug_2009.pdf
 .. _TBL 2 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/BrineWellsCaseStudy.pdf
-.. _TBL 3 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismology/Near-surface_SH-wave.pdf
+.. _TBL 3 Case History: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/3_Seismic/Near-surface_SH-wave.pdf
 .. _TBL 4 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/TBL4_GlacierGirl.pdf
 .. _TBL 5 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DCIP/DCIP_for_landfills_dahlin_FB_Aug_2010.pdf
 .. _GPR Movie: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/GPR_Wavefront_movie.zip
