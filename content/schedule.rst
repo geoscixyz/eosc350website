@@ -84,7 +84,7 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 |     |   |  ||               |                             |-  `TBL 3 Team`_                   |                              |              |            |
 |     |   |  ||               |                             |-  TBL review                      |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|Oct  | 15|7 || GPR           |-  `GPG GPR`_                |-  GPR lecture 1                   |-  `Lab 5 Seismic Part 2`_    |              |   `Seogi`_ |
+|Oct  | 15|7 || GPR           |-  `GPG GPR`_                |-  `GPR lecture 1`_                |-  `Lab 5 Seismic Part 2`_    |              |   `Seogi`_ |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
@@ -204,9 +204,9 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 .. _Quiz review: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/QuizReview.pdf
 .. _TBL review: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/TBLreview.pdf
 .. _Midterm Overview Seismic: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/Midterm2018_SeismicReview.pdf
-.. _GPR Lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/GPR_2018_Day1.pdf
-.. _GPR Lecture 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/GPR_2018_Day2.pdf
-.. _GPR Lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/GPR_2018_Day3.pdf
+.. _GPR Lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/GPR_lecture_1.pdf
+.. _GPR Lecture 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/GPR_lecture_2.pdf
+.. _GPR Lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/GPR_lecture_3.pdf
 .. _GPR Equation Sheet: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/GPR_Equation_Sheet.png
 .. _Midterm Review: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/Midterm_Review_Questions.pdf
 .. _DCIP Lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DCIP/DCIP_2018_Day1.pdf
