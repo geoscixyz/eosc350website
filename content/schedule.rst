@@ -96,7 +96,7 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 |     |   |  ||               |                             |-  GPR Quiz                        |                              |              |            |
 |     |   |  ||               |                             |-  GPR Equation Sheet              |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|Oct  | 22|8 ||               |-  `TBL 4 Case History`_     |-  TBL 4 Individual                |-  Lab 6 GPR                  |              |   `Seogi`_ |
+|Oct  | 22|8 ||               |-  `TBL 4 Case History`_     |-  TBL 4 Individual                |-  `Lab 6 GPR`_               |              |   `Seogi`_ |
 |     |   |  ||               |                             |-  `TBL 4 Team`_                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
@@ -229,7 +229,7 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 .. _Lab 3 Magnetics Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/Lab3.pdf
 .. _Lab 4 Seismic Part 1: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/3_Seismic/Lab4.pdf
 .. _Lab 5 Seismic Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/Lab5.pdf
-.. _Lab 6 GPR: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/Lab6_2018_student_copy.pdf
+.. _Lab 6 GPR: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/Lab6.pdf
 .. _Lab 7 DCIP: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DCIP/Lab7_2018_student_copy.pdf
 .. _Lab 8 EM 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/Lab8.pdf
 .. _Lab 9 EM 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/Lab9.pdf
@@ -258,9 +258,6 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 .. _TBL 4 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/TBL4_team.pdf
 .. _TBL 5 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DCIP/TBL5_individual_2018_student_copy.pdf
 .. _TBL 5 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DCIP/TBL5_team_2018_student_copy.pdf
-.. _TBL 6 Individual: https://goo.gl/forms/uMrV6NJkmlNIRnJg2
-_TBL 6 Team (pdf): https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/TBL6_Team.pdf
-.. _TBL 6 Team (docx): https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/TBL6_Team.docx
 
 .. ------------- Question bank ----------------------------
 .. _Physical Properties_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/Intro_properties.pdf
