@@ -255,7 +255,7 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 .. _TBL 3 Individual: https://goo.gl/forms/0k1XWF4669YBICeB3
 .. _TBL 3 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/TBL3_team.pdf
 .. _TBL 4 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/IndividualTBL4_2018_Student_Copy.pdf
-.. _TBL 4 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/TBL4_team.pdf
+.. _TBL 4 Team: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/4_GPR/TBL4_Team.pdf
 .. _TBL 5 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DCIP/TBL5_individual_2018_student_copy.pdf
 .. _TBL 5 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DCIP/TBL5_team_2018_student_copy.pdf
 
