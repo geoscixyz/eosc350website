@@ -96,8 +96,8 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 |     |   |  ||               |                             |-  GPR Quiz                        |                              |              |            |
 |     |   |  ||               |                             |-  GPR Equation Sheet              |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|Oct  | 22|8 ||               |-  TBL 4 Case History        |-  TBL 4 Individual                |-  Lab 6 GPR                  |              |   `Seogi`_ |
-|     |   |  ||               |                             |-  TBL 4 Team                      |                              |              |            |
+|Oct  | 22|8 ||               |-  `TBL 4 Case History`_     |-  TBL 4 Individual                |-  Lab 6 GPR                  |              |   `Seogi`_ |
+|     |   |  ||               |                             |-  `TBL 4 Team`_                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
 |     | 24|  || Midterm       |                             |-  Midterm                         |                              |              |            |
@@ -255,11 +255,11 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 .. _TBL 3 Individual: https://goo.gl/forms/0k1XWF4669YBICeB3
 .. _TBL 3 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/TBL3_team.pdf
 .. _TBL 4 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/IndividualTBL4_2018_Student_Copy.pdf
-.. _TBL 4 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/TeamTBL4_2018_Student_Copy.pdf
+.. _TBL 4 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/TBL4_team.pdf
 .. _TBL 5 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DCIP/TBL5_individual_2018_student_copy.pdf
 .. _TBL 5 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DCIP/TBL5_team_2018_student_copy.pdf
 .. _TBL 6 Individual: https://goo.gl/forms/uMrV6NJkmlNIRnJg2
-.. _TBL 6 Team (pdf): https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/TBL6_Team.pdf
+_TBL 6 Team (pdf): https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/TBL6_Team.pdf
 .. _TBL 6 Team (docx): https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/TBL6_Team.docx
 
 .. ------------- Question bank ----------------------------
