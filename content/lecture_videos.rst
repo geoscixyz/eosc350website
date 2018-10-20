@@ -24,3 +24,13 @@ Lecture Video Lists
 - Seismic Lecture3 (10/01/2018): https://youtu.be/ladQk39A7GU
 
 - Seismic Lecture4 (10/03/2018): https://youtu.be/zdoaBvRDVhk
+
+- Seismic Lecture5 (10/05/2018): https://youtu.be/IInmwOgU-d0
+
+- Seismic Review (10/10/2018): https://youtu.be/oFg7wepygX8
+
+- GPR Lecture1 (10/15/2018): https://youtu.be/guR3-VjJV4A
+
+- GPR Lecture2 (10/17/2018): https://youtu.be/Ges1fcx_UsI
+
+- GPR Lecture3 (10/19/2018): https://youtu.be/pQJcfvexBg4
