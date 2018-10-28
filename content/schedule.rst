@@ -104,67 +104,67 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 26|  ||               |                             |- Midterm Overview                 |                              |              |            |
-|     |   |  ||               |                             |-  DCIP lecture 1                  |                              |              |            |
+|     | 26|  ||               |                             |-  Midterm Overview                |                              |              |            |
+|     |   |  ||               |                             |-  DC lecture 1                    |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|Oct  | 29|9 || DC/IP         | `GPG DC Resistivity`_       |-  DCIP lecture 2                  |- Lab 7 DCIP                  |              |            |
+|Oct  | 29|9 || DC            | `GPG DC`_                   |-  DC lecture 2                    |- `Lab 7 DC`_                 |              |  `Doug`_   |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 31|  || DC/IP         | `GPG DC Resistivity`_       |-  DCIP lecture 3                  |                              |              |            |
+|     | 31|  || DC            | `GPG DC`_                   |-  DC lecture 3                    |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|Nov  |  2|  || DC/IP         | `GPG Induced Polarization`_ |-  DCIP lecture 4                  |                              |              |            |
+|Nov  |  2|  || DC            | `GPG EM`_                   |- DC Quiz                          |                              |              |            |
+|     |   |  ||               |                             |- EM lecture 1                     |                              |              |            |
+|     |   |  ||               |                             |                                   |                              |              |            |
++-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
+|Nov  | 5 |10|| EM            |- `GPG EM`_                  |- EM lecture 2                     | - Lab 8 EM 1                 |              | `Doug`_    |
+|     |   |  ||               |                             |                                   |                              |              |            |
+|     |   |  ||               |                             |                                   |                              |              |            |
++     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
+|     | 7 |  || EM            |- `GPG EM`_                  |- EM lecture 3                     |                              |              |            |
+|     |   |  ||               |                             |                                   |                              |              |            |
+|     |   |  ||               |                             |                                   |                              |              |            |
++     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
+|     | 9 |  || EM            |- `GPG EM`_                  |- EM lecture 4                     |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|Nov  | 5 |10||               |- TBL 5 Case History         |- DCIP Quiz                        | - Lab 8 GPG Apps             |              | `Doug`_    |
-|     |   |  ||               |                             |- TBL 5 Individual                 |                              |              |            |
-|     |   |  ||               |                             |- TBL 5 Team                       |                              |              |            |
-+     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 7 |  || EM            |- `GPG EM`_                  |- EM lecture 1                     |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
+|Nov  | 12|11|| RemembranceDay|                             |                                   | - NO LAB!                    |              | `Doug`_    |
+|     |   |  || No class      |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 9 |  ||               |- `GPG EM`                   |- EM lecture 2                     |                              |              |            |
+|     | 14|  || EM            | - `GPG EM`_                 |- EM Quiz                          |                              |              |            |
+|     |   |  ||               |                             |- EM review                        |                              |              |            |
+|     |   |  ||               |                             |                                   |                              |              |            |
++     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
+|     | 16|  || EM            | - `GPG EM`_                 |- TBL 5 Team                       |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|Nov  | 12|11|| RemembranceDay|                             |                                   | - Lab 9 EM 1                 |              | `Doug`_    |
-|     |   |  || No class      |                             |                                   | - Monday lab will be         |              |            |
-|     |   |  ||               |                             |                                   |   changed (TBA)              |              |            |
-+     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 14|  ||               | - `GPG EM`_                 |- EM lecture 3                     |                              |              |            |
+|Nov  | 19|12|| IP            | - `GPG IP`_                 |- IP lecture 1                     | - Lab 9 EM 2                 |              | `Doug`_    |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 16|  ||               | - `GPG EM`_                 |- EM lecture 4                     |                              |              |            |
+|     | 21|  ||               | - `GPG DC`_                 |- DC/IP review                     |                              |              |            |
+|     |   |  ||               | - `GPG IP`_                 |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
++     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
+|     | 23|  ||               | - TBL 6 Case History        |- TBL 6 Individual (DC/IP)         |                              |              |            |
+|     |   |  ||               |                             |- TBL 6 Team (DC/IP)               |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|Nov  | 19|12||               | - `GPG EM`_                 |- EM lecture 5                     | - Lab 10 EM 2                |              | `Doug`_    |
+|Nov  | 26|13||               |                             |- TBL 7 Individual: Apps           |                              |              |            |
+|     |   |  ||               |                             |- TBL 7 Team: Apps                 |                              |              |            |
+|     |   |  ||               |                             |                                   |                              |              |            |
++     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
+|     | 28|  ||               |                             |- Student presentations            |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 21|  ||               | - `GPG EM`_                 |- EM lecture 6                     |                              |              |            |
-|     |   |  ||               |                             |- EM Quiz                          |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
-+     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 23|  ||               | - TBL 6 Case History        |- TBL 6 Individual                 |                              |              |            |
-|     |   |  ||               |                             |- **Each TBL team brings a laptop**|                              |              |            |
-|     |   |  ||               |                             |- TBL 6 Team                       |                              |              |            |
-+-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|Nov  | 26|13||               |                             |- TBL 7 Team: App contest          |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
-+     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 28|  ||               |                             |- Final review                     |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
-|     |   |  ||               |                             |                                   |                              |              |            |
-+     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 30|  ||               |                             |- Final review                     |                              |              |            |
+|     | 30|  ||               |                             |- Review for final                 |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
@@ -183,8 +183,8 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 .. _GPG Seismic: https://gpg.geosci.xyz/content/seismic/index.html#seismic
 .. _GPG GPR: https://gpg.geosci.xyz/content/GPR/index.html#ground-penetrating-radar
 .. _GPG EM: https://gpg.geosci.xyz/content/electromagnetics/index.html#electromagnetic-methods
-.. _GPG DC Resistivity: https://gpg.geosci.xyz/content/DC_resistivity/index.html#dc-resistivity
-.. _GPG Induced Polarization: https://gpg.geosci.xyz/content/induced_polarization/index.html#induced-polarization
+.. _GPG DC: https://gpg.geosci.xyz/content/DC_resistivity/index.html#dc-resistivity
+.. _GPG IP: https://gpg.geosci.xyz/content/induced_polarization/index.html#induced-polarization
 
 .. ------------- Lectures -----------------------
 .. _Lecture 1 Intro: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/0_PhysicalProperties/course_intro.pdf
@@ -230,7 +230,7 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 .. _Lab 4 Seismic Part 1: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/3_Seismic/Lab4.pdf
 .. _Lab 5 Seismic Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/Lab5.pdf
 .. _Lab 6 GPR: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/Lab6.pdf
-.. _Lab 7 DCIP: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DCIP/Lab7_2018_student_copy.pdf
+.. _Lab 7 DC: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DC/Lab7.pdf
 .. _Lab 8 EM 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/Lab8.pdf
 .. _Lab 9 EM 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/Lab9.pdf
 .. _em-31.xls: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/em-31.xls
