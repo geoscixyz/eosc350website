@@ -133,7 +133,7 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
 |Nov  | 12|11|| RemembranceDay|                             |                                   | - No Lab on Monday!          |              | `Doug`_    |
-|     |   |  || No class      |                             |                                   | - Indvidual cashitory        |              |            |
+|     |   |  || No class      |                             |                                   | - Indvidual case hitory      |              |            |
 |     |   |  ||               |                             |                                   |   discussion (Tuesday)       |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
 |     | 14|  || EM            | - `GPG EM`_                 |- EM Quiz                          |                              |              |            |
