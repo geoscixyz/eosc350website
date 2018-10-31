@@ -209,9 +209,9 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 .. _GPR Lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/GPR_lecture_3.pdf
 .. _GPR Equation Sheet: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/GPR_Equation_Sheet.png
 .. _Midterm Review: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/Midterm_Review_Questions.pdf
-.. _DC Lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DC/DC_lecture1.pdf
-.. _DC Lecture 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DC/DC_lecture2.pdf
-.. _DC Lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DC/DC_lecture3.pdf
+.. _DC Lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DC/DCR_lecture1.pdf
+.. _DC Lecture 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DC/DCR_lecture2.pdf
+.. _DC Lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DC/DCR_lecture3.pdf
 .. _EM lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/em_intro.pdf
 .. _em_intro_tasks.pptx: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/em_intro_tasks.pptx
 .. _EM lecture 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/em_3loops.pdf
