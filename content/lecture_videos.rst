@@ -34,3 +34,7 @@ Lecture Video Lists
 - GPR Lecture2 (10/17/2018): https://youtu.be/Ges1fcx_UsI
 
 - GPR Lecture3 (10/19/2018): https://youtu.be/pQJcfvexBg4
+
+- DC Lecture1 (10/26/2018): https://youtu.be/R4x3W-N0CfY
+
+- DC Lecture2 (10/29/2018): https://youtu.be/RMHtrPGRJNc
