@@ -105,10 +105,10 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
 |     | 26|  ||               |                             |-  Midterm Overview                |                              |              |            |
-|     |   |  ||               |                             |-  DC lecture 1                    |                              |              |            |
+|     |   |  ||               |                             |-  `DC lecture 1`_                 |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|Oct  | 29|9 || DC            |- `GPG DC`_                  |-  DC lecture 2                    |- `Lab 7 DC`_                 |              |  `Doug`_   |
+|Oct  | 29|9 || DC            |- `GPG DC`_                  |-  `DC lecture 2`_                 |- `Lab 7 DC`_                 |              |  `Doug`_   |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
@@ -209,9 +209,9 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 .. _GPR Lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/GPR_lecture_3.pdf
 .. _GPR Equation Sheet: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/GPR_Equation_Sheet.png
 .. _Midterm Review: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/Midterm_Review_Questions.pdf
-.. _DCIP Lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DCIP/DCIP_2018_Day1.pdf
-.. _DCIP Lecture 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DCIP/DCIP_2018_Day2.pdf
-.. _DCIP Lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DCIP/DCIP_2018_Day3.pdf
+.. _DC Lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DC/DC_lecture1.pdf
+.. _DC Lecture 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DC/DC_lecture2.pdf
+.. _DC Lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DC/DC_lecture3.pdf
 .. _EM lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/em_intro.pdf
 .. _em_intro_tasks.pptx: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/em_intro_tasks.pptx
 .. _EM lecture 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/em_3loops.pdf
