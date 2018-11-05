@@ -112,15 +112,15 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 31|  || DC            |- `GPG DC`_                  |-  DC lecture 3                    |                              |              |            |
+|     | 31|  || DC            |- `GPG DC`_                  |-  `DC lecture 3`_                 |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
 |Nov  |  2|  || DC            |- `GPG EM`_                  |- DC Quiz                          |                              |              |            |
-|     |   |  ||               |                             |- EM lecture 1                     |                              |              |            |
+|     |   |  ||               |                             |- `EM lecture 1`_                  |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|Nov  | 5 |10|| EM            |- `GPG EM`_                  |- EM lecture 2                     | - Lab 8 EM 1                 |              | `Doug`_    |
+|Nov  | 5 |10|| EM            |- `GPG EM`_                  |- `EM lecture 2`_                  | - Lab 8 EM 1                 |              | `Doug`_    |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
@@ -211,10 +211,10 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 .. _Midterm Review: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/Midterm_Review_Questions.pdf
 .. _DC Lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DC/DCR_lecture1.pdf
 .. _DC Lecture 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DC/DCR_lecture2.pdf
-.. _DC Lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DC/DCR_lecture3.pdf
-.. _EM lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/em_intro.pdf
+.. _DC Lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DC/DCR_lecture2.pdf
+.. _EM lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/EM_lecture1.pdf
 .. _em_intro_tasks.pptx: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/em_intro_tasks.pptx
-.. _EM lecture 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/em_3loops.pdf
+.. _EM lecture 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/EM_lecture1.pdf
 .. _EM lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/em_em31.pdf
 .. _EM lecture 4: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/em_applications.pdf
 .. _EM lecture 5: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/em_inversion.pdf
