@@ -124,11 +124,11 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 7 |  || EM            |- `GPG EM`_                  |- EM lecture 3                     |                              |              |            |
+|     | 7 |  || EM            |- `GPG EM`_                  |- `EM lecture 3`_                  |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 9 |  || EM            |- `GPG EM`_                  |- EM lecture 4                     |                              |              |            |
+|     | 9 |  || EM            |- `GPG EM`_                  |- `EM lecture 4`_                  |                              |              |            |
 |     |   |  ||               |                             |- Invidual casehistory discussion  |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
@@ -215,9 +215,8 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 .. _EM lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/EM_lecture1.pdf
 .. _em_intro_tasks.pptx: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/em_intro_tasks.pptx
 .. _EM lecture 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/EM_lecture1.pdf
-.. _EM lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/em_em31.pdf
-.. _EM lecture 4: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/em_applications.pdf
-.. _EM lecture 5: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/em_inversion.pdf
+.. _EM lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/EM_lecture.pdf
+.. _EM lecture 4: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/EM_lecture1.pdf
 .. _Lecture 7 DC: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_DC/9_DC_Resistivity.pdf
 .. _Lecture 8 IP: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_DC/IP.pdf
 .. _Review Lecture: notpostedyet.html
