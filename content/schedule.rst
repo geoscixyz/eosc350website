@@ -137,7 +137,7 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 |     |   |  ||               |                             |                                   |   discussion (Tuesday)       |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
 |     | 14|  || EM            | - `GPG EM`_                 |- EM Quiz                          |                              |              |            |
-|     |   |  ||               |                             |- TBL 5 Individual                 |                              |              |            |
+|     |   |  ||               |                             |- `TBL 5 Individual`_              |                              |              |            |
 |     |   |  ||               |                             |- TBL 5 Team                       |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
 |     | 16|  || EM            | - `GPG EM`_                 |- IP lecture 1                     |                              |              |            |
@@ -255,7 +255,7 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 .. _TBL 3 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/TBL3_team.pdf
 .. _TBL 4 Individual: https://goo.gl/forms/NxgycBrbzxYV61EA3
 .. _TBL 4 Team: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/4_GPR/TBL4_Team.pdf
-.. _TBL 5 Individual: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DCIP/TBL5_individual_2018_student_copy.pdf
+.. _TBL 5 Individual: https://goo.gl/forms/0eX723mpqcWAj0Ss1
 .. _TBL 5 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DCIP/TBL5_team_2018_student_copy.pdf
 
 .. ------------- Question bank ----------------------------
