@@ -38,3 +38,15 @@ Lecture Video Lists
 - DC Lecture1 (10/26/2018): https://youtu.be/R4x3W-N0CfY
 
 - DC Lecture2 (10/29/2018): https://youtu.be/RMHtrPGRJNc
+
+- EM Lecture1 (11/02/2018): https://youtu.be/vc6Uoj_b45s
+
+- EM Lecture2 (11/05/2018): https://youtu.be/ORoriWVXYT8
+
+- EM Lecture3 (11/07/2018): https://youtu.be/Rv6dCAMz6a0
+
+- EM Lecture4 (11/09/2018): https://youtu.be/7OHNua1P2lU
+
+- IP Lecture1 (11/16/2018): Not available
+
+- DC/IP review (11/19/2018): https://youtu.be/ZiMezjsz-Jw
