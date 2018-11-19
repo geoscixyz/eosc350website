@@ -148,7 +148,7 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 |     |   |  ||               | - `GPG IP`_                 |                                   | - `em-31.xls`_               |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 21|  ||               | - TBL 6 Case History        |- TBL 6 Individual (DC/IP)         |                              |              |            |
+|     | 21|  ||               | - `TBL 6 Case History`_     |- `TBL 6 Individual (DC/IP)`_      |                              |              |            |
 |     |   |  ||               |                             |- TBL 6 Team (DC/IP)               |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
@@ -257,6 +257,7 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 .. _TBL 4 Team: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/4_GPR/TBL4_Team.pdf
 .. _TBL 5 Individual: https://goo.gl/forms/0eX723mpqcWAj0Ss1
 .. _TBL 5 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DCIP/TBL5_team_2018_student_copy.pdf
+.. _TBL 6 Individual (DC/IP): https://goo.gl/forms/begeWSBdn6p530CJ3
 
 .. ------------- Question bank ----------------------------
 .. _Physical Properties_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/Intro_properties.pdf
@@ -271,9 +272,9 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 .. _TBL 2 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/BrineWellsCaseStudy.pdf
 .. _TBL 3 Case History: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/3_Seismic/Near-surface_SH-wave.pdf
 .. _TBL 4 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/TBL4_GlacierGirl.pdf
-.. _TBL 5 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DCIP/DCIP_for_landfills_dahlin_FB_Aug_2010.pdf
 .. _GPR Movie: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/GPR_Wavefront_movie.zip
-.. _TBL 6 Case History: https://gpg.geosci.xyz/content/electromagnetics/electromagnetic_interpretation.html
+.. _TBL 5 Case History: https://gpg.geosci.xyz/content/electromagnetics/electromagnetic_interpretation.html
+.. _TBL 6 Case History: https://github.com/geoscixyz/eosc350website/raw/master/assets/2017/5_DCIP/DCIP_for_landfills_dahlin_FB_Aug_2010.pdf
 
 .. ------------- DATA -----------------
 .. _Student Magnetic Data: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/Student_MagData.xlsx
