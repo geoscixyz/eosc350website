@@ -144,8 +144,8 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|Nov  | 19|12|| IP            | - `GPG IP`_                 |- DC/IP review                     | - Lab 9 EM 2                 |              | `Doug`_    |
-|     |   |  ||               | - `GPG IP`_                 |                                   |                              |              |            |
+|Nov  | 19|12|| IP            | - `GPG IP`_                 |- DC/IP review                     | - `Lab 9 EM 2`_              |              | `Doug`_    |
+|     |   |  ||               | - `GPG IP`_                 |                                   | - `em-31.xls`_               |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
 |     | 21|  ||               | - TBL 6 Case History        |- TBL 6 Individual (DC/IP)         |                              |              |            |
@@ -231,7 +231,7 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 .. _Lab 6 GPR: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/Lab6.pdf
 .. _Lab 7 DC: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DC/Lab7.pdf
 .. _Lab 8 EM 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/Lab8.pdf
-.. _Lab 9 EM 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/Lab9.pdf
+.. _Lab 9 EM 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/Lab9.docx
 .. _em-31.xls: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/em-31.xls
 
 .. ------------- Apps ---------------------------
