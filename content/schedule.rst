@@ -258,6 +258,7 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 .. _TBL 5 Individual: https://goo.gl/forms/0eX723mpqcWAj0Ss1
 .. _TBL 5 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DCIP/TBL5_team_2018_student_copy.pdf
 .. _TBL 6 Individual (DC/IP): https://goo.gl/forms/begeWSBdn6p530CJ3
+.. _TBL 6 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_IP/TBL6_team.pdf
 
 .. ------------- Question bank ----------------------------
 .. _Physical Properties_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/Intro_properties.pdf
