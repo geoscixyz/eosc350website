@@ -286,7 +286,7 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 .. _Mike: mmitchel@eoas.ubc.ca
 .. _Seogi: skang@eos.ubc.ca
 
-.. _Semester Grades: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/Grades_20180925.xlsx
+.. _Semester Grades: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/Grades_20181126.xlsx
 
 .. toctree::
     :hidden:
