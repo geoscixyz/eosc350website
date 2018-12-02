@@ -140,11 +140,11 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 |     |   |  ||               |                             |- `TBL 5 Individual`_              |                              |              |            |
 |     |   |  ||               |                             |- EM review                        |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 16|  || EM            | - `GPG EM`_                 |- IP lecture 1                     |                              |              |            |
+|     | 16|  || EM            | - `GPG EM`_                 |- `IP lecture 1`_                  |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|Nov  | 19|12|| IP            | - `GPG IP`_                 |- DC/IP review                     | - `Lab 9 EM 2`_              |              | `Doug`_    |
+|Nov  | 19|12|| IP            | - `GPG IP`_                 |- `DC/IP review`_                  | - `Lab 9 EM 2`_              |              | `Doug`_    |
 |     |   |  ||               | - `GPG IP`_                 |                                   | - `em-31.xls`_               |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
@@ -164,7 +164,7 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 30|  ||               |                             |- Final wrap-up & assessment       |                              |              |            |
+|     | 30|  ||               |                             |- `Final wrap-up & assessment`_    |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
@@ -217,8 +217,10 @@ Latest course grades can be downloaded here: `Semester Grades`_.
 .. _EM lecture 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/EM_lecture1.pdf
 .. _EM lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/EM_lecture.pdf
 .. _EM lecture 4: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/EM_lecture1.pdf
-.. _Lecture 7 DC: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_DC/9_DC_Resistivity.pdf
-.. _Lecture 8 IP: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_DC/IP.pdf
+.. _IP lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/7_IP/IP_lecture.pdf
+.. _Final wrap-up & assessment: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/8_WrapUp/8_WrapUp2018.pdf
+.. _DC/IP review: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/7_IP/IP_lecture.pdf
+
 .. _Review Lecture: notpostedyet.html
 .. _Seismic review: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/SeismicStudyGuide.pdf
 
