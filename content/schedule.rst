@@ -11,7 +11,7 @@ This page will be updated regularly throughout the year, check it often.
 
 Latest course grades can be downloaded here: `Semester Grades`_.
 
-Midterm answers can be downloaded here: `Midterm answeres`_.
+Midterm answers can be downloaded here: `Midterm answers`_.
 
 
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
@@ -291,7 +291,7 @@ Midterm answers can be downloaded here: `Midterm answeres`_.
 .. _Seogi: skang@eos.ubc.ca
 
 .. _Semester Grades: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/Grades_20181203.xlsx
-.. _Midterm answers: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/Midterm2018_answers.xlsx
+.. _Midterm answers: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/Midterm2018_answers.pdf
 .. toctree::
     :hidden:
 
