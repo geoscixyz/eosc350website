@@ -54,15 +54,15 @@ Midterm answers can be downloaded here: `Midterm answers`_.
 |     |   |  ||               |                             |- `TBL 2 Team`_                    |- `Student Magnetic Data`_    |              |            |
 |     |   |  ||               |                             |- **Each TBL team brings a laptop**|                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 25|  || Seismic       |-  `GPG Seismic`_            |- `Seismic Lecture 1`_             |                              |              |   `Seogi`_ |
+|     | 25|  || Seismic       |-  `GPG Seismic`_            |- `Seismic Lecture 1`_             |                              |              |   `Devin`_ |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
-|     | 27|  ||               |                             |- `Seismic Lecture 2`_             |                              |              |   `Seogi`_ |
+|     | 27|  ||               |                             |- `Seismic Lecture 2`_             |                              |              |   `Devin`_ |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|     | 30|5 ||               |                             |- `Seismic Lecture 3`_             |-  `Lab 4 Seismic Part 1`_    |              |    `Mike`_ |
+|     | 30|5 ||               |                             |- `Seismic Lecture 3`_             |-  `Lab 4 Seismic Part 1`_    |              |   `Devin`_ |
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
@@ -74,7 +74,7 @@ Midterm answers can be downloaded here: `Midterm answers`_.
 |     |   |  ||               |                             |- Seismic review                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|     |  7|6 ||               |                             |-  Seismic Quiz                    |-  `Lab 5 Seismic Part 2`_    |              |   `Seogi`_ |
+|     |  7|6 ||               |                             |-  Seismic Quiz                    |-  `Lab 5 Seismic Part 2`_    |              |   `Devin`_ |
 |     |   |  ||               |                             |-  Equations                       |                              |              |            |
 |     |   |  ||               |                             |-  Quiz review                     |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
@@ -86,7 +86,7 @@ Midterm answers can be downloaded here: `Midterm answers`_.
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|     | 14|7 || Thanksgiving  |                             |                                   |-  Thanksgiving Week: NO LAB! |              |   `Seogi`_ |
+|     | 14|7 || Thanksgiving  |                             |                                   |-  Thanksgiving Week: NO LAB! |              |   `Devin`_ |
 |     |   |  || No class      |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
@@ -98,7 +98,7 @@ Midterm answers can be downloaded here: `Midterm answers`_.
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|     | 21|8 ||               |-  `TBL 4 Case History`_     |-  `TBL 4 Individual`_             |-  `Lab 6 GPR`_               |              |   `Seogi`_ |
+|     | 21|8 ||               |-  `TBL 4 Case History`_     |-  `TBL 4 Individual`_             |-  `Lab 6 GPR`_               |              |   `Devin`_ |
 |     |   |  ||               |                             |-  `TBL 4 Team`_                   |                              |              |            |
 |     |   |  ||               |                             |-  GPR Quiz                        |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
@@ -284,7 +284,7 @@ Midterm answers can be downloaded here: `Midterm answers`_.
 .. ------------- DATA -----------------
 .. _Student Magnetic Data: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/Student_MagData.xlsx
 .. ------------- TA -----------------------------
-.. _Devin: devinccowan@gmail.com
+.. _Devin: dcowan@eoas.ubc.ca
 .. _Thibaut: thast@eos.ubc.ca
 .. _Doug: doug@eos.ubc.ca
 .. _Mike: mmitchel@eoas.ubc.ca
