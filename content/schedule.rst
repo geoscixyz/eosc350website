@@ -38,7 +38,7 @@ Midterm answers can be downloaded here: `Midterm answers`_.
 |     |   |  ||               |                             |- `Magnetic Dipole applet`_        |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|     | 16|3 ||               |                             |-  `Lecture 5 Magnetics`_          |-  `Lab 2 Magnetics Part 1`_  |   `Mike`_    |   `Devin`_ |
+|     | 16|3 ||               |                             |-  `Lecture 5 Magnetics`_          |-  `Lab 2 Magnetics Part 1`_  |  `Devin`_    |   `Devin`_ |
 |     |   |  ||               |                             |-  `Magnetic Prism applet`_        |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
@@ -50,7 +50,7 @@ Midterm answers can be downloaded here: `Midterm answers`_.
 |     |   |  ||               |                             |                                   |                              |              |            |
 |     |   |  ||               |                             |                                   |                              |              |            |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+------------+
-|     | 23|4 ||               |-  `TBL 2 Case History`_     |-  `TBL 2 Individual`_             |- `Lab 3 Magnetics Part 2`_   |   `Mike`_    |   `Devin`_ |
+|     | 23|4 ||               |-  `TBL 2 Case History`_     |-  `TBL 2 Individual`_             |- `Lab 3 Magnetics Part 2`_   |  `Devin`_    |   `Devin`_ |
 |     |   |  ||               |                             |- `TBL 2 Team`_                    |- `Student Magnetic Data`_    |              |            |
 |     |   |  ||               |                             |- **Each TBL team brings a laptop**|                              |              |            |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              +--------------+------------+
