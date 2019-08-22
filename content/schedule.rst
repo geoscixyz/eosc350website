@@ -239,16 +239,16 @@ Midterm answers can be downloaded here: `Midterm answers`_.
 .. _em-31.xls: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/em-31.xls
 
 .. ------------- Apps ---------------------------
-.. _Magnetic Dipole Applet: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2FMagneticDipoleApplet.ipynb
-.. _Magnetic Prism Applet: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2FMagneticPrismApplet.ipynb
-.. _Seismic Refraction App: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2SeisRefracSurvey.ipynb
-.. _Seismic Reflection App: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2SyntheticSeismogram.ipynb
-.. _GPR Attenuation App: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2Attenuation.ipynb
-.. _GPR Widget: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2GPRWidget.ipynb
-.. _EM App 1: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2Fem3loop.ipynb
-.. _EM App 2: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2FemPipe.ipynb
-.. _EM App ResponseFunc: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2ResponseFct.ipynb
-.. _DC App: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2DCLab.ipynb
+.. _Magnetic Dipole App: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2Fmag%2FMagneticDipoleApplet.ipynb
+.. _Magnetic Prism App: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2Fmag%2FMagneticPrismApplet.ipynb
+.. _Seismic Refraction App: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2Fseismic%2FSeis_Refraction.ipynb
+.. _Seismic Reflection App: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2Fseismic%2FSeis_Reflection.ipynb
+.. _GPR Attenuation App: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2Fgpr%2FGPR_Attenuation.ipynb
+.. _GPR Widget: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2Fgpr%2FGPR_TBL4_DOI_Resolution.ipynb
+.. _EM App 1: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2Fem%2FFDEM_3loop.ipynb
+.. _EM App 2: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2Fem%2FEM_Pipeline.ipynb
+.. _EM App ResponseFunc: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2FEM_EM31.ipynb
+.. _DC App: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2dcip%F2D_SurveyDataInversion.ipynb
 
 .. ------------- TBL ----------------------------
 .. _TBL 1 Individual: https://goo.gl/forms/ZFUiIKNZWTktetWJ3

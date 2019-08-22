@@ -68,24 +68,18 @@ Contact Information
 
 **Instructors:**
 
-- Doug Oldenburg:     doug@eos.ubc.ca, ESB 5194
-- Seogi Kang:         skang@eos.ubc.ca, ESB 4037
+- Devin Cowan:     dcowan@eoas.ubc.ca, ESB 4035 then turn right
 
 Office hours: contact the instructors via email to set up an appointment. Please include
 'EOSC350' in the subject line.
 
 **Teaching Assistants:**
 
-- Michael Mitchell: mmitchel@eoas.ubc.ca, ESB 4033
-- Thibaut Astic: tastic@eoas.ubc.ca, ESB 4037
+- TBA:
+- TBA:
 
 Office hours: contact the TA's by e-mail or in person for availability. Please include
 'EOSC350' in the subject line.
-
-**Additional Support:**
-
-- Devin Cowan: devinccowan@gmail.com
-- Dominique Fournier: dfournie@eoas.ubc.ca
 
 **Contents**
 

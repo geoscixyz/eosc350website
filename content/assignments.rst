@@ -11,7 +11,7 @@ Assignments
 
 
 .. image:: https://mybinder.org/badge.svg
-    :target: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=Notebooks%2Findex.ipynb
+    :target: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2Findex.ipynb
     :align: center
 
 .. **TBL 1**
