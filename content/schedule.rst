@@ -18,15 +18,15 @@ Midterm answers can be downloaded here: `Midterm answers`_.
 |month|day|wk|topics          |resources                    |activity                           |lab                           |TA            |
 |     |   |  |                |                             |                                   |                              |Contact       |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
-|Sept | 4 |1 || Introduction  |- `Syllabus`_                |- `Lecture 1 Intro`_               | No Lab                       |              |
+|Sept | 4 |1 || Introduction  |- `Syllabus`_                |- `Intro Lecture`_                 | No Lab                       |              |
 |     |   |  || and           |                             |                                   |                              |              |
 |     |   |  || Course Goals  |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
-|     | 6 |  || Physical      |- `GPG Physical Properties`_ |- `Lecture 2 Physical Properties`_ |                              |              |
+|     | 6 |  || Physical      |- `GPG Physical Properties`_ |- `Physical Properties Lecture`_   |                              |              |
 |     |   |  || Properties    |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
-|     |  9|2 || Seven step    |- `GPG Foundations`_         |- `Lecture 3 Framework`_           |- `Lab 1 Physical properties`_|  `Devin`_    |
+|     |  9|2 || Seven step    |- `GPG Foundations`_         |- `Framework Lecture`_             |- `Lab 1 Physical properties`_|  `Devin`_    |
 |     |   |  || framework for |                             |                                   |                              |              |
 |     |   |  || geophysics    |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
@@ -34,19 +34,19 @@ Midterm answers can be downloaded here: `Midterm answers`_.
 |     |   |  ||               |                             |- `TBL 1 Team`_  assigned          |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
-|     | 13|  || Magnetics     |- `GPG Magnetics`_           |- `Lecture 4 Magnetics`_           |                              |              |
+|     | 13|  || Magnetics     |- `GPG Magnetics`_           |- `Magnetics Lecture 1`_           |                              |              |
 |     |   |  ||               |- `Magnetic Dipole App`_     |                                   |                              |              |
 |     |   |  ||               |- `Magnetic Prism App`_      |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
-|     | 16|3 || Magnetics     |                             |-  `Lecture 5 Magnetics`_          |-  `Lab 2 Magnetics Part 1`_  |  `Devin`_    |
+|     | 16|3 || Magnetics     |                             |-  `Magnetics Lecture  2`_         |-  `Lab 2 Magnetics Part 1`_  |  `Devin`_    |
 |     |   |  ||               |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
-|     | 18|  || Magnetics     |                             |-  `Lecture 6 Magnetics`_          |                              |              |
+|     | 18|  || Magnetics     |                             |-  `Magnetics Lecture 3`_          |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
-|     | 20|  || Magnetics     |                             |-  Lecture 7 Magnetics             |                              |              |
+|     | 20|  || Magnetics     |                             |-  `Magnetics Lecture 4`_          |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
@@ -78,11 +78,11 @@ Midterm answers can be downloaded here: `Midterm answers`_.
 |     |   |  ||               |                             |-  `TBL 3 Team`_                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
-|     |  9|  ||  GPR          | - `GPG GPR`_                |-  `GPR lecture 1`_                |                              |              |
+|     |  9|  ||  GPR          | - `GPG GPR`_                |-  `GPR Lecture 1`_                |                              |              |
 |     |   |  ||               | - `GPR Attenuation App`_    |                                   |                              |              |
 |     |   |  ||               | - `GPR Widget`_             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
-|     | 11|  ||  GPR          |                             |-  `GPR lecture 2`_                |                              |              |
+|     | 11|  ||  GPR          |                             |-  `GPR Lecture 2`_                |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
@@ -90,7 +90,7 @@ Midterm answers can be downloaded here: `Midterm answers`_.
 |     |   |  || No class      |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
-|     | 16|  ||  GPR          |                             |-  `GPR lecture 3`_                |                              |              |
+|     | 16|  ||  GPR          |                             |-  `GPR Lecture 3`_                |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
@@ -106,15 +106,15 @@ Midterm answers can be downloaded here: `Midterm answers`_.
 |     |   |  ||               |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
-|     | 25|  || DC            | - `GPG DC`_                 | - `DC lecture 1`_                 |                              |              |
+|     | 25|  || DC            | - `GPG DC`_                 | - `DC Lecture 1`_                 |                              |              |
 |     |   |  ||               | - `DC App`_                 |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
-|     | 28|9 || DC            |                             |-  `DC lecture 2`_                 |- `Lab 7 DC`_                 |              |
+|     | 28|9 || DC            |                             |-  `DC Lecture 2`_                 |- `Lab 7 DC`_                 |              |
 |     |   |  ||               |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
-|     | 30|  || DC            |                             |-  `DC lecture 3`_                 |                              |              |
+|     | 30|  || DC            |                             |-  `DC Lecture 3`_                 |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+  +----------------+-----------------------------+-----------------------------------+                              |              |
@@ -122,16 +122,16 @@ Midterm answers can be downloaded here: `Midterm answers`_.
 |     |   |  ||               |                             |- Midterm review                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
-|     | 4 |10|| EM            |- `GPG EM`_                  |- `EM lecture 1`_                  | - `Lab 8 EM 1`_              |              |
+|     | 4 |10|| EM            |- `GPG EM`_                  |- `EM Lecture 1`_                  | - `Lab 8 EM 1`_              |              |
 |     |   |  ||               |- `EM Loops App`_            |                                   |                              |              |
 |     |   |  ||               |- `EM Pipe App`_             |                                   |                              |              |
 |     |   |  ||               |- `EM 31 App`_               |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
-|     | 6 |  || EM            |                             |- `EM lecture 2`_                  |                              |              |
+|     | 6 |  || EM            |                             |- `EM Lecture 2`_                  |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
-|     | 8 |  || EM            |                             |- `EM lecture 3`_                  |                              |              |
+|     | 8 |  || EM            |                             |- `EM Lecture 3`_                  |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
@@ -139,7 +139,7 @@ Midterm answers can be downloaded here: `Midterm answers`_.
 |     |   |  || No class      |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
-|     | 13|  || EM            |                             | - `EM lecture 4`_                 |                              |              |
+|     | 13|  || EM            |                             | - `EM Lecture 4`_                 |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
@@ -147,7 +147,7 @@ Midterm answers can be downloaded here: `Midterm answers`_.
 |     |   |  ||               |                             | - `TBL 5 Individual`_             |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
-|     | 18|12|| IP            | - `GPG IP`_                 |- `IP lecture 1`_                  | - `Lab 9 EM 2`_              |              |
+|     | 18|12|| IP            | - `GPG IP`_                 |- `IP Lecture 1`_                  | - `Lab 9 EM 2`_              |              |
 |     |   |  ||               |                             |                                   | - `em-31.xls`_               |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
@@ -155,7 +155,7 @@ Midterm answers can be downloaded here: `Midterm answers`_.
 |     |   |  ||               |                             |- `TBL 6 Team`_                    |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
-|     |   |  ||               |                             |- Bonus Lecture!                   |                              |              |
+|     |   |  ||               |                             |- Wrap up lecture                  |                              |              |
 |     | 22|  ||               |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
@@ -190,42 +190,42 @@ Midterm answers can be downloaded here: `Midterm answers`_.
 .. _GPG IP: https://gpg.geosci.xyz/content/induced_polarization/index.html#induced-polarization
 
 .. ------------- Lectures -----------------------
-.. _Lecture 1 Intro: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/0_PhysicalProperties/course_intro.pdf
-.. _Lecture 2 Physical Properties: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/0_PhysicalProperties/physical_properties.pdf
-.. _Lecture 3 Framework: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/1_Foundations/framework.pdf
-.. _Lecture 4 Magnetics: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/2_Magnetics/Magnetics.pdf
-.. _Lecture 5 Magnetics: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/2_Magnetics/Magnetics.pdf
-.. _Lecture 6 Magnetics: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/2_Magnetics/Magnetics.pdf
-.. _Lecture 7 Magnetics: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/2_Magnetics/Magnetics.pdf
-.. _Seismic Lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/Seismology_lecture_1.pdf
-.. _Seismic Lecture 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/Seismology_lecture_2.pdf
-.. _Seismic Lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/Seismology_lecture_2.pdf
-.. _Seismic Lecture 4: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/3_Seismic/Seismology_lecture_4.pdf
-.. _Seismic Lecture 5: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/3_Seismic/Seismology_lecture_5.pdf
-.. _Seismic additional: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/NMO.pdf
-.. _Equations: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/Equations.pdf
-.. _Quiz review: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/QuizReview.pdf
-.. _TBL review: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/TBLreview.pdf
-.. _Midterm Overview Seismic: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/Midterm2018_SeismicReview.pdf
-.. _GPR Lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/GPR_lecture_1.pdf
-.. _GPR Lecture 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/GPR_lecture_2.pdf
-.. _GPR Lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/GPR_lecture_3.pdf
-.. _GPR Equation Sheet: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/GPR_Equation_Sheet.png
-.. _Midterm Review: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/Midterm_Review_Questions.pdf
-.. _DC Lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DC/DCR_lecture1.pdf
-.. _DC Lecture 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DC/DCR_lecture2.pdf
-.. _DC Lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DC/DCR_lecture2.pdf
-.. _EM lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/EM_lecture1.pdf
-.. _em_intro_tasks.pptx: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/em_intro_tasks.pptx
-.. _EM lecture 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/EM_lecture1.pdf
-.. _EM lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/EM_lecture.pdf
-.. _EM lecture 4: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/EM_lecture1.pdf
-.. _IP lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/7_IP/IP_lecture.pdf
-.. _Final wrap-up & assessment: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/8_WrapUp/8_WrapUp2018.pdf
-.. _DC/IP review: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/7_IP/IP_lecture.pdf
+.. _Intro Lecture: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/1_Foundations/1_course_intro.pdf
+.. _Physical Properties Lecture: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/1_Foundations/2_physical_properties.pdf
+.. _Framework Lecture: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/1_Foundations/3_framework.pdf
+.. _Magnetics Lecture 1: https://github.com/geoscixyz/eosc350website/raw/master/assets/2019/2_Magnetics/1_Magnetics.pdf
+.. _Magnetics Lecture 2: https://github.com/geoscixyz/eosc350website/raw/master/assets/2019/2_Magnetics/2_Magnetics.pdf
+.. _Magnetics Lecture 3: https://github.com/geoscixyz/eosc350website/raw/master/assets/2019/2_Magnetics/3_Magnetics.pdf
+.. _Magnetics Lecture 4: https://github.com/geoscixyz/eosc350website/raw/master/assets/2019/2_Magnetics/4_Magnetics.pdf
+.. _Seismic Lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/3_Seismic/Seismology_lecture_1.pdf
+.. _Seismic Lecture 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/3_Seismic/Seismology_lecture_2.pdf
+.. _Seismic Lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/3_Seismic/Seismology_lecture_2.pdf
+.. _Seismic Lecture 4: https://github.com/geoscixyz/eosc350website/raw/master/assets/2019/3_Seismic/Seismology_lecture_4.pdf
+.. _Seismic Lecture 5: https://github.com/geoscixyz/eosc350website/raw/master/assets/2019/3_Seismic/Seismology_lecture_5.pdf
+.. _Seismic additional: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/3_Seismic/NMO.pdf
+.. _Equations: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/3_Seismic/Equations.pdf
+.. _Quiz review: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/3_Seismic/QuizReview.pdf
+.. _TBL review: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/3_Seismic/TBLreview.pdf
+.. _Midterm Overview Seismic: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/3_Seismic/Midterm2019_SeismicReview.pdf
+.. _GPR Lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/4_GPR/GPR_lecture_1.pdf
+.. _GPR Lecture 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/4_GPR/GPR_lecture_2.pdf
+.. _GPR Lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/4_GPR/GPR_lecture_3.pdf
+.. _GPR Equation Sheet: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/4_GPR/GPR_Equation_Sheet.png
+.. _Midterm Review: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/Midterm_Review_Questions.pdf
+.. _DC Lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/5_DC/DCR_lecture_1.pdf
+.. _DC Lecture 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/5_DC/DCR_lecture_2.pdf
+.. _DC Lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/5_DC/DCR_lecture_3.pdf
+.. _EM Lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/6_EM/EM_lecture_1.pdf
+.. _em_intro_tasks.pptx: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/6_EM/em_intro_tasks.pptx
+.. _EM Lecture 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/6_EM/EM_lecture_2.pdf
+.. _EM Lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/6_EM/EM_lecture_3.pdf
+.. _EM Lecture 4: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/6_EM/EM_lecture_4.pdf
+.. _IP Lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/7_IP/IP_lecture.pdf
+.. _Final wrap-up & assessment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/8_WrapUp/8_WrapUp2019.pdf
+.. _DC/IP review: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/7_IP/IP_lecture.pdf
 
 .. _Review Lecture: notpostedyet.html
-.. _Seismic review: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/SeismicStudyGuide.pdf
+.. _Seismic review: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/SeismicStudyGuide.pdf
 
 .. ------------- Labs ---------------------------
 .. _Lab 1 Physical Properties: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/0_PhysicalProperties/Lab1_Student_Copy.pdf
