@@ -31,7 +31,7 @@ Midterm answers can be downloaded here: `Midterm answers`_.
 |     |   |  || geophysics    |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
 |     | 11|  ||               |- `TBL 1 Case History`_      |- **Phys Prop Quiz**               |                              |              |
-|     |   |  ||               |                             |- `TBL 1 Team`_  assigned          |                              |              |
+|     |   |  ||               |                             |- `TBL 1 Assignment`_              |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
 |     | 13|  || Magnetics     |- `GPG Magnetics`_           |- `Magnetics Lecture 1`_           |                              |              |
@@ -51,7 +51,7 @@ Midterm answers can be downloaded here: `Midterm answers`_.
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
 |     | 23|4 || Magnetics     |-  `TBL 2 Case History`_     |- **Magnetics Quiz**               |- `Lab 3 Magnetics Part 2`_   |  `Devin`_    |
-|     |   |  ||               |                             |- `TBL 2 Team`_   assigned         |- `Student Magnetic Data`_    |              |
+|     |   |  ||               |                             |- `TBL 2 Assignment`_              |- `Student Magnetic Data`_    |              |
 |     |   |  ||               |                             |- **Each TBL team brings a laptop**|                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
 |     | 25|  || Seismic       |- `GPG Seismic`_             |- `Seismic Lecture 1`_             |                              |              |
@@ -75,7 +75,7 @@ Midterm answers can be downloaded here: `Midterm answers`_.
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
 |     |  7|6 || Seismic       |-  `TBL 3 Case History`_     |-  **Seismic Quiz**                |-  `Lab 5 Seismic Part 2`_    |              |
-|     |   |  ||               |                             |-  `TBL 3 Team`_                   |                              |              |
+|     |   |  ||               |                             |-  `TBL 3 Assignment`_             |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
 |     |  9|  ||  GPR          | - `GPG GPR`_                |-  `GPR Lecture 1`_                |                              |              |
@@ -94,9 +94,9 @@ Midterm answers can be downloaded here: `Midterm answers`_.
 |     |   |  ||               |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
-|     | 18|  ||  GPR          | -  `TBL 4 Case History`_    | -  `TBL 4 Individual`_            |                              |              |
-|     |   |  ||               |                             | -  `TBL 4 Team`_                  |                              |              |
-|     |   |  ||               |                             | -  GPR Quiz                       |                              |              |
+|     | 18|  ||  GPR          | -  `TBL 4 Case History`_    | -  **GPR Quiz**                   |                              |              |
+|     |   |  ||               |                             | -  `TBL 4 Assignment`_            |                              |              |
+|     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
 |     | 21|8 ||  GPR          |                             | - Review Lecture                  |-  `Lab 6 GPR`_               |              |
 |     |   |  ||               |                             |                                   |                              |              |
@@ -144,26 +144,26 @@ Midterm answers can be downloaded here: `Midterm answers`_.
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
 |     | 15|  || EM            |                             | - **EM Quiz**                     |                              |              |
-|     |   |  ||               |                             | - `TBL 5 Individual`_             |                              |              |
+|     |   |  ||               |                             | - `TBL 5 Assignment`_             |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
 |     | 18|12|| IP            | - `GPG IP`_                 |- `IP Lecture 1`_                  | - `Lab 9 EM 2`_              |              |
 |     |   |  ||               |                             |                                   | - `em-31.xls`_               |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
-|     | 20|  || IP            | - `TBL 6 Case History`_     |- `TBL 6 Individual (DC/IP)`_      |                              |              |
-|     |   |  ||               |                             |- `TBL 6 Team`_                    |                              |              |
+|     | 20|  || IP            | - `TBL 6 Case History`_     |- `TBL 6 Assignment`_              |                              |              |
+|     |   |  ||               |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
-|     |   |  ||               |                             |- Wrap up lecture                  |                              |              |
+|     |   |  || Review        |                             |- Wrap up lecture                  |                              |              |
 |     | 22|  ||               |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
-|     | 25|13||               |                             |- Review Lecture 1                 | - No Lab!                    |              |
+|     | 25|13|| Review        |                             |- Review Lecture 1                 | - No Lab!                    |              |
 |     |   |  ||               |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
-|     | 27|  ||               |                             |- Review Lecture 2                 |                              |              |
+|     | 27|  || Review        |                             |- Review Lecture 2                 |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
@@ -176,7 +176,7 @@ Midterm answers can be downloaded here: `Midterm answers`_.
 .. ============= Links ==========================
 
 .. ------------- General ------------------------
-.. _Syllabus: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/syllabus2018.pdf
+.. _Syllabus: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/syllabus2019.pdf
 
 
 .. ------------- GPG ----------------------------
@@ -254,18 +254,12 @@ Midterm answers can be downloaded here: `Midterm answers`_.
 
 
 .. ------------- TBL ----------------------------
-.. _TBL 1 Individual: https://goo.gl/forms/ZFUiIKNZWTktetWJ3
-.. _TBL 1 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/0_PhysicalProperties/TBL1Team.pdf
-.. _TBL 2 Individual: https://goo.gl/forms/TKHAhdQCU8iLKZMo2
-.. _TBL 2 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/TBL2_team.docx
-.. _TBL 3 Individual: https://goo.gl/forms/0k1XWF4669YBICeB3
-.. _TBL 3 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/TBL3_team.pdf
-.. _TBL 4 Individual: https://goo.gl/forms/NxgycBrbzxYV61EA3
-.. _TBL 4 Team: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/4_GPR/TBL4_Team.pdf
-.. _TBL 5 Individual: https://goo.gl/forms/0eX723mpqcWAj0Ss1
-.. _TBL 5 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DCIP/TBL5_team_2018_student_copy.pdf
-.. _TBL 6 Individual (DC/IP): https://goo.gl/forms/begeWSBdn6p530CJ3
-.. _TBL 6 Team: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/7_IP/TBL6_team.pdf
+.. _TBL 1 Assignment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/1_Foundations/TBL1_StudentCopy.pdf
+.. _TBL 2 Assignment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/2_Magnetics/TBL2_StudentCopy.docx
+.. _TBL 3 Assignment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/3_Seismic/TBL3_StudentCopy.pdf
+.. _TBL 4 Assignment: https://github.com/geoscixyz/eosc350website/raw/master/assets/2019/4_GPR/TBL4_StudentCopy.pdf
+.. _TBL 5 Assignment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/5_DCIP/TBL5_StudentCopy.pdf
+.. _TBL 6 Assignment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/7_IP/TBL6_StudentCopy.pdf
 
 .. ------------- Question bank ----------------------------
 .. _Physical Properties_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/Intro_properties.pdf
