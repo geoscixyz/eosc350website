@@ -11,9 +11,9 @@ This page will be updated regularly throughout the year, check it often.
 
 .. .. note:: See the :ref:`Assignments <assignments>` page for a list of all your assignments and DUE DATES!
 
-..Latest course grades can be downloaded here: `Semester Grades`_.
+.. Latest course grades can be downloaded here: `Semester Grades`_.
 
-..Midterm answers can be downloaded here: `Midterm answers`_.
+.. Midterm answers can be downloaded here: `Midterm answers`_.
 
 
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
