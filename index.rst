@@ -3,9 +3,7 @@
 EOSC 350: Environmental, Geotechnical and Exploration Geophysics I
 ==================================================================
 
- .. note:: `Teams`_ for TBL have been created.
-
- .. note:: `TBL 2 Individual`_ online quizz is available here and through the course schedule. Due September 24th 2018.
+ .. note:: `Teams`_ for TBL have **not been** created yet.
 
 .. _TBL 2 Individual: https://docs.google.com/forms/d/e/1FAIpQLSfkTk_DSev92psN-kio3rMInnSjh-OtmnR5dZ8vL3gS35NZew/viewform
 
@@ -39,7 +37,7 @@ Case history analysis of environmental and geotechnical problems.
 
 .. - `350 teams`_
 
-.. _Course syllabus: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/syllabus2018.pdf
+.. _Course syllabus: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/syllabus2019.pdf
 
 .. _350 teams: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/teams.pdf
 
@@ -53,11 +51,11 @@ Course Times
 **Labs:**
 
 - Section L1A: Mon   15:00-17:00 in EOS Main 203
-- Section L1C: Tue   13:00-15:00 in EOS Main 203
+- Section L1B: Tue   13:00-15:00 in EOS Main 203
 
 **TBL Teams:**
 
-- `Teams`_
+.. - `Teams`_
 
 .. _Teams: https://www.dropbox.com/s/ykizfe9sur9tf4k/Teams_2018.pdf?dl=1
 
