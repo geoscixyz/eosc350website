@@ -15,7 +15,7 @@ This page will be updated regularly throughout the year, check it often.
 **Your name and team number for TBL assignments can be found here:** `Teams 2019`_
 
 
-..Latest course grades can be downloaded here: `Semester Grades`_.
+.. Latest course grades can be downloaded here: `Semester Grades`_.
 
 .. Midterm answers can be downloaded here: `Midterm answers`_.
 
