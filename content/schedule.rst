@@ -11,6 +11,10 @@ This page will be updated regularly throughout the year, check it often.
 
 .. .. note:: See the :ref:`Assignments <assignments>` page for a list of all your assignments and DUE DATES!
 
+
+**Your name and team number for TBL assignments can be found here:** `Teams 2019`_
+
+
 ..Latest course grades can be downloaded here: `Semester Grades`_.
 
 ..Midterm answers can be downloaded here: `Midterm answers`_.
@@ -179,6 +183,7 @@ This page will be updated regularly throughout the year, check it often.
 
 .. ------------- General ------------------------
 .. _Syllabus: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/syllabus2019.pdf
+.. _Teams 2019: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/Teams.txt
 
 
 .. ------------- GPG ----------------------------
