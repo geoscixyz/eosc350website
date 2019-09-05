@@ -17,7 +17,7 @@ This page will be updated regularly throughout the year, check it often.
 
 ..Latest course grades can be downloaded here: `Semester Grades`_.
 
-..Midterm answers can be downloaded here: `Midterm answers`_.
+.. Midterm answers can be downloaded here: `Midterm answers`_.
 
 
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
