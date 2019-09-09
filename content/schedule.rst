@@ -11,6 +11,10 @@ This page will be updated regularly throughout the year, check it often.
 
 .. .. note:: See the :ref:`Assignments <assignments>` page for a list of all your assignments and DUE DATES!
 
+
+**Your name and team number for TBL assignments can be found here:** `Teams 2019`_
+
+
 .. Latest course grades can be downloaded here: `Semester Grades`_.
 
 .. Midterm answers can be downloaded here: `Midterm answers`_.
@@ -179,6 +183,7 @@ This page will be updated regularly throughout the year, check it often.
 
 .. ------------- General ------------------------
 .. _Syllabus: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/syllabus2019.pdf
+.. _Teams 2019: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/Teams.txt
 
 
 .. ------------- GPG ----------------------------
@@ -230,7 +235,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Seismic review: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/SeismicStudyGuide.pdf
 
 .. ------------- Labs ---------------------------
-.. _Lab 1 Physical Properties: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/0_PhysicalProperties/Lab1_Student_Copy.pdf
+.. _Lab 1 Physical Properties: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/1_Foundations/Lab1_Student_Copy.pdf
 .. _Lab 2 Magnetics Part 1: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/2_Magnetics/Lab2_Students.pdf
 .. _Lab 3 Magnetics Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/Lab3.pdf
 .. _Lab 4 Seismic Part 1: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/3_Seismic/Lab4.pdf
@@ -256,12 +261,12 @@ This page will be updated regularly throughout the year, check it often.
 
 
 .. ------------- TBL ----------------------------
-.. _TBL 1 Assignment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/1_Foundations/TBL1_StudentCopy.pdf
-.. _TBL 2 Assignment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/2_Magnetics/TBL2_StudentCopy.docx
-.. _TBL 3 Assignment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/3_Seismic/TBL3_StudentCopy.pdf
-.. _TBL 4 Assignment: https://github.com/geoscixyz/eosc350website/raw/master/assets/2019/4_GPR/TBL4_StudentCopy.pdf
-.. _TBL 5 Assignment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/5_DCIP/TBL5_StudentCopy.pdf
-.. _TBL 6 Assignment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/7_IP/TBL6_StudentCopy.pdf
+.. _TBL 1 Assignment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/1_Foundations/TBL1_Student_Copy.pdf
+.. _TBL 2 Assignment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/2_Magnetics/TBL2_Student_Copy.docx
+.. _TBL 3 Assignment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/3_Seismic/TBL3_Student_Copy.pdf
+.. _TBL 4 Assignment: https://github.com/geoscixyz/eosc350website/raw/master/assets/2019/4_GPR/TBL4_Student_Copy.pdf
+.. _TBL 5 Assignment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/5_DCIP/TBL5_Student_Copy.pdf
+.. _TBL 6 Assignment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/7_IP/TBL6_Student_Copy.pdf
 
 .. ------------- Question bank ----------------------------
 .. _Physical Properties_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/Intro_properties.pdf

@@ -1,0 +1,49 @@
+Surname             Given Name          TEAM
+-----------------------------------------------
+Alphonso            Daniel              1
+Brezanoczy Edwards  Paul                1
+Cheang              Jeffrey             1
+Cheng               Josh                1
+Cleghorn            Andrew              1
+Dhanoa              Tavjot              1
+ElAmir              Nouran              2
+Farahat             Omar                2
+Fretier-Gauvin      Émile               2
+Fu                  Jordan              2
+Fuhr                Justin              2
+Gibbard             Lars                2
+Gordon              Chance              3
+Hughes              Maddy               3
+Jeffery             Bradley             3
+Johnson             David               3
+Kelly               Justin              3
+Khairul Izman       Wan Azhar Zulka     3
+Ma                  Andrew              4
+Mejia               Nick                4
+Mercer              Kendra              4
+Musaev              Nodir               4
+Musinga             Arlena              4
+Myrol               Lucy                4
+Naylor              Annika              5
+Ng                  Matthew             5
+O'Connor            Ben                 5
+Ong                 Jacob               5
+Perico              Lorenzo             5
+Robinson            Ciaran              5
+Rurange             Yohann              6
+Sarrazin            Chris               6
+Sherwood            Meghan              6
+Smith               Andrew              6
+Spielmann           Raffaele            6
+Thakur              Kshitijendra        6
+Uthayakumar         Piradeepan          7
+Valerio             Christian           7
+Vandenburg          Eric                7
+Vo                  Thu                 7
+Wang                Wenjing             7
+Weiss               Matthew             8
+Weller              Morgan              8
+Westerlund          Katherine           8
+Wong                Vincent             8
+Xia                 Charles             8
+Zhang               Lulu                8
