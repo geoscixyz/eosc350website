@@ -39,7 +39,7 @@ Case history analysis of environmental and geotechnical problems.
 
 .. _Course syllabus: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/syllabus2019.pdf
 
-.. _350 teams: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/teams.pdf
+**Your name and team number for TBL assignments can be found here:** `Teams 2019`_
 
 Course Times
 ------------
@@ -73,8 +73,7 @@ Office hours: contact the instructors via email to set up an appointment. Please
 
 **Teaching Assistants:**
 
-- TBA:
-- TBA:
+- Lucas Fabbri:     lucasfabbri18@gmail.com
 
 Office hours: contact the TA's by e-mail or in person for availability. Please include
 'EOSC350' in the subject line.
