@@ -37,8 +37,8 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  || geophysics    |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
 |     | 11|  ||               |- `TBL 1 Case History`_      |- **Phys Prop Quiz**               |                              |              |
-|     |   |  ||               |                             |- `Physical Properties_QB`_        |                              |              |
-|     |   |  ||               |                             |- `TBL 1 Assignment`_              |                              |              |
+|     |   |  ||               |- `Prop Practice Questions`_ |- `TBL 1 Assignment`_              |                              |              |
+|     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
 |     | 13|  || Magnetics     |- `GPG Magnetics`_           |- `Magnetics Lecture 1`_           |                              |              |
 |     |   |  ||               |- `Magnetic Dipole App`_     |                                   |                              |              |
@@ -56,9 +56,9 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
-|     | 23|4 || Magnetics     |-  `TBL 2 Case History`_     |- **Magnetics Quiz**               |- `Lab 3 Magnetics Part 2`_   |  `Devin`_    |
-|     |   |  ||               |                             |- `TBL 2 Assignment`_              |- `Student Magnetic Data`_    |              |
-|     |   |  ||               |                             |- `Magnetics_QB`_                  |                              |              |
+|     | 23|4 || Magnetics     |- `TBL 2 Case History`_      |- **Magnetics Quiz**               |- `Lab 3 Magnetics Part 2`_   |  `Devin`_    |
+|     |   |  ||               |- `Mag Practice Questions`_  |- `TBL 2 Assignment`_              |- `Student Magnetic Data`_    |              |
+|     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
 |     | 25|  || Seismic       |- `GPG Seismic`_             |- `Seismic Lecture 1`_             |                              |              |
 |     |   |  ||               |- `Seismic Refraction App`_  |                                   |                              |              |
@@ -80,9 +80,9 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
-|     |  7|6 || Seismic       |-  `TBL 3 Case History`_     |-  **Seismic Quiz**                |-  `Lab 5 Seismic Part 2`_    |              |
-|     |   |  ||               |                             |-  `TBL 3 Assignment`_             |                              |              |
-|     |   |  ||               |                             |- `Seismics_QB`_                   |                              |              |
+|     |  7|6 || Seismic       |- `TBL 3 Case History`_      |-  **Seismic Quiz**                |-  `Lab 5 Seismic Part 2`_    |              |
+|     |   |  ||               |- `Seis Practice Questions`_ |-  `TBL 3 Assignment`_             |                              |              |
+|     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
 |     |  9|  ||  GPR          | - `GPG GPR`_                |-  `GPR Lecture 1`_                |                              |              |
 |     |   |  ||               | - `GPR Attenuation App`_    |                                   |                              |              |
@@ -101,8 +101,8 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
 |     | 18|  ||  GPR          | -  `TBL 4 Case History`_    | -  **GPR Quiz**                   |                              |              |
-|     |   |  ||               |                             | -  `TBL 4 Assignment`_            |                              |              |
-|     |   |  ||               |                             | - `GPR_QB`_                       |                              |              |
+|     |   |  ||               | - `GPR Practice Questions`_ | -  `TBL 4 Assignment`_            |                              |              |
+|     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
 |     | 21|8 ||  GPR          |                             | - Review Lecture                  |-  `Lab 6 GPR`_               |              |
 |     |   |  ||               |                             |                                   |                              |              |
@@ -124,9 +124,9 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+  +----------------+-----------------------------+-----------------------------------+                              |              |
-|Nov  |  1|  || DC            |                             |- **DC Quiz**                      |                              |              |
+|Nov  |  1|  || DC            |- `DCIP Practice Questions`_ |- **DC Quiz**                      |                              |              |
 |     |   |  ||               |                             |- Midterm review                   |                              |              |
-|     |   |  ||               |                             |- `DCIP_QB`_                       |                              |              |
+|     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
 |     | 4 |10|| EM            |- `GPG EM`_                  |- `EM Lecture 1`_                  | - `Lab 8 EM 1`_              |              |
 |     |   |  ||               |- `EM Loops App`_            |                                   |                              |              |
@@ -149,9 +149,9 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
-|     | 15|  || EM            |                             | - **EM Quiz**                     |                              |              |
+|     | 15|  || EM            | - `EM Practice Questions`_  | - **EM Quiz**                     |                              |              |
 |     |   |  ||               |                             | - `TBL 5 Assignment`_             |                              |              |
-|     |   |  ||               |                             | - `EM_QB`_                        |                              |              |
+|     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
 |     | 18|12|| IP            | - `GPG IP`_                 |- `IP Lecture 1`_                  | - `Lab 9 EM 2`_              |              |
 |     |   |  ||               |                             |                                   | - `em-31.xls`_               |              |
@@ -269,12 +269,12 @@ This page will be updated regularly throughout the year, check it often.
 .. _TBL 6 Assignment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/7_IP/TBL6_Student_Copy.pdf
 
 .. ------------- Question bank ----------------------------
-.. _Physical Properties_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/Intro_properties.pdf
-.. _Magnetics_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/Magnetics.pdf
-.. _Seismics_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/Seismic.pdf
-.. _GPR_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/GPR.pdf
-.. _DCIP_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/DCIP.pdf
-.. _EM_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/EM.pdf
+.. _Prop Practice Questions: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/Intro_properties.pdf
+.. _Mag Practice Questions: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/Magnetics.pdf
+.. _Seis Practice Questions: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/Seismic.pdf
+.. _GPR Practice Questions: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/GPR.pdf
+.. _DCIP Practice Questions: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/DCIP.pdf
+.. _EM Practice Questions: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/EM.pdf
 
 .. ------------- Case Histories -----------------
 .. _TBL 1 Case History: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/0_PhysicalProperties/Hodgson_Ireland_First_Break_Aug_2009.pdf
