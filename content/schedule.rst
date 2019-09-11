@@ -32,8 +32,8 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  || Properties    |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
-|     |  9|2 || Seven step    |- `GPG Foundations`_         |- `Framework Lecture`_             |- `Lab 1 Physical properties`_|  `Devin`_    |
-|     |   |  || framework for |                             |                                   |                              |  `Lucas`_    |
+|     |  9|2 || Seven step    |- `GPG Foundations`_         |- `Framework Lecture`_             |- `Lab 1 Physical properties`_| - `Devin`_   |
+|     |   |  || framework for |                             |                                   |                              | - `Lucas`_   |
 |     |   |  || geophysics    |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
 |     | 11|  ||               |- `TBL 1 Case History`_      |- **Phys Prop Quiz**               |                              |              |
@@ -44,8 +44,8 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |- `Magnetic Dipole App`_     |                                   |                              |              |
 |     |   |  ||               |- `Magnetic Prism App`_      |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
-|     | 16|3 || Magnetics     |                             |-  `Magnetics Lecture  2`_         |-  `Lab 2 Magnetics Part 1`_  |  `Devin`_    |
-|     |   |  ||               |                             |                                   |                              |  `Lucas`_    |
+|     | 16|3 || Magnetics     |                             |-  `Magnetics Lecture  2`_         |-  `Lab 2 Magnetics Part 1`_  | - `Devin`_   |
+|     |   |  ||               |                             |                                   |                              | - `Lucas`_   |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
 |     | 18|  || Magnetics     |                             |-  `Magnetics Lecture 3`_          |                              |              |
@@ -56,8 +56,8 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
-|     | 23|4 || Magnetics     |- `TBL 2 Case History`_      |- **Magnetics Quiz**               |- Lab 3 Magnetics Part 2      |  `Devin`_    |
-|     |   |  ||               |- `Mag Practice Questions`_  |- `TBL 2 Assignment`_              |- Student Magnetic Data       |  `Lucas`_    |
+|     | 23|4 || Magnetics     |- `TBL 2 Case History`_      |- **Magnetics Quiz**               |- Lab 3 Magnetics Part 2      | - `Devin`_   |
+|     |   |  ||               |- `Mag Practice Questions`_  |- `TBL 2 Assignment`_              |- Student Magnetic Data       | - `Lucas`_   |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
 |     | 25|  || Seismic       |- `GPG Seismic`_             |- `Seismic Lecture 1`_             |                              |              |
@@ -68,8 +68,8 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
-|     | 30|5 || Seismic       |                             |- `Seismic Lecture 3`_             |- Lab 4 Seismic Part 1        |  `Devin`_    |
-|     |   |  ||               |                             |                                   |                              |  `Lucas`_    |
+|     | 30|5 || Seismic       |                             |- `Seismic Lecture 3`_             |- Lab 4 Seismic Part 1        | - `Devin`_   |
+|     |   |  ||               |                             |                                   |                              | - `Lucas`_   |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+  +----------------+-----------------------------+-----------------------------------+                              |              |
 | Oct |  2|  || Seismic       |                             |- `Seismic Lecture 4`_             |                              |              |
@@ -80,8 +80,8 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
-|     |  7|6 || Seismic       |- `TBL 3 Case History`_      |-  **Seismic Quiz**                |-  Lab 5 Seismic Part 2       |  `Devin`_    |
-|     |   |  ||               |- `Seis Practice Questions`_ |-  TBL 3 Assignment                |                              |  `Lucas`_    |
+|     |  7|6 || Seismic       |- `TBL 3 Case History`_      |-  **Seismic Quiz**                |-  Lab 5 Seismic Part 2       | - `Devin`_   |
+|     |   |  ||               |- `Seis Practice Questions`_ |-  TBL 3 Assignment                |                              | - `Lucas`_   |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
 |     |  9|  ||  GPR          | - `GPG GPR`_                |-  `GPR Lecture 1`_                |                              |              |
@@ -104,8 +104,8 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               | - `GPR Practice Questions`_ | -  TBL 4 Assignment               |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
-|     | 21|8 ||  GPR          |                             | - Review Lecture                  |-  Lab 6 GPR                  |  `Devin`_    |
-|     |   |  ||               |                             |                                   |                              |  `Lucas`_    |
+|     | 21|8 ||  GPR          |                             | - Review Lecture                  |-  Lab 6 GPR                  | - `Devin`_   |
+|     |   |  ||               |                             |                                   |                              | - `Lucas`_   |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
 |     | 23|  || Midterm       |                             |-  **Midterm**                     |                              |              |
@@ -116,8 +116,8 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               | - `DC App`_                 |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
-|     | 28|9 || DC            |                             |-  `DC Lecture 2`_                 |- Lab 7 DC                    |  `Devin`_    |
-|     |   |  ||               |                             |                                   |                              |  `Lucas`_    |
+|     | 28|9 || DC            |                             |-  `DC Lecture 2`_                 |- Lab 7 DC                    | - `Devin`_   |
+|     |   |  ||               |                             |                                   |                              | - `Lucas`_   |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
 |     | 30|  || DC            |                             |-  `DC Lecture 3`_                 |                              |              |
@@ -128,8 +128,8 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |- Midterm review                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
-|     | 4 |10|| EM            |- `GPG EM`_                  |- `EM Lecture 1`_                  | - Lab 8 EM 1                 |  `Devin`_    |
-|     |   |  ||               |- `EM Loops App`_            |                                   |                              |  `Lucas`_    |
+|     | 4 |10|| EM            |- `GPG EM`_                  |- `EM Lecture 1`_                  | - Lab 8 EM 1                 | - `Devin`_   |
+|     |   |  ||               |- `EM Loops App`_            |                                   |                              | - `Lucas`_   |
 |     |   |  ||               |- `EM Pipe App`_             |                                   |                              |              |
 |     |   |  ||               |- `EM 31 App`_               |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
@@ -153,8 +153,8 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             | - TBL 5 Assignment                |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
-|     | 18|12|| IP            | - `GPG IP`_                 |- `IP Lecture 1`_                  | - Lab 9 EM 2                 |  `Devin`_    |
-|     |   |  ||               |                             |                                   | - em-31.xls                  |  `Lucas`_    |
+|     | 18|12|| IP            | - `GPG IP`_                 |- `IP Lecture 1`_                  | - Lab 9 EM 2                 | - `Devin`_   |
+|     |   |  ||               |                             |                                   | - em-31.xls                  | - `Lucas`_   |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
 |     | 20|  || IP            | - `TBL 6 Case History`_     |- TBL 6 Assignment                 |                              |              |
