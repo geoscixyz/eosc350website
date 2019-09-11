@@ -41,7 +41,7 @@ Valerio             Christian           7
 Vandenburg          Eric                7
 Vo                  Thu                 7
 Wang                Wenjing             7
-Weiss               Matthew             8
+Weiss               Matthew             7
 Weller              Morgan              8
 Westerlund          Katherine           8
 Wong                Vincent             8
