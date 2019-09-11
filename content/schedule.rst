@@ -80,7 +80,7 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
-|     |  7|6 || Seismic       |- `TBL 3 Case History`_      |-  **Seismic Quiz**                |-  Lab 5 Seismic Part 2        |  `Devin`_    |
+|     |  7|6 || Seismic       |- `TBL 3 Case History`_      |-  **Seismic Quiz**                |-  Lab 5 Seismic Part 2       |  `Devin`_    |
 |     |   |  ||               |- `Seis Practice Questions`_ |-  TBL 3 Assignment                |                              |  `Lucas`_    |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
