@@ -56,8 +56,8 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
-|     | 23|4 || Magnetics     |- `TBL 2 Case History`_      |- **Magnetics Quiz**               |- `Lab 3 Magnetics Part 2`_   |  `Devin`_    |
-|     |   |  ||               |- `Mag Practice Questions`_  |- `TBL 2 Assignment`_              |- `Student Magnetic Data`_    |  `Lucas`_    |
+|     | 23|4 || Magnetics     |- `TBL 2 Case History`_      |- **Magnetics Quiz**               |- Lab 3 Magnetics Part 2      |  `Devin`_    |
+|     |   |  ||               |- `Mag Practice Questions`_  |- `TBL 2 Assignment`_              |- Student Magnetic Data       |  `Lucas`_    |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
 |     | 25|  || Seismic       |- `GPG Seismic`_             |- `Seismic Lecture 1`_             |                              |              |
@@ -68,7 +68,7 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
-|     | 30|5 || Seismic       |                             |- `Seismic Lecture 3`_             |-  `Lab 4 Seismic Part 1`_    |  `Devin`_    |
+|     | 30|5 || Seismic       |                             |- `Seismic Lecture 3`_             |- Lab 4 Seismic Part 1        |  `Devin`_    |
 |     |   |  ||               |                             |                                   |                              |  `Lucas`_    |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+  +----------------+-----------------------------+-----------------------------------+                              |              |
@@ -80,8 +80,8 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
-|     |  7|6 || Seismic       |- `TBL 3 Case History`_      |-  **Seismic Quiz**                |-  `Lab 5 Seismic Part 2`_    |  `Devin`_    |
-|     |   |  ||               |- `Seis Practice Questions`_ |-  `TBL 3 Assignment`_             |                              |  `Lucas`_    |
+|     |  7|6 || Seismic       |- `TBL 3 Case History`_      |-  **Seismic Quiz**                |-  Lab 5 Seismic Part 2        |  `Devin`_    |
+|     |   |  ||               |- `Seis Practice Questions`_ |-  TBL 3 Assignment                |                              |  `Lucas`_    |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
 |     |  9|  ||  GPR          | - `GPG GPR`_                |-  `GPR Lecture 1`_                |                              |              |
@@ -101,10 +101,10 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
 |     | 18|  ||  GPR          | -  `TBL 4 Case History`_    | -  **GPR Quiz**                   |                              |              |
-|     |   |  ||               | - `GPR Practice Questions`_ | -  `TBL 4 Assignment`_            |                              |              |
+|     |   |  ||               | - `GPR Practice Questions`_ | -  TBL 4 Assignment               |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
-|     | 21|8 ||  GPR          |                             | - Review Lecture                  |-  `Lab 6 GPR`_               |  `Devin`_    |
+|     | 21|8 ||  GPR          |                             | - Review Lecture                  |-  Lab 6 GPR                  |  `Devin`_    |
 |     |   |  ||               |                             |                                   |                              |  `Lucas`_    |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
@@ -116,7 +116,7 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               | - `DC App`_                 |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
-|     | 28|9 || DC            |                             |-  `DC Lecture 2`_                 |- `Lab 7 DC`_                 |  `Devin`_    |
+|     | 28|9 || DC            |                             |-  `DC Lecture 2`_                 |- Lab 7 DC                    |  `Devin`_    |
 |     |   |  ||               |                             |                                   |                              |  `Lucas`_    |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
@@ -128,7 +128,7 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |- Midterm review                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
-|     | 4 |10|| EM            |- `GPG EM`_                  |- `EM Lecture 1`_                  | - `Lab 8 EM 1`_              |  `Devin`_    |
+|     | 4 |10|| EM            |- `GPG EM`_                  |- `EM Lecture 1`_                  | - Lab 8 EM 1                 |  `Devin`_    |
 |     |   |  ||               |- `EM Loops App`_            |                                   |                              |  `Lucas`_    |
 |     |   |  ||               |- `EM Pipe App`_             |                                   |                              |              |
 |     |   |  ||               |- `EM 31 App`_               |                                   |                              |              |
@@ -150,14 +150,14 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
 |     | 15|  || EM            | - `EM Practice Questions`_  | - **EM Quiz**                     |                              |              |
-|     |   |  ||               |                             | - `TBL 5 Assignment`_             |                              |              |
+|     |   |  ||               |                             | - TBL 5 Assignment                |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
-|     | 18|12|| IP            | - `GPG IP`_                 |- `IP Lecture 1`_                  | - `Lab 9 EM 2`_              |  `Devin`_    |
-|     |   |  ||               |                             |                                   | - `em-31.xls`_               |  `Lucas`_    |
+|     | 18|12|| IP            | - `GPG IP`_                 |- `IP Lecture 1`_                  | - Lab 9 EM 2                 |  `Devin`_    |
+|     |   |  ||               |                             |                                   | - em-31.xls                  |  `Lucas`_    |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
-|     | 20|  || IP            | - `TBL 6 Case History`_     |- `TBL 6 Assignment`_              |                              |              |
+|     | 20|  || IP            | - `TBL 6 Case History`_     |- TBL 6 Assignment                 |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
@@ -236,8 +236,8 @@ This page will be updated regularly throughout the year, check it often.
 
 .. ------------- Labs ---------------------------
 .. _Lab 1 Physical Properties: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/1_Foundations/Lab1_Student_Copy.pdf
-.. _Lab 2 Magnetics Part 1: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/2_Magnetics/Lab2_Students.pdf
-.. _Lab 3 Magnetics Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/Lab3.pdf
+.. _Lab 2 Magnetics Part 1: https://github.com/geoscixyz/eosc350website/raw/master/assets/2019/2_Magnetics/Lab2_2019_Student_Copy.pdf
+.. _Lab 3 Magnetics Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/2_Magnetics/Lab3_2019_Student_Copy.pdf
 .. _Lab 4 Seismic Part 1: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/3_Seismic/Lab4.pdf
 .. _Lab 5 Seismic Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/Lab5.pdf
 .. _Lab 6 GPR: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/Lab6.pdf
