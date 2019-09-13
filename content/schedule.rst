@@ -262,7 +262,7 @@ This page will be updated regularly throughout the year, check it often.
 
 .. ------------- TBL ----------------------------
 .. _TBL 1 Assignment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/1_Foundations/TBL1_Student_Copy.pdf
-.. _TBL 2 Assignment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/2_Magnetics/TBL2_Student_Copy.docx
+.. _TBL 2 Assignment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/2_Magnetics/TBL2_Student_Copy.pdf
 .. _TBL 3 Assignment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/3_Seismic/TBL3_Student_Copy.pdf
 .. _TBL 4 Assignment: https://github.com/geoscixyz/eosc350website/raw/master/assets/2019/4_GPR/TBL4_Student_Copy.pdf
 .. _TBL 5 Assignment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/5_DCIP/TBL5_Student_Copy.pdf
