@@ -1,49 +1,50 @@
-Surname             Given Name          TEAM
------------------------------------------------
-Alphonso            Daniel              1
-Brezanoczy Edwards  Paul                1
-Cheang              Jeffrey             1
-Cheng               Josh                1
-Cleghorn            Andrew              1
-Dhanoa              Tavjot              1
-ElAmir              Nouran              2
-Farahat             Omar                2
-Fretier-Gauvin      Émile               2
-Fu                  Jordan              2
-Fuhr                Justin              2
-Gibbard             Lars                2
-Gordon              Chance              3
-Hughes              Maddy               3
-Jeffery             Bradley             3
-Johnson             David               3
-Kelly               Justin              3
-Khairul Izman       Wan Azhar Zulka     3
-Ma                  Andrew              4
-Mejia               Nick                4
-Mercer              Kendra              4
-Musaev              Nodir               4
-Musinga             Arlena              4
-Myrol               Lucy                4
-Naylor              Annika              5
-Ng                  Matthew             5
-O'Connor            Ben                 5
-Ong                 Jacob               5
-Perico              Lorenzo             5
-Robinson            Ciaran              5
-Rurange             Yohann              6
-Sarrazin            Chris               6
-Sherwood            Meghan              6
-Smith               Andrew              6
-Spielmann           Raffaele            6
-Thakur              Kshitijendra        6
-Uthayakumar         Piradeepan          7
-Valerio             Christian           7
-Vandenburg          Eric                7
-Vo                  Thu                 7
-Wang                Wenjing             7
-Weiss               Matthew             7
-Weller              Morgan              8
-Westerlund          Katherine           8
-Wong                Vincent             8
-Xia                 Charles             8
-Zhang               Lulu                8
+Surname             Given Name          TEAM        Lab Folder
+--------------------------------------------------------------------
+Alphonso            Daniel              1           user01
+Brezanoczy Edwards  Paul                1           user02
+Cheang              Jeffrey             1           user03
+Cheng               Josh                1           user04
+Cleghorn            Andrew              1           user05
+Dhanoa              Tavjot              1           user06
+ElAmir              Nouran              2           user07
+Farahat             Omar                2           user08
+Fretier-Gauvin      Émile               2           user09
+Fu                  Jordan              2           user10
+Fuhr                Justin              2           user11
+Gibbard             Lars                2           user12
+Gordon              Chance              3           user13
+Hughes              Maddy               3           user14
+Jeffery             Bradley             3           user15
+Johnson             David               3           user16
+Kelly               Justin              3           user17
+Khairul Izman       Wan Azhar Zulka     3           user18
+Ma                  Andrew              4           user19
+Mejia               Nick                4           user20
+Mercer              Kendra              4           user21
+Musaev              Nodir               4           user22
+Musinga             Arlena              4           user23
+Myrol               Lucy                4           user24
+Naylor              Annika              5           user25
+Ng                  Matthew             5           user26
+O'Connor            Ben                 5           user27
+Ong                 Jacob               5           user28
+Perico              Lorenzo             5           user29
+Robinson            Ciaran              5           user30
+Rurange             Yohann              6           user31
+Sarrazin            Chris               6           user32
+Sherwood            Meghan              6           user33
+Smith               Andrew              6           user34
+Spielmann           Raffaele            6           user35
+Thakur              Kshitijendra        6           user36
+Uthayakumar         Piradeepan          7           user37
+Valerio             Christian           7           user38
+Vandenburg          Eric                7           user39
+Vo                  Thu                 7           user40
+Wang                Wenjing             7           user41
+Weiss               Matthew             7           user42
+Weller              Morgan              8           user43
+Westerlund          Katherine           8           user44
+Wong                Vincent             8           user45
+Xia                 Charles             8           user46
+Zhang               Lulu                8           user47
+Schmygol            Bill                8           user48
