@@ -56,8 +56,8 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
-|     | 23|4 || Magnetics     |- `TBL 2 Case History`_      |- **Magnetics Quiz**               |- Lab 3 Magnetics Part 2      | - `Devin`_   |
-|     |   |  ||               |- `Mag Practice Questions`_  |- `TBL 2 Assignment`_              |- Student Magnetic Data       | - `Lucas`_   |
+|     | 23|4 || Magnetics     |- `TBL 2 Case History`_      |- **Magnetics Quiz**               |- `Lab 3 Magnetics Part 2`_   | - `Devin`_   |
+|     |   |  ||               |- `Mag Practice Questions`_  |- `TBL 2 Assignment`_              |- `Raw Magnetic Data`_        | - `Lucas`_   |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
 |     | 25|  || Seismic       |- `GPG Seismic`_             |- `Seismic Lecture 1`_             |                              |              |
@@ -286,7 +286,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _TBL 6 Case History: https://github.com/geoscixyz/eosc350website/raw/master/assets/2017/5_DCIP/DCIP_for_landfills_dahlin_FB_Aug_2010.pdf
 
 .. ------------- DATA -----------------
-.. _Student Magnetic Data: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/2_Magnetics/Student_MagData.xlsx
+.. _Raw Magnetic Data: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/2_Magnetics/RawData_2019.xlsx
 .. ------------- TA -----------------------------
 .. _Devin: dcowan@eoas.ubc.ca
 .. _Lucas: lucasfabbri18@gmail.com
