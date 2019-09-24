@@ -237,7 +237,7 @@ This page will be updated regularly throughout the year, check it often.
 .. ------------- Labs ---------------------------
 .. _Lab 1 Physical Properties: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/1_Foundations/Lab1_Student_Copy.pdf
 .. _Lab 2 Magnetics Part 1: https://github.com/geoscixyz/eosc350website/raw/master/assets/2019/2_Magnetics/Lab2_2019_Student_Copy.pdf
-.. _Lab 3 Magnetics Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/2_Magnetics/Lab3_2019_Student_Copy.pdf
+.. _Lab 3 Magnetics Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/2_Magnetics/Lab3_Student_Copy.pdf
 .. _Lab 4 Seismic Part 1: https://github.com/geoscixyz/eosc350website/raw/master/assets/2018/3_Seismic/Lab4.pdf
 .. _Lab 5 Seismic Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/Lab5.pdf
 .. _Lab 6 GPR: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/Lab6.pdf
