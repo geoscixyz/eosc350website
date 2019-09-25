@@ -286,7 +286,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _TBL 6 Case History: https://github.com/geoscixyz/eosc350website/raw/master/assets/2017/5_DCIP/DCIP_for_landfills_dahlin_FB_Aug_2010.pdf
 
 .. -------------- Quiz Answers ---------------------
-.. _Phys Props Quiz Answers: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/1_Foundations/Quiz_1_PhysProps_AnswerKey.pdf
+.. _Phys Prop Quiz Answers: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/1_Foundations/Quiz_1_PhysProps_AnswerKey.pdf
 .. _Magnetics Quiz Answers: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/2_Magnetics/Quiz_2_Mag_Answer_Key.pdf
 
 .. ------------- DATA -----------------
