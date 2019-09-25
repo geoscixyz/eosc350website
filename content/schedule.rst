@@ -36,7 +36,7 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  || framework for |                             |                                   |                              | - `Lucas`_   |
 |     |   |  || geophysics    |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
-|     | 11|  ||               |- `TBL 1 Case History`_      |- **Phys Prop Quiz**               |                              |              |
+|     | 11|  ||               |- `TBL 1 Case History`_      |- `Phys Prop Quiz Answers`_        |                              |              |
 |     |   |  ||               |- `Prop Practice Questions`_ |- `TBL 1 Assignment`_              |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
@@ -56,7 +56,7 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
-|     | 23|4 || Magnetics     |- `TBL 2 Case History`_      |- **Magnetics Quiz**               |- `Lab 3 Magnetics Part 2`_   | - `Devin`_   |
+|     | 23|4 || Magnetics     |- `TBL 2 Case History`_      |- `Magnetics Quiz Answers`_        |- `Lab 3 Magnetics Part 2`_   | - `Devin`_   |
 |     |   |  ||               |- `Mag Practice Questions`_  |- `TBL 2 Assignment`_              |- `Raw Magnetic Data`_        | - `Lucas`_   |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
@@ -284,6 +284,10 @@ This page will be updated regularly throughout the year, check it often.
 .. _GPR Movie: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/GPR_Wavefront_movie.zip
 .. _TBL 5 Case History: https://gpg.geosci.xyz/content/electromagnetics/electromagnetic_interpretation.html
 .. _TBL 6 Case History: https://github.com/geoscixyz/eosc350website/raw/master/assets/2017/5_DCIP/DCIP_for_landfills_dahlin_FB_Aug_2010.pdf
+
+.. -------------- Quiz Answers ---------------------
+.. _Phys Props Quiz Answers: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/1_Foundations/Quiz_1_PhysProps_AnswerKey.pdf
+.. _Magnetics Quiz Answers: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/2_Magnetics/Quiz_2_Mag_Answer_Key.pdf
 
 .. ------------- DATA -----------------
 .. _Raw Magnetic Data: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/2_Magnetics/RawData_2019.xlsx
