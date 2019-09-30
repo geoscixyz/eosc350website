@@ -206,7 +206,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Magnetics Lecture 4: https://github.com/geoscixyz/eosc350website/raw/master/assets/2019/2_Magnetics/4_Magnetics.pdf
 .. _Seismic Lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/3_Seismology/Seismology_lecture_1.pdf
 .. _Seismic Lecture 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/3_Seismology/Seismology_lecture_2.pdf
-.. _Seismic Lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/3_Seismology/Seismology_lecture_2.pdf
+.. _Seismic Lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/3_Seismology/Seismology_lecture_3.pdf
 .. _Seismic Lecture 4: https://github.com/geoscixyz/eosc350website/raw/master/assets/2019/3_Seismology/Seismology_lecture_4.pdf
 .. _Seismic Lecture 5: https://github.com/geoscixyz/eosc350website/raw/master/assets/2019/3_Seismology/Seismology_lecture_5.pdf
 .. _Seismic additional: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/3_Seismology/NMO.pdf
