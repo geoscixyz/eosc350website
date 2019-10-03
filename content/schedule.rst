@@ -80,7 +80,7 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
-|     |  7|6 || Seismic       |- `TBL 3 Case History`_      |-  **Seismic Quiz**                |-  Lab 5 Seismic Part 2       | - `Devin`_   |
+|     |  7|6 || Seismic       |- `TBL 3 Case History`_      |-  **Seismic Quiz**                |-  `Lab 5 Seismic Part 2`_    | - `Devin`_   |
 |     |   |  ||               |- `Seis Practice Questions`_ |-  TBL 3 Assignment                |                              | - `Lucas`_   |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
@@ -235,11 +235,11 @@ This page will be updated regularly throughout the year, check it often.
 .. _Seismic review: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/SeismicStudyGuide.pdf
 
 .. ------------- Labs ---------------------------
-.. _Lab 1 Physical Properties: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/1_Foundations/Lab1_Student_Copy.pdf
+.. _Lab 1 Physical Properties: https://github.com/geoscixyz/eosc350website/raw/master/assets/2019/1_Foundations/Lab1_Student_Copy.pdf
 .. _Lab 2 Magnetics Part 1: https://github.com/geoscixyz/eosc350website/raw/master/assets/2019/2_Magnetics/Lab2_2019_Student_Copy.pdf
-.. _Lab 3 Magnetics Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/2_Magnetics/Lab3_Student_Copy.pdf
+.. _Lab 3 Magnetics Part 2: https://github.com/geoscixyz/eosc350website/raw/master/assets/2019/2_Magnetics/Lab3_Student_Copy.pdf
 .. _Lab 4 Seismic Part 1: https://github.com/geoscixyz/eosc350website/raw/master/assets/2019/3_Seismology/Lab4_2019_Student_Copy.pdf
-.. _Lab 5 Seismic Part 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/3_Seismic/Lab5.pdf
+.. _Lab 5 Seismic Part 2: https://github.com/geoscixyz/eosc350website/raw/master/assets/2019/3_Seismology/Lab5_2019_Student_Copy.pdf
 .. _Lab 6 GPR: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/Lab6.pdf
 .. _Lab 7 DC: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DC/Lab7.pdf
 .. _Lab 8 EM 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/Lab8.pdf
