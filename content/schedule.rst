@@ -80,12 +80,12 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
-|     |  7|6 || Seismic       |- `TBL 3 Case History`_      |-  **Seismic Quiz**                |-  `Lab 5 Seismic Part 2`_    | - `Devin`_   |
-|     |   |  ||               |- `Seis Practice Questions`_ |-  TBL 3 Assignment                |                              | - `Lucas`_   |
+|     |  7|6 || Seismic       |- `TBL 3 Case History`_      |- TBL 3 Assignment                 |-  `Lab 5 Seismic Part 2`_    | - `Devin`_   |
+|     |   |  ||               |- `Seis Practice Questions`_ |                                   |                              | - `Lucas`_   |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
-|     |  9|  ||  GPR          | - `GPG GPR`_                |-  `GPR Lecture 1`_                |                              |              |
-|     |   |  ||               | - `GPR Attenuation App`_    |                                   |                              |              |
+|     |  9|  ||  GPR          | - `GPG GPR`_                |-  **Seismic Quiz**                |                              |              |
+|     |   |  ||               | - `GPR Attenuation App`_    |-  `GPR Lecture 1`_                |                              |              |
 |     |   |  ||               | - `GPR Widget`_             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
 |     | 11|  ||  GPR          |                             |-  `GPR Lecture 2`_                |                              |              |
