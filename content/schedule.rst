@@ -100,11 +100,11 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
-|     | 18|  ||  GPR          | -  `TBL 4 Case History`_    | - TBL 4 Assignment                |                              |              |
+|     | 18|  ||  GPR          | -  `TBL 4 Case History`_    | - `TBL 4 Assignment`_             |                              |              |
 |     |   |  ||               | - `GPR Practice Questions`_ |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
-|     | 21|8 ||  GPR          |                             | - Review Lecture                  |-  Lab 6 GPR                  | - `Devin`_   |
+|     | 21|8 ||  GPR          |                             | - Review Lecture                  |-  `Lab 6 GPR`_               | - `Devin`_   |
 |     |   |  ||               |                             |                                   |                              | - `Lucas`_   |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
@@ -240,7 +240,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Lab 3 Magnetics Part 2: https://github.com/geoscixyz/eosc350website/raw/master/assets/2019/2_Magnetics/Lab3_Student_Copy.pdf
 .. _Lab 4 Seismic Part 1: https://github.com/geoscixyz/eosc350website/raw/master/assets/2019/3_Seismology/Lab4_2019_Student_Copy.pdf
 .. _Lab 5 Seismic Part 2: https://github.com/geoscixyz/eosc350website/raw/master/assets/2019/3_Seismology/Lab5_2019_Student_Copy.pdf
-.. _Lab 6 GPR: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/4_GPR/Lab6.pdf
+.. _Lab 6 GPR: https://github.com/geoscixyz/eosc350website/raw/master/assets/2019/4_GPR/Lab6_2019_Student_Copy.pdf
 .. _Lab 7 DC: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DC/Lab7.pdf
 .. _Lab 8 EM 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/Lab8.pdf
 .. _Lab 9 EM 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/Lab9.docx
@@ -264,7 +264,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _TBL 1 Assignment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/1_Foundations/TBL1_Student_Copy.pdf
 .. _TBL 2 Assignment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/2_Magnetics/TBL2_Student_Copy.pdf
 .. _TBL 3 Assignment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/3_Seismology/TBL3_2019_Student_Copy.pdf
-.. _TBL 4 Assignment: https://github.com/geoscixyz/eosc350website/raw/master/assets/2019/4_GPR/TBL4_Student_Copy.pdf
+.. _TBL 4 Assignment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/4_GPR/TBL4_Student_Copy.pdf
 .. _TBL 5 Assignment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/5_DCIP/TBL5_Student_Copy.pdf
 .. _TBL 6 Assignment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/7_IP/TBL6_Student_Copy.pdf
 
