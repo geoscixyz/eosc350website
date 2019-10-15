@@ -84,7 +84,7 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |- `Seis Practice Questions`_ |                                   |                              | - `Lucas`_   |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
-|     |  9|  ||  GPR          | - `GPG GPR`_                |-  **Seismic Quiz**                |                              |              |
+|     |  9|  ||  GPR          | - `GPG GPR`_                |-  `Seismic Quiz Answers`_         |                              |              |
 |     |   |  ||               | - `GPR Attenuation App`_    |-  `GPR Lecture 1`_                |                              |              |
 |     |   |  ||               | - `GPR Widget`_             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
@@ -288,6 +288,7 @@ This page will be updated regularly throughout the year, check it often.
 .. -------------- Quiz Answers ---------------------
 .. _Phys Prop Quiz Answers: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/1_Foundations/Quiz_1_PhysProps_AnswerKey.pdf
 .. _Magnetics Quiz Answers: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/2_Magnetics/Quiz_2_Mag_Answer_Key.pdf
+.. _Seismic Quiz Answers: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/3_Seismology/Quiz_3_Seismic_Answer_Key
 
 .. ------------- DATA -----------------
 .. _Raw Magnetic Data: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/2_Magnetics/RawData_2019.xlsx
