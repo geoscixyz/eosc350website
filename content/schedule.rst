@@ -104,8 +104,8 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               | - `GPR Practice Questions`_ |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
-|     | 21|8 ||  GPR          |-`Practice Midterm`_         | - Review Lecture                  |-  `Lab 6 GPR`_               | - `Devin`_   |
-|     |   |  ||               |-`Practice Midterm Answers`_ |                                   |                              | - `Lucas`_   |
+|     | 21|8 ||  GPR          | - `Practice Midterm`_       | - Review Lecture                  |-  `Lab 6 GPR`_               | - `Devin`_   |
+|     |   |  ||               | - `Practice Midterm Ans`_   |                                   |                              | - `Lucas`_   |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
 |     | 23|  || Midterm       |                             |- **GPR Quiz**                     |                              |              |
@@ -290,7 +290,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Magnetics Quiz Answers: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/2_Magnetics/Quiz_2_Mag_Answer_Key.pdf
 .. _Seismic Quiz Answers: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/3_Seismology/Quiz_3_Seismic_Answer_Key.pdf
 .. _Practice Midterm: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/Exams/Midterm2018.pdf
-.. _Practice Midterm Answers: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/Exams/Midterm2018_answers.pdf
+.. _Practice Midterm Ans: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/Exams/Midterm2018_answers.pdf
 
 .. ------------- DATA -----------------
 .. _Raw Magnetic Data: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/2_Magnetics/RawData_2019.xlsx
