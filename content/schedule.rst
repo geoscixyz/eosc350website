@@ -106,7 +106,7 @@ This page will be updated regularly throughout the year, check it often.
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
 |     | 21|8 ||  GPR          | - `Practice Midterm`_       | - Review Lecture                  |-  `Lab 6 GPR`_               | - `Devin`_   |
 |     |   |  ||               | - `Practice Midterm Ans`_   |                                   |                              | - `Lucas`_   |
-|     |   |  ||               |                             |                                   |                              |              |
+|     |   |  ||               | - `Midterm Eq Sheet`_       |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
 |     | 23|  || Midterm       |                             |- **GPR Quiz**                     |                              |              |
 |     |   |  ||               |                             |- `DC Lecture 1`_                  |                              |              |
@@ -291,6 +291,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Seismic Quiz Answers: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/3_Seismology/Quiz_3_Seismic_Answer_Key.pdf
 .. _Practice Midterm: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/Exams/Midterm2018.pdf
 .. _Practice Midterm Ans: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/Exams/Midterm2018_answers.pdf
+.. _Midterm Eq Sheet: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/midterm_eq_sheet.png
 
 .. ------------- DATA -----------------
 .. _Raw Magnetic Data: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/2_Magnetics/RawData_2019.xlsx
