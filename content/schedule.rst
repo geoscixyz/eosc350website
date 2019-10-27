@@ -110,13 +110,13 @@ This page will be updated regularly throughout the year, check it often.
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
 |     | 23|  || DC            |                             |- **GPR Quiz**                     |                              |              |
 |     |   |  ||               |                             |- `DC Lecture 1`_                  |                              |              |
-|     |   |  ||               |                             |                                   |                              |              |
+|     |   |  ||               |                             |-  `GPR Quiz Answers`_             |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
 |     | 25|  || Midterm       | - `GPG DC`_                 | - **Midterm**                     |                              |              |
 |     |   |  ||               | - `DC App`_                 |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
-|     | 28|9 || DC            |                             |-  `DC Lecture 2`_                 |- Lab 7 DC                    | - `Devin`_   |
+|     | 28|9 || DC            |                             |-  `DC Lecture 2`_                 |- `Lab 7 DC`_                 | - `Devin`_   |
 |     |   |  ||               |                             |                                   |                              | - `Lucas`_   |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
@@ -241,7 +241,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Lab 4 Seismic Part 1: https://github.com/geoscixyz/eosc350website/raw/master/assets/2019/3_Seismology/Lab4_2019_Student_Copy.pdf
 .. _Lab 5 Seismic Part 2: https://github.com/geoscixyz/eosc350website/raw/master/assets/2019/3_Seismology/Lab5_2019_Student_Copy.pdf
 .. _Lab 6 GPR: https://github.com/geoscixyz/eosc350website/raw/master/assets/2019/4_GPR/Lab6_2019_Student_Copy.pdf
-.. _Lab 7 DC: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/5_DC/Lab7.pdf
+.. _Lab 7 DC: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/5_DC/Lab7/Lab7_Student_Copy.pdf
 .. _Lab 8 EM 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/Lab8.pdf
 .. _Lab 9 EM 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/Lab9.docx
 .. _em-31.xls: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/em-31.xls
@@ -253,7 +253,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Seismic Reflection App: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2Fseismic%2FSeis_Reflection.ipynb
 .. _GPR Attenuation App: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2Fgpr%2FGPR_Attenuation.ipynb
 .. _GPR Widget: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2Fgpr%2FGPR_TBL4_DOI_Resolution.ipynb
-.. _DC App: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2dcip%F2D_SurveyDataInversion.ipynb
+.. _DC App: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2dcip%DC_SurveyDataInversion.ipynb
 .. _EM Induction App: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2Fem%2FInductionRLcircuit_Harmonic.ipynb
 .. _EM Loops App: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2Fem%2FFDEM_ThreeLoopModel.ipynb
 .. _EM Pipe App: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2Fem%2FEM_Pipeline.ipynb
@@ -292,6 +292,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Practice Midterm: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/Exams/Midterm2018.pdf
 .. _Practice Midterm Ans: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/Exams/Midterm2018_answers.pdf
 .. _Midterm Eq Sheet: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/midterm_eq_sheet.png
+.. _GPR Quiz Answers: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/4_GPR/Quiz_4_GPR_Answer_Key_2019.pdf
 
 .. ------------- DATA -----------------
 .. _Raw Magnetic Data: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/2_Magnetics/RawData_2019.xlsx
