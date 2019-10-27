@@ -3,8 +3,6 @@
 EOSC 350: Environmental, Geotechnical and Exploration Geophysics I
 ==================================================================
 
- .. note:: `Teams`_ for TBL have **not been** created yet.
-
 .. _TBL 2 Individual: https://docs.google.com/forms/d/e/1FAIpQLSfkTk_DSev92psN-kio3rMInnSjh-OtmnR5dZ8vL3gS35NZew/viewform
 
 ..     - Sample questions for the final are available here (and on the schedule page):
@@ -23,6 +21,7 @@ EOSC 350: Environmental, Geotechnical and Exploration Geophysics I
 .. _GPR_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/GPR.pdf
 .. _DCIP_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/DCIP.pdf
 .. _EM_QB: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/EM.pdf
+.. _Teams 2019: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/Teams.txt
 
 
 Course Description
