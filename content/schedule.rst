@@ -253,7 +253,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Seismic Reflection App: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2Fseismic%2FSeis_Reflection.ipynb
 .. _GPR Attenuation App: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2Fgpr%2FGPR_Attenuation.ipynb
 .. _GPR Widget: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2Fgpr%2FGPR_TBL4_DOI_Resolution.ipynb
-.. _DC App: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2dcip%DC_SurveyDataInversion.ipynb
+.. _DC App: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2Fdcip%2FDC_SurveyDataInversion.ipynb
 .. _EM Induction App: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2Fem%2FInductionRLcircuit_Harmonic.ipynb
 .. _EM Loops App: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2Fem%2FFDEM_ThreeLoopModel.ipynb
 .. _EM Pipe App: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2Fem%2FEM_Pipeline.ipynb
