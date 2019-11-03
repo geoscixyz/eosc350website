@@ -128,7 +128,7 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |- Midterm review                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
-|     | 4 |10|| EM            |- `GPG EM`_                  |- `EM Lecture 1`_                  | - Lab 8 EM 1                 | - `Devin`_   |
+|     | 4 |10|| EM            |- `GPG EM`_                  |- `EM Lecture 1`_                  | - `Lab 8 EM 1`_              | - `Devin`_   |
 |     |   |  ||               |- `EM Loops App`_            |                                   |                              | - `Lucas`_   |
 |     |   |  ||               |- `EM Pipe App`_             |                                   |                              |              |
 |     |   |  ||               |- `EM 31 App`_               |                                   |                              |              |
@@ -242,7 +242,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Lab 5 Seismic Part 2: https://github.com/geoscixyz/eosc350website/raw/master/assets/2019/3_Seismology/Lab5_2019_Student_Copy.pdf
 .. _Lab 6 GPR: https://github.com/geoscixyz/eosc350website/raw/master/assets/2019/4_GPR/Lab6_2019_Student_Copy.pdf
 .. _Lab 7 DC: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/5_DC/Lab7/Lab7_Student_Copy.pdf
-.. _Lab 8 EM 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/Lab8.pdf
+.. _Lab 8 EM 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/6_EM/Lab8.pdf
 .. _Lab 9 EM 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/Lab9.docx
 .. _em-31.xls: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/em-31.xls
 
