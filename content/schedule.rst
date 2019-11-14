@@ -126,7 +126,7 @@ This page will be updated regularly throughout the year, check it often.
 +-----+---+  +----------------+-----------------------------+-----------------------------------+                              |              |
 |Nov  |  1|  || DC            |- `DCIP Practice Questions`_ |- **DC Quiz**                      |                              |              |
 |     |   |  ||               |                             |- Midterm review                   |                              |              |
-|     |   |  ||               |                             |                                   |                              |              |
+|     |   |  ||               |                             |- `DC Quiz Answers`_               |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
 |     | 4 |10|| EM            |- `GPG EM`_                  |- `EM Lecture 1`_                  | - `Lab 8 EM 1`_              | - `Devin`_   |
 |     |   |  ||               |- `EM Loops App`_            |                                   |                              | - `Lucas`_   |
@@ -150,11 +150,11 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
 |     | 15|  || EM            | - `EM Practice Questions`_  |                                   |                              |              |
-|     |   |  ||               |                             | - TBL 5 Assignment                |                              |              |
-|     |   |  ||               |                             |                                   |                              |              |
+|     |   |  ||               |                             | - `TBL 5 Assignment`_             |                              |              |
+|     |   |  ||               |                             | - `em31 data`_                    |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
-|     | 18|12|| IP            | - `GPG IP`_                 |                                   | - Lab 9 EM 2                 | - `Devin`_   |
-|     |   |  ||               |                             | - `IP Lecture 1`_                 | - em-31.xls                  | - `Lucas`_   |
+|     | 18|12|| IP            | - `GPG IP`_                 |                                   | - `Lab 9 EM 2`_              | - `Devin`_   |
+|     |   |  ||               |                             | - `IP Lecture 1`_                 |                              | - `Lucas`_   |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
 |     | 20|  || IP            | - `TBL 6 Case History`_     |- **EM Quiz**                      |                              |              |
@@ -243,8 +243,8 @@ This page will be updated regularly throughout the year, check it often.
 .. _Lab 6 GPR: https://github.com/geoscixyz/eosc350website/raw/master/assets/2019/4_GPR/Lab6_2019_Student_Copy.pdf
 .. _Lab 7 DC: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/5_DC/Lab7/Lab7_Student_Copy.pdf
 .. _Lab 8 EM 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/6_EM/Lab8.pdf
-.. _Lab 9 EM 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/Lab9.docx
-.. _em-31.xls: https://github.com/ubcgif/eosc350website/raw/master/assets/2018/6_EM/em-31.xls
+.. _Lab 9 EM 2: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/6_EM/Lab9_Student_Copy.pdf
+.. _em31 data: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/6_EM/em-31.xls
 
 .. ------------- Apps ---------------------------
 .. _Magnetic Dipole App: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2Fmag%2FMagneticDipoleApplet.ipynb
@@ -257,7 +257,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _EM Induction App: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2Fem%2FInductionRLcircuit_Harmonic.ipynb
 .. _EM Loops App: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2Fem%2FFDEM_ThreeLoopModel.ipynb
 .. _EM Pipe App: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2Fem%2FEM_Pipeline.ipynb
-.. _EM 31 App: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2FEM_EM31.ipynb
+.. _EM 31 App: https://mybinder.org/v2/gh/geoscixyz/gpgLabs/master?filepath=notebooks%2Fem%2FEM_EM31.ipynb
 
 
 .. ------------- TBL ----------------------------
@@ -265,7 +265,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _TBL 2 Assignment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/2_Magnetics/TBL2_Student_Copy.pdf
 .. _TBL 3 Assignment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/3_Seismology/TBL3_2019_Student_Copy.pdf
 .. _TBL 4 Assignment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/4_GPR/TBL4_Student_Copy.pdf
-.. _TBL 5 Assignment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/5_DCIP/TBL5_Student_Copy.pdf
+.. _TBL 5 Assignment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/6_EM/TBL5_Student_Copy.pdf
 .. _TBL 6 Assignment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/7_IP/TBL6_Student_Copy.pdf
 
 .. ------------- Question bank ----------------------------
@@ -293,6 +293,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _Practice Midterm Ans: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/Exams/Midterm2018_answers.pdf
 .. _Midterm Eq Sheet: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/midterm_eq_sheet.png
 .. _GPR Quiz Answers: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/4_GPR/Quiz_4_GPR_Answer_Key_2019.pdf
+.. _DC Quiz Answers: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/5_DC/Quiz_DC_2019_Answer_Key.pdf
 
 .. ------------- DATA -----------------
 .. _Raw Magnetic Data: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/2_Magnetics/RawData_2019.xlsx
