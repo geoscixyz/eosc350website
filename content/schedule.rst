@@ -158,7 +158,7 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
 |     | 20|  || IP            | - `TBL 6 Case History`_     |- **EM Quiz**                      |                              |              |
-|     |   |  ||               |                             |- TBL 6 Assignment                 |                              |              |
+|     |   |  ||               |                             |- `TBL 6 Assignment`_              |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
 |     |   |  || Review        |                             |- Wrap up lecture                  |                              |              |
@@ -266,7 +266,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _TBL 3 Assignment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/3_Seismology/TBL3_2019_Student_Copy.pdf
 .. _TBL 4 Assignment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/4_GPR/TBL4_Student_Copy.pdf
 .. _TBL 5 Assignment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/6_EM/TBL5_Student_Copy.pdf
-.. _TBL 6 Assignment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/7_IP/TBL6_Student_Copy.pdf
+.. _TBL 6 Assignment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/7_IP/TBL6_2019_student_copy.pdf
 
 .. ------------- Question bank ----------------------------
 .. _Prop Practice Questions: https://github.com/ubcgif/eosc350website/raw/master/assets/QuestionBank/Intro_properties.pdf
