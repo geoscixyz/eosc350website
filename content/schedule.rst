@@ -161,7 +161,7 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |- `TBL 6 Assignment`_              |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
-|     |   |  || Review        |                             |- Wrap up lecture                  |                              |              |
+|     |   |  || Review        |                             |- `Wrap Up Lecture`_               |                              |              |
 |     | 22|  ||               |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
@@ -228,7 +228,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _EM Lecture 3: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/6_EM/EM_lecture_3.pdf
 .. _EM Lecture 4: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/6_EM/EM_lecture_4.pdf
 .. _IP Lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/7_IP/IP_lecture.pdf
-.. _Final wrap-up & assessment: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/8_WrapUp/8_WrapUp2019.pdf
+.. _Wrap Up Lecture: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/8_WrapUp/8_WrapUp2019.pdf
 .. _DC/IP review: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/7_IP/IP_lecture.pdf
 
 .. _Review Lecture: notpostedyet.html
