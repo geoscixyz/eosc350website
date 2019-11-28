@@ -165,11 +165,11 @@ This page will be updated regularly throughout the year, check it often.
 |     | 22|  ||               |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
-|     | 25|13|| Review        |                             |- Review Lecture 1                 | - No Lab!                    |              |
+|     | 25|13|| Review        |                             |- `Review Lecture Questions`_      | - No Lab!                    |              |
 |     |   |  ||               |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
-|     | 27|  || Review        |                             |- Review Lecture 2                 |                              |              |
+|     | 27|  || Review        |                             |- `Review Lecture Questions`_      |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
@@ -229,6 +229,7 @@ This page will be updated regularly throughout the year, check it often.
 .. _EM Lecture 4: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/6_EM/EM_lecture_4.pdf
 .. _IP Lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/7_IP/IP_lecture.pdf
 .. _Wrap Up Lecture: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/8_WrapUp/8_WrapUp2019.pdf
+.. _Review Lecture Questions: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/8_WrapUp/8_Review_Lecture_Questions.pdf
 .. _DC/IP review: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/7_IP/IP_lecture.pdf
 
 .. _Review Lecture: notpostedyet.html
