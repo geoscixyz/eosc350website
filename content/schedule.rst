@@ -20,6 +20,9 @@ This page will be updated regularly throughout the year, check it often.
 .. Midterm answers can be downloaded here: `Midterm answers`_.
 
 
+**The formulat sheet given on the final exam can be downloaded here:** `Formula Sheet`_
+
+
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
 |month|day|wk|topics          |resources                    |activity                           |lab                           |TA            |
 |     |   |  |                |                             |                                   |                              |Contact       |
@@ -166,12 +169,12 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |                                   |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
 |     | 25|13|| Review        |                             |- `Review Lecture Questions`_      | - No Lab!                    |              |
-|     |   |  ||               |                             |                                   |                              |              |
-|     |   |  ||               |                             |                                   |                              |              |
+|     |   |  ||               |                             |- `Review Lecture Answers`_        |                              |              |
+|     |   |  ||               |                             |- `DC and EM sketches`_            |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
 |     | 27|  || Review        |                             |- `Review Lecture Questions`_      |                              |              |
-|     |   |  ||               |                             |                                   |                              |              |
-|     |   |  ||               |                             |                                   |                              |              |
+|     |   |  ||               |                             |- `Review Lecture Answers`_        |                              |              |
+|     |   |  ||               |                             |- `DC and EM sketches`_            |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
 |     | 29|  ||               |                             |- Final wrap-up & assessment       |                              |              |
 |     |   |  ||               |                             |                                   |                              |              |
@@ -184,6 +187,7 @@ This page will be updated regularly throughout the year, check it often.
 .. ------------- General ------------------------
 .. _Syllabus: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/syllabus2019.pdf
 .. _Teams 2019: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/Teams.txt
+.. _Formula Sheet: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/FormulaSheet.pdf
 
 
 .. ------------- GPG ----------------------------
@@ -230,6 +234,8 @@ This page will be updated regularly throughout the year, check it often.
 .. _IP Lecture 1: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/7_IP/IP_lecture.pdf
 .. _Wrap Up Lecture: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/8_WrapUp/8_WrapUp2019.pdf
 .. _Review Lecture Questions: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/8_WrapUp/8_Review_Lecture_Questions.pdf
+.. _Review Lecture Answers: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/8_WrapUp/8_Review_Lecture_Answers.pdf
+.. _DC and EM sketches: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/8_WrapUp/8_DCandEMsketches.pdf
 .. _DC/IP review: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/7_IP/IP_lecture.pdf
 
 .. _Review Lecture: notpostedyet.html
