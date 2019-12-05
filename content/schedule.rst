@@ -177,8 +177,8 @@ This page will be updated regularly throughout the year, check it often.
 |     |   |  ||               |                             |- `DC and EM sketches`_            |                              |              |
 +     +---+  +----------------+-----------------------------+-----------------------------------+                              |              |
 |     | 29|  ||               |                             |- Final wrap-up & assessment       |                              |              |
-|     |   |  ||               |                             |                                   |                              |              |
-|     |   |  ||               |                             |                                   |                              |              |
+|     |   |  ||               |                             |- `Practice Final`_                |                              |              |
+|     |   |  ||               |                             |- `Practice Final Ans`_            |                              |              |
 +-----+---+--+----------------+-----------------------------+-----------------------------------+------------------------------+--------------+
 
 
@@ -301,6 +301,8 @@ This page will be updated regularly throughout the year, check it often.
 .. _Midterm Eq Sheet: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/midterm_eq_sheet.png
 .. _GPR Quiz Answers: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/4_GPR/Quiz_4_GPR_Answer_Key_2019.pdf
 .. _DC Quiz Answers: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/5_DC/Quiz_DC_2019_Answer_Key.pdf
+.. _Practice Final: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/Exams/Practice_Final_2018_Questions.pdf
+.. _Practice Final Ans: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/Exams/Practice_Final_2018_Answers.pdf
 
 .. ------------- DATA -----------------
 .. _Raw Magnetic Data: https://github.com/ubcgif/eosc350website/raw/master/assets/2019/2_Magnetics/RawData_2019.xlsx
