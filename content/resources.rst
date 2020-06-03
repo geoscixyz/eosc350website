@@ -29,7 +29,7 @@ To open an run Jupyter notebooks for lab exercises, please do the following
 
     2. On the desktop, open the *Anaconda Prompt*. This command line will automatically open in the *Z:* folder
 
-    3. Use 'cd your-folder' to navigate to your working folder. For example: 'cd user14'. Each student has been given a folder that contains the core programing. The name of your folder is provided in the `Teams 2019`_ file.
+    3. Use 'cd your-folder' to navigate to your working folder. For example: 'cd user14'. Each student has been given a folder that contains the core programing. The name of your folder is provided in the **Teams 2019** file.
 
     4. Within the command line, type the command 'jupyter notebook' and press enter. This will start Jupyter notebooks in a tab within your web browser. This may take a while.
 
